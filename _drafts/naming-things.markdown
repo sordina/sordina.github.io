@@ -66,3 +66,19 @@ These are both popular open-source libraries. I don't even care who came first.
 Whoever was second should have chosen another name. Not to mention that
 "Shakespeare" is already a very competetive search term. At least it is
 relevant to the domain of content authoring and text.
+
+
+### Visual Studio Code
+
+> "I'm really surprised Windows isn't called Microsoft Operating System,
+>  or Operating System for short."
+
+<https://news.ycombinator.com/reply?id=10588453&goto=item%3Fid%3D10588264>
+
+asdfasf
+
+
+asdfasdf
+
+
+### SQL Server
