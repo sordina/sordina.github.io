@@ -3,7 +3,7 @@
 
   {% include head.html %}
 
-  <body>
+  <body class="{{ (page.tags || []).join(' ') }} {{ (page.categories || []).join(' ') }}" >
 
     {% include header.html %}
 

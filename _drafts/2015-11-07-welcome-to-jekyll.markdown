@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Jekyll - Keeping as a Template"
 date:   2015-11-07 18:47:30
 categories: jekyll update
 ---
