@@ -8,7 +8,7 @@ layout: default
     <section>
         {% for post in site.posts limit:1 %}
             <header class="major">
-                <h2>Recently ~ <a href="{{ post.url }}">{{ post.title }}</a></h2>
+                <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
                 <p class="post-meta">
                   {{ post.date | date: "%b %-d, %Y" }}
                   {% if post.author %} • {{ post.author }}{% endif %}
