@@ -2,6 +2,7 @@
 layout: post
 title: "Naming Things"
 categories: rant talk
+author: wizzard
 ---
 
 Legend goes that there are two hard problems in
@@ -75,10 +76,14 @@ relevant to the domain of content authoring and text.
 
 <https://news.ycombinator.com/reply?id=10588453&goto=item%3Fid%3D10588264>
 
-asdfasf
 
+### Lego
 
-asdfasdf
+"Let's Encrypt - For Go!"
+
+A two-for-one here. Very cute, but seriously?
+
+<https://github.com/xenolf/lego>
 
 
 ### SQL Server
