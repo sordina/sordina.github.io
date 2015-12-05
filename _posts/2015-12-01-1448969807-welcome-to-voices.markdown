@@ -7,7 +7,7 @@ tags: everyman
 
 ---
 
-Welcome to Voices.
+<img src="/images/fulls/cabbages.jpg" class="fit image"> Welcome to Voices.
 
 This is a place for ideas, reactions, etc.
 

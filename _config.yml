@@ -1,12 +1,13 @@
 # Site settings
 title: Voices
 email: contact@sordina.net
-description: >
-  A place for ideas, reactions, etc.
-  In the voices of the 12 common archetypes.
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: ""
 url: "http://sordina.github.io/"
 github_username: sordina
+description: A place for ideas, reactions, etc. In the voices of the 12 archetypes.
 
 # Build settings
 markdown: kramdown
+exclude:
+  - bak
+  - themes
