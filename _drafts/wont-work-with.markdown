@@ -13,7 +13,8 @@ experience working with them. This may rub off on some impressionable
 new developers that they should jump in and get their hands dirty
 with these infamous things. By publishing a series of posts in the
 style of Derek's "Won't Work With" articles, I hope to provide
-some balance to this prospect.
+some balance to this prospect. With that said, let's talk about
+AngularJS!
 
 <!--more-->
 
