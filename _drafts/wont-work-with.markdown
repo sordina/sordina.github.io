@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Things I Won't Work With: AngularJS"
+title: "Tech I Won't Work With: AngularJS"
 excerpt_separator: <!--more-->
 ---
 
