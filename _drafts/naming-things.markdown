@@ -87,3 +87,11 @@ A two-for-one here. Very cute, but seriously?
 
 
 ### SQL Server
+
+### PyPy
+
+<http://pypy.org/>
+
+### PyPi
+
+<https://pypi.python.org/pypi>
