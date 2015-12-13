@@ -16,6 +16,8 @@ that once the author has accomplished the task, either through
 struggle, or great fortune, they forget that the quest is not
 yet over.
 
+<!--more-->
+
 Our intrepid author should remember not to lose sight
 of other easier, more boring, but equally important rules
 surrounding the primary task:

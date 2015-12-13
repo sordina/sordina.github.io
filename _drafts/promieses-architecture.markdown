@@ -5,3 +5,5 @@ categories: blog
 ---
 
 Promises Architecture
+
+<!--more-->

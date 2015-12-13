@@ -11,3 +11,5 @@ Categories for Greedy Bastards
 	Examples:
 		* Switch from a pure to an impure implementation
 		* ...
+
+<!--more-->

@@ -5,3 +5,5 @@ categories: jekyll update
 ---
 
 How to Audit Haskell Projects
+
+<!--more-->

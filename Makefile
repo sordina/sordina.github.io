@@ -9,3 +9,8 @@ help:
 .PHONY: serve
 serve:
 	bundle exec jekyll serve --watch --drafts
+
+devel:
+	commando -p cat -j -q \
+		| grep --line-buffered html \
+		| conscript chromereload jekyll

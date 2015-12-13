@@ -11,3 +11,5 @@ AusPostMortem
 	Audience: Silverpond? Blog?
 	Project requirements
 	Asking ourselves: What do we want?
+
+<!--more-->

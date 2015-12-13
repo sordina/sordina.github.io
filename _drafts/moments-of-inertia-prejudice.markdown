@@ -5,3 +5,5 @@ categories: jekyll update
 ---
 
 Prejudice and Moments of Inertia
+
+<!--more-->

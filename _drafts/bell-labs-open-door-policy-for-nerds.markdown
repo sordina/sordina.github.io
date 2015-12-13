@@ -5,3 +5,5 @@ categories: rant talk
 ---
 
 Bell Labs' Open-Door Policy for Nerds.
+
+<!--more-->

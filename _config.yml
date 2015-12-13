@@ -1,16 +1,13 @@
-# Site settings
-title: Voices
+title: Arrows
 email: contact@sordina.net
-baseurl: ""
 url: "http://sordina.github.io/"
 github_username: sordina
 description: >
-  ~ <a href="/">Voices</a> ~ <br/>
-  A place for ideas, reactions, etc. In the voices of
-  <a href="http://www.soulcraft.co/essays/the_12_common_archetypes.html">The 12 Archetypes</a>.
+  Composition as Expression
 
 # Build settings
 markdown: kramdown
+excerpt_separator: <!--more-->
 exclude:
   - bak
   - themes
