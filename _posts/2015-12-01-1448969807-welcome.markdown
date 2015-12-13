@@ -20,7 +20,7 @@ to be retroactively improved in the future.
 
 <!--more-->
 
-I've named the blog "Arrows - Composition as Expression" as
-I've found that a compositional approach to problem solution
+I've named the blog "Bows and Arrows - Composition as Expression"
+as I've found that a compositional approach to problem solution
 is a very re-usable tool, as well as being easy to explain.
 
