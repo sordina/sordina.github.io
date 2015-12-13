@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Naming Things"
-categories: rant talk
-author: wizzard
+categories: blog
 ---
 
 Legend goes that there are two hard problems in

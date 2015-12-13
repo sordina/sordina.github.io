@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AusPostMortem"
-categories: jekyll update
+categories: blog
 ---
 
 AusPostMortem

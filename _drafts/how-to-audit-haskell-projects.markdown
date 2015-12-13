@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Audit Haskell Projects"
-categories: jekyll update
+categories: blog
 ---
 
 How to Audit Haskell Projects

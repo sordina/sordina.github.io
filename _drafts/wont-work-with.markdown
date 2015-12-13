@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tech I Won't Work With: AngularJS"
-excerpt_separator: <!--more-->
+categories: blog
 ---
 
 Derek Lowe has a series of articles titled "Things I Won’t Work With" [^1],
