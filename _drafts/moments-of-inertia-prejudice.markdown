@@ -14,6 +14,10 @@ categories: blog
 * There /are/ trends, useful-generalizations
 * The moment-of-inertia from mathematics provides a way to easily establish a useful generalization
 * Definition of Moment-of-inertia
+* Summation
+* Integration
+* Approximation
+* Use in engineering
 * What is neutral?
 * How to the analogy applies
 * Example

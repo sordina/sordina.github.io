@@ -2,7 +2,6 @@
 layout: post
 title:  "Everything but the Last Step"
 categories: blog
-tags: magician
 ---
 
 I write a lot of convenience scripts day-to-day. These usually take the form of
@@ -40,5 +39,3 @@ text editor, etc. etc. The principle is that you allow your scripts
 to be used in the middle of a pipeline, rather than just at the end.
 
 This principle applies to many things, not just visualization scripts.
-
-_\- Magician_
