@@ -13,6 +13,8 @@ For example, I wrote a small python script to plot two columns of CSV input
 and then display them to me called
 [plot-columns.py](https://gist.github.com/sordina/5de735198c3250538075).
 
+<!--more-->
+
 This script takes in numeric columns of CSV input and then renders a PNG
 of the values in a line-chart. As a last-step this script used to open the file
 with OS-X's Preview, because that's what I use to view PNGs.
