@@ -1,0 +1,26 @@
+---
+
+layout: post
+title:  "Welcome"
+categories: blog
+
+---
+
+<img src="/images/fulls/cabbages.jpg" class="fit image" />
+
+This is a place for ideas, reactions, etc.
+
+I'm still putting the look-and-feel of the blog together, so
+expect the structure and style of the site to change frequently
+for the next while.
+
+I'm also brain-dumping a lot of ideas since I haven't used a blog
+in a while, so if the editing quality is rough, expect the posts
+to be retroactively improved in the future.
+
+<!--more-->
+
+I've named the blog "Arrows - Composition as Expression" as
+I've found that a compositional approach to problem solution
+is a very re-usable tool, as well as being easy to explain.
+
