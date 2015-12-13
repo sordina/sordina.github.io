@@ -4,6 +4,14 @@ title:  "Categories for Greedy Bastards"
 categories: blog
 ---
 
+<!--
+
+* What are categories?
+* Why are they cool?
+* How does this differ from modules?
+
+-->
+
 Why would a regular programmer be interested in category theory?
 
 How can it actually <em>save them code</em> in real life?
