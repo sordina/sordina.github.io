@@ -4,6 +4,8 @@ title:  "Tech-Grid"
 categories: blog
 ---
 
+<img src="/images/tech-grid/overview.jpg" class="fit image" /> 
+
 I work as a consultant on projects that are going throgh
 their prototyping/early-development phases. Part of this
 process is to choose an architechture that will solve

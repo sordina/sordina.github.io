@@ -4,7 +4,7 @@ layout: default
 
 
 <!-- Main -->
-<div id="main">
+<div id="main" class="index">
     <section>
         {% for post in site.posts limit:1 %}
             <header class="major">
@@ -15,8 +15,9 @@ layout: default
                   {% if page.meta %} • {{ page.meta }}{% endif %}
                 </p>
             </header>
-            <section>
+            <section class="more">
                 {{ post.excerpt }}
+                <p><a class="more-link" href="{{ post.url }}">...</a></p>
             </section>
         {% endfor %}
     </section>
@@ -33,17 +34,10 @@ layout: default
                           {% if page.meta %} • {{ page.meta }}{% endif %}
                         </p>
                     </header>
-                    <section>
+                    <section class="more">
                         {{ post.excerpt }}
+                        <p><a class="more-link" href="{{ post.url }}">...</a></p>
                     </section>
-                    <!--
-                    <footer>
-                        <ul class="actions">
-                            <li><a href="{{ post.url }}">...</a></li>
-                            <li><hr /></li>
-                        </ul>
-                    </footer>
-                    -->
                 </article>
 
             {% endfor %}
