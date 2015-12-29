@@ -96,3 +96,11 @@ A two-for-one here. Very cute, but seriously?
 ### PyPi
 
 <https://pypi.python.org/pypi>
+
+### BLOG
+
+> Bayesian Logic (BLOG) is a probabilistic modeling language.
+
+It is also ungooglable.
+
+<http://bayesianlogic.github.io>
