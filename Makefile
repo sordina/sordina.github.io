@@ -13,4 +13,4 @@ serve:
 devel:
 	commando -p cat -j -q \
 		| grep --line-buffered html \
-		| conscript chromereload jekyll
+		| conscript chromereload 4000
