@@ -2,7 +2,7 @@
 layout: default
 ---
 <div id="main">
-    <article>
+    <article class="{% if page.draft %} draft {% endif %}">
         <header class="major">
           <h2 class="post-title"><a href="{{ page.url }}">{{ page.title }}</a></h2>
           <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
