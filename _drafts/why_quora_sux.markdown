@@ -32,10 +32,25 @@ briefly, they fall into the following categories:
   good at outside-the-box thinking the respondent is, often
   explicitly ignoring the drive of the question
 
-Dumb Questions:
+## Dumb Questions:
 
-* ...
+* [Is the United States a police state?](https://www.quora.com/Is-the-United-States-a-police-state)
 
-Dumb Answers:
+Who could they possibly be hoping answers this?
+
+* [Do you like reading fictions?](https://www.quora.com/Do-you-like-reading-fictions)
+
+What?
+
+* [https://www.quora.com/What is it like to kill someone 2?](https://www.quora.com/What-is-it-like-to-kill-someone-2)
+
+How many times can peope ask this???
+
+* [https://www.quora.com/How do I find an industrial laundry plant?](https://www.quora.com/How-do-I-find-an-industrial-laundry-plant)
+
+Is this really something you need to ask on Quora? Who else would be interested in this??
+
+
+## Dumb Answers:
 
 * ...
