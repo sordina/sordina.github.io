@@ -60,4 +60,8 @@ able to be calculated if you can calculate an average, with just one other
 piece of information - what you feel should be considered "neutral".
 This tool is the Moment-of-Inertia[^1]
 
+Further reading:
+
+* <a href="http://andrewxhill.com/blog/2016/01/04/idea-averaging/">Idea Averaging</a>
+
 [^1]: <a href="https://en.wikipedia.org/wiki/Moment_of_inertia">Moment of Inertia - Wikipedia</a>

@@ -9,6 +9,8 @@ that intends to capture the Expert Answer market outside of the domain of
 [Stack-Exchange](http://stackexchange.com/). Meaning, questions that are more subjective,
 or about experience, and that do not have a difinitive answer.
 
+<img src="/images/QuoraSux/QuoraQ.png" class="fit image" />
+
 This sounds great, so why do I think Quora Sucks?
 
 <!--more-->
@@ -21,6 +23,7 @@ briefly, they fall into the following categories:
 * Quora is spammy
 * Quora is a walled garden
 * Quora abuses SEO
+* Quora has bad scrollback / link-follow / refresh behaviour
 
 ## Community Reasons
 
@@ -28,3 +31,11 @@ briefly, they fall into the following categories:
 * The top answers almost always serve to show how smart and
   good at outside-the-box thinking the respondent is, often
   explicitly ignoring the drive of the question
+
+Dumb Questions:
+
+* ...
+
+Dumb Answers:
+
+* ...
