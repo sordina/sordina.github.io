@@ -14,6 +14,10 @@ categories: blog
 
 -->
 
+<img src="/images/death-to-standups/178821871_2800eaf196_o.jpg"
+     title="https://www.flickr.com/photos/seedingchaos/178821871/in/photolist-gNvvH-piWFZ9-botKqV-dV3qMg-aw34uC-dnhMfa-9vjVs7-axZLz4-btM6WV-aC4wJp-aC7cgb-x7yqHe-dofFNd-dofzUr-mq9iFq-akXA2x-dVd22Z-aL7Gb2-bHp7Zv-yvA59A-dxWhqM-df8rRZ-df8uEp-9q3QfR-9z51Bq-aN19Y4-94FJjm-arinGN-4PvsHW-axZKj6-aL7oji-9Jso9a-wpwX6T-8bibL2-iB6kFH-eb36bh-eaWEsV-ay3qdU-df8uow-9vgSsV-j1xAdD-dofDDm-6jE1EJ-bx5scq-aC7ffo-97zWiG-dFsueJ-bfVSaz-daX6E6-udLjtz"
+     class="fit image" />
+
 The standup is a mainstay of modern agile development teams.
 
 It evolved as an attempt to keep meetings short and regular.
@@ -39,3 +43,15 @@ communication between team members these days, why do we need a wacky
 meeting structure like stand-up at all?
 
 Can't we just tell each other what we're doing on slack?
+
+I've been experiementing with a simple newsletter aiming to do a weekly
+round-up of the top slack posts in order to facilitate cohesion and
+shared focus.
+
+Properties:
+
+* A heading for each team-member, hilighting interesting Slack exerpts
+* If there was nothing shared, then simply the text "No Update"
+
+This is intended to encorage sharing within the channel anything
+interesting, so that people are aware of their own visibility.
