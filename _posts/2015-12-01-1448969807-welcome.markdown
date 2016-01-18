@@ -22,4 +22,9 @@ to be retroactively improved in the future.
 I've named the blog "Bows and Arrows - Composition as Expression"
 as I've found that a compositional approach to problem solution
 is a very re-usable tool, as well as being easy to explain.
+It is also a nice pun, as there is somwhat of a hunting theme to
+the site, I play the cello, arrows are a common Haskell and
+category-theoretical concept, composition fits into both music,
+and program construction, and expressions can be considered
+pure values, as well as the process of creative reification.
 
