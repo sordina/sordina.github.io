@@ -1,0 +1,122 @@
+---
+layout: post
+title: "Death to the Standup Cult"
+categories: blog
+---
+
+<!--
+
+* What are standups?
+* Why might you not want to stand up?
+* Chat
+* Synopses
+* What else can we do?
+
+-->
+
+<img src="/images/death-to-standups/178821871_2800eaf196_o.jpg"
+     title="https://www.flickr.com/photos/seedingchaos/178821871/in/photolist-gNvvH-piWFZ9-botKqV-dV3qMg-aw34uC-dnhMfa-9vjVs7-axZLz4-btM6WV-aC4wJp-aC7cgb-x7yqHe-dofFNd-dofzUr-mq9iFq-akXA2x-dVd22Z-aL7Gb2-bHp7Zv-yvA59A-dxWhqM-df8rRZ-df8uEp-9q3QfR-9z51Bq-aN19Y4-94FJjm-arinGN-4PvsHW-axZKj6-aL7oji-9Jso9a-wpwX6T-8bibL2-iB6kFH-eb36bh-eaWEsV-ay3qdU-df8uow-9vgSsV-j1xAdD-dofDDm-6jE1EJ-bx5scq-aC7ffo-97zWiG-dFsueJ-bfVSaz-daX6E6-udLjtz"
+     class="fit image" />
+
+The standup is a mainstay of modern agile development teams.
+
+It evolved as an attempt to keep meetings short and regular:
+
+* We want to facilitate communication
+* Meetings attempt to do this, but are unstructured, and go on too long
+* If we stand when we have a meeting, peoples legs will get sore, and the
+  meeting will have to be kept short
+* Stand-up meetings still go on too long, and lack structure, but now our
+  legs are sore too
+
+The thrust of enhancing communication is to ensure that everyone knows
+what other members of the team are up to, and what the current focus is.
+This ritual is often paired with Kanban style card walls so that tasks and
+progress can be represented symbolically and made visible. This can be
+beneficial, but doesn't necessarily have to be part of stand-up itself.
+
+<!--more-->
+
+Given that we have the means and the motivation for more on-line
+communication between team members these days, why do we need a wacky
+meeting structure like stand-up at all?
+
+Can't we just tell each other what we're doing on IM?
+
+I've been experimenting with a simple newsletter aiming to do a weekly
+round-up of the top IM team channel posts in order to facilitate cohesion and
+shared focus. This is modeled on the
+[Haskell Weekly News newsletter.](https://wiki.haskell.org/Haskell_Weekly_News)
+
+Properties:
+
+* A heading for each team-member, highlighting interesting IM excerpts
+* If there was nothing shared, then simply the text "No Update"
+
+This is intended to encourage sharing within the channel anything
+interesting, so that people are aware of their own visibility.
+
+## Pitfalls
+
+* The editor could be perceived to use this as a venue for self-promotion
+
+A possible remedy for this could be to rotate the editor.
+
+## An Example
+
+    ==============================
+    January 11  -  January 15 2015
+    ------------------------------
+
+    Corp Analysis Team Weekly News Lives at
+    https://corp.atlassian.net/wiki/display/CATWeeklyNews
+
+    ~~~ New Developments ~~~
+
+    * Debora was promoted to Senior Analyst
+    * We launched version two of our numeric incrementer REST API!
+
+    ~~~ Top Undertakings ~~~
+
+    * Data Dumping
+    * Number Crunching
+    * User Acquisition
+
+    ~~~ Team Members ~~~
+
+    Amy Anderson
+    * Joined the team, said Hi on Slack
+
+    Brent Bronson
+    * Raised concerns about slow corporate wireless
+    * Assisted with upgrading Menix servers
+
+    Caleb Carlson
+    * Got standalone crab cluster delivered to marketing
+
+    Debora Drummond
+    * Crunched the highest number to date!
+    * Blocking procedure augmentation in progress
+
+    Eric Emerson
+    * Got funding approved for expansion in Q3
+
+    Felicia Forbes
+    * No update
+
+If there is no update, then including the team-member with a "No Update"
+item ensures that they aren't forgotten about, and reminds them that
+if they had something they wanted highlighted, then they can mention it
+on IM to have it included in the next newsletter.
+
+The new-developments and top-undertakings sections provide a space for
+news not explicitly related to individual members, as well as a spot
+to reiterate the team's focus. This should never grow too large, as
+that would indicate a dilution of what should be perceived as a shared
+goal.
+
+It's often worth re-examining ritual so that we don't fall into a cargo-cult
+mentality. If we look more deeply at the purpose of the ritual, then we may
+be able to factor out the implementation and have more focused and orthogonal
+practices to achieve the goals. This allows teams to be more asynchronous,
+but just as effective.
