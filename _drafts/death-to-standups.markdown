@@ -55,3 +55,9 @@ Properties:
 
 This is intended to encorage sharing within the channel anything
 interesting, so that people are aware of their own visibility.
+
+## Pitfalls
+
+* The editor could be percieved to use this as a venue for self-promotion
+
+A possible remedy for this could be to rotate the editor.
