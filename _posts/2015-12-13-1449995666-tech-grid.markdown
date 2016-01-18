@@ -6,12 +6,12 @@ categories: blog
 
 <img src="/images/tech-grid/overview.jpg" class="fit image" /> 
 
-I work as a consultant on projects that are going throgh
+I work as a consultant on projects that are going through
 their prototyping/early-development phases. Part of this
-process is to choose an architechture that will solve
+process is to choose an architecture that will solve
 the clients current problems, but is flexible enough to
-accomodate scope changes in the future.
-Building out the architecture involves chosing technology
+accommodate scope changes in the future.
+Building out the architecture involves choosing technology
 to fulfil facets of the architecture, but this in turn
 shapes the architecture as no technology will fit perfectly
 and certain technologies will approximately solve
@@ -33,7 +33,7 @@ way that you can combat these issues. The simplest way is to just
 keep a list of every piece of technology you are using.
 But then there are categories of tech, services, your own services,
 languages, data-types/schemas, etc, etc.
-As well as the multitude of items that rappidly appear, there's
+As well as the multitude of items that rapidly appear, there's
 also the problem of tracking how these pieces interact, and
 when they can be removed from your list.
 
@@ -54,7 +54,7 @@ see how the technology fits together and can be decomposed.
 <img src="/images/tech-grid/grid.png" class="fit image" /> 
 
 It is also a graph. The services being the edges, and the interactions
-between the serviecs being the edges.
+between the services being the edges.
 
 <img src="/images/tech-grid/graph.png" class="fit image" />
 
@@ -68,7 +68,7 @@ links, coloring, shapes, etc.
 
 <img src="/images/tech-grid/context.jpg" class="fit image" />
 
-This was a brain-dump of an idea I've been trialing and I'd
+This was a brain-dump of an idea I've been trailing and I'd
 like to build a small app to demonstrate this soon.
 
 Stay tuned.
