@@ -68,7 +68,7 @@ A possible remedy for this could be to rotate the editor.
     January 11  -  January 15 2015
     ------------------------------
 
-    Corp Analysis Team Weekly News Lives at
+    Corp Analysis Team Weekly News archives can be found at
     https://corp.atlassian.net/wiki/display/CATWeeklyNews
 
     ~~~ New Developments ~~~
@@ -120,3 +120,7 @@ mentality. If we look more deeply at the purpose of the ritual, then we may
 be able to factor out the implementation and have more focused and orthogonal
 practices to achieve the goals. This allows teams to be more asynchronous,
 but just as effective.
+
+So, what factor does a team newsletter encompass?
+
+I think that factor is _Cohesion._
