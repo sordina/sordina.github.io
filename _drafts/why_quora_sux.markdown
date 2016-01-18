@@ -24,6 +24,7 @@ briefly, they fall into the following categories:
 * Quora is a walled garden
 * Quora abuses SEO
 * Quora has bad scrollback / link-follow / refresh behaviour
+* Quora has bad load-more behaviour
 
 ## Community Reasons
 
@@ -42,13 +43,17 @@ Who could they possibly be hoping answers this?
 
 What?
 
-* [https://www.quora.com/What is it like to kill someone 2?](https://www.quora.com/What-is-it-like-to-kill-someone-2)
+* [What is it like to kill someone 2?](https://www.quora.com/What-is-it-like-to-kill-someone-2)
 
 How many times can peope ask this???
 
-* [https://www.quora.com/How do I find an industrial laundry plant?](https://www.quora.com/How-do-I-find-an-industrial-laundry-plant)
+* [How do I find an industrial laundry plant?](https://www.quora.com/How-do-I-find-an-industrial-laundry-plant)
 
 Is this really something you need to ask on Quora? Who else would be interested in this??
+
+* [Do rich people ever fly coach?](https://www.quora.com/Do-rich-people-ever-fly-coach)
+
+DO THEY???
 
 
 ## Dumb Answers:
