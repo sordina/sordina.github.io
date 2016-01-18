@@ -42,15 +42,15 @@ Given that we have the means and the motivation for more on-line
 communication between team members these days, why do we need a wacky
 meeting structure like stand-up at all?
 
-Can't we just tell each other what we're doing on slack?
+Can't we just tell each other what we're doing on IM?
 
 I've been experiementing with a simple newsletter aiming to do a weekly
-round-up of the top slack posts in order to facilitate cohesion and
+round-up of the top IM team channel posts in order to facilitate cohesion and
 shared focus.
 
 Properties:
 
-* A heading for each team-member, hilighting interesting Slack exerpts
+* A heading for each team-member, hilighting interesting IM exerpts
 * If there was nothing shared, then simply the text "No Update"
 
 This is intended to encorage sharing within the channel anything
