@@ -55,7 +55,14 @@ Is this really something you need to ask on Quora? Who else would be interested 
 
 DO THEY???
 
+* So much military stuff
+* Ask rich people dumb stuff
+* Relationship advice for idiots
+* Easily googleable stuff but Quorans are so special, so let's ask them!
+
 
 ## Dumb Answers:
 
-* ...
+* Let me tell you why your question is dumb, and then not answer it (very popular response)
+* I'm so cool
+* Detailed tangental boring answer
