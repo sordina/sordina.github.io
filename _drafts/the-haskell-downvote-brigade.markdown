@@ -70,7 +70,8 @@ can fix the scraping script:
 
 	cat ~/bin/get-subreddit-posts.sh
 
-{% highlight shell %}
+<!-- -->
+
 	#!/bin/bash
 	
 	SUBREDDIT=${SUBREDDIT-"$1"}
@@ -100,4 +101,3 @@ can fix the scraping script:
 		if [ ! "$BEFORE" ] || [ "$BEFORE" == "null" ]; then break; fi
 		((INDEX++))
 	done
-{% endhighlight %}

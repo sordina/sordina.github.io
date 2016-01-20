@@ -1,0 +1,20 @@
+---
+layout: default
+title: Post Index
+permalink: /posts/
+---
+
+<!-- Main -->
+<div id="main" class="index">
+    <section>
+      <h2><a href="{{ page.url }}">Post Index</a></h1>
+      <table>
+        {% for post in site.posts %}
+          <tr>
+            <td>{{ post.date | date: "%b %-d, %Y" }}</td>
+            <td> <a href="{{ post.url }}">{{ post.title }}</a> </td>
+          </tr>
+        {% endfor %}
+      </table>
+    </section>
+</div>
