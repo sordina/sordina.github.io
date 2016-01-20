@@ -11,7 +11,7 @@ or about experience, and that do not have a difinitive answer.
 
 <img src="/images/QuoraSux/QuoraQ.png" class="fit image" />
 
-This sounds great, so why do I think Quora Sucks?
+This sounds great, so what's wrong with Quora?
 
 <!--more-->
 
