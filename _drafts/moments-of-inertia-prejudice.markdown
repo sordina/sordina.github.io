@@ -26,6 +26,8 @@ categories: blog
 
 -->
 
+<img src="/images/moment-of-inertia/uniform-rigid-rod-300x155.jpg" class="fit image" title="https://www.miniphysics.com/uy1-calculation-of-moment-of-inertia-of-uniform-rigid-rod.html" />
+
 Extreme opinions on neuanced topics are a-dime-a-dozen. It's easy to ignore the
 fact that there are many diverse views on these kinds of subjects and focus only
 on your own, but another common occurance is creating extreme cacacatures of
