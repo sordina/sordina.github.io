@@ -50,12 +50,11 @@ Do you have non-flippant answers to the following questions?
 
 ## Examples of good critique
 
-## Recommendations
+## Recommendations For an aspiring critic
 
-### For an aspiring critic
-
-### For someone observing a poor critique
+## Recommendations For someone observing a poor critique
 
 ## Links
 
 <https://en.wikipedia.org/wiki/Art_criticism>
+<https://www.reddit.com/r/nottheonion/comments/425dmp/artist_to_sit_naked_on_a_toilet_for_two_days_to/>
