@@ -14,6 +14,73 @@ tracking of communication and _intent_.
 
 <!--more-->
 
+## Service Architecture
+
+<!--
+    database;
+    backend;
+    client_service;
+    verifying_client_service;
+    client;
+
+    database       -> backend;
+    backend        -> client_service;
+    backend        -> verifying_client_service;
+    client_service -> verifying_client_service [style=dashed];
+    client_service -> client;
+-->
+
+![](/images/promises/dot_13440.png)
+
+### Example - Slack (with email auth)
+
+<!--
+    postgres;
+    backend_api;
+    slack_api;
+    email_api;
+    slack;
+
+    postgres       -> backend_api;
+    backend_api    -> slack_api;
+    backend_api    -> email_api;
+    slack_api      -> slack;
+
+-->
+
+![](/images/promises/dot_13564.png)
+
+### Interaction - User Connects Slack to their Existing Promises Account
+
+     Email        Slack             Slack API         Email API        Backend
+     |             |                    |                   |                |
+     |             |/promise signup     |                   |                |
+     |             |           \------->|                   |                |
+     |             |            Account?|                   |                |
+     |             |<-------------/     |                   |                |
+     |             |a@b.com             |                   |                |
+     |             |     \------------->|                   |                |
+     |             |                    |verify a@slack,    |                |
+     |             |                    |       a@b.com     |                |
+     |             |                    |         \------------------------->|
+     |             |                    |                   |    Confirm Link|
+     |             |                    |                   |<-----/         |
+     |             |                    |        Email Link |                |
+     |<-------------------------------------------/         |                |
+     |Click/Reply  |                    |                   |                |
+     |   \------------------------------------------------->|                |
+     |             |                    |                   |Cool Guy        |
+     |             |                    |                   |      \-------->|
+     |             |                    |                   |         Linked!|
+     |             |                    |                   |     You're Cool|
+     |             |<------------------------------------------------/       |
+     |             |/promise @u $       |                   |                |
+     |             |      \------------>|                   |                |
+     |             |                    |   .............   |                |
+     |             |                    |   User now acts   |                |
+     |             |                    |  as authenticated |                |
+
+## Backend Entitiles
 
 | Table           | Links            | Details                                            |
 | -------------   | -----            | --------------                                     |
@@ -23,3 +90,8 @@ tracking of communication and _intent_.
 | Promises        | User -> User     | Connection between Users, with details             |
 | Acknowlegement  | User -> Promise  |                                                    |
 | Fulfilment      | User -> Promise  |                                                    |
+
+Any interactions should be tagged with both a user and an identity, this
+makes an informal audit possible.
+
+
