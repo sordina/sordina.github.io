@@ -49,6 +49,10 @@ interesting, so that people are aware of their own visibility.
 ## Pitfalls
 
 * The editor could be perceived to use this as a venue for self-promotion
+* People may not like it if they feel their work isn't being represented fairly
+  - Be ready with a pursuasive defence of this practice - emphasising that
+    all that is required is good communication with team-mates, otherwise
+    you may find that yourendvour is nipped in the bud.
 
 A possible remedy for this could be to rotate the editor.
 
