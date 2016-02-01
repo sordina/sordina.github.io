@@ -4,17 +4,17 @@ title:  "Barry Lyndon is a Comedy"
 categories: blog
 ---
 
-I came across a link to an article about Stanley Kubrick's Barry Lyndon:
+<img class="fit image" src="/images/barry-lyndon-comedy/relaxing.png" title="http://www.frockflicks.com/wp-content/uploads/2015/01/barry2.jpeg" />
 
-<http://www.cinephiliabeyond.org/stanley-kubricks-barry-lyndon/>
-
-Linked to from Hacker News:
-
-<https://news.ycombinator.com/item?id=11008979>
+I came across a link to an article about
+[Stanley Kubrick's Barry Lyndon](http://www.cinephiliabeyond.org/stanley-kubricks-barry-lyndon/),
+linked to from [Hacker News](https://news.ycombinator.com/item?id=11008979).
 
 I wrote a couple of comment responses and have preserved them here.
 
-<https://news.ycombinator.com/reply?id=11011112&goto=item%3Fid%3D11008979>
+<!--more-->
+
+## [dkh](https://news.ycombinator.com/reply?id=11011112&goto=item%3Fid%3D11008979)
 
 	I think this is true, but that the beauty is meant to serve as a farcical
 	contrast to the triviality and lack of meaning in Barry's story. The point was
@@ -24,10 +24,8 @@ I wrote a couple of comment responses and have preserved them here.
 	conviction hardly deserving a second thought.
 
 
-<https://news.ycombinator.com/reply?id=11011161&goto=item%3Fid%3D11008979>
+## [wobbleblob](https://news.ycombinator.com/reply?id=11011161&goto=item%3Fid%3D11008979)
 	
-	wobbleblob 1 hour ago | parent | flag
-
 	Every time this film is mentioned, I'm reminded of the old fairly tale, the
 	emperor's new clothes.
 
