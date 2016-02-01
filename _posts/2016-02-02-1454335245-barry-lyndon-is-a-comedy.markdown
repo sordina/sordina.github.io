@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Barry Lyndon is a Comedy"
+title: "Barry Lyndon is a Comedy"
 categories: blog
 ---
 

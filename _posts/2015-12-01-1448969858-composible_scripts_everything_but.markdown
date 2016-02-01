@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Everything but the Last Step"
+title: "Everything but the Last Step"
 categories: blog
 ---
 
