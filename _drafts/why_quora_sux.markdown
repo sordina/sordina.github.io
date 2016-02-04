@@ -55,11 +55,14 @@ Is this really something you need to ask on Quora? Who else would be interested 
 
 DO THEY???
 
+* [Which special forces has the absolute toughest training in the world?](https://www.quora.com/Which-special-forces-has-the-absolute-toughest-training-in-the-world)
+
+I swear I read this every week.
+
 * So much military stuff
 * Ask rich people dumb stuff
 * Relationship advice for idiots
 * Easily googleable stuff but Quorans are so special, so let's ask them!
-
 
 ## Dumb Answers:
 
