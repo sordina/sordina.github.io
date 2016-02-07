@@ -22,6 +22,28 @@ This should be true not only for users, but also for third-party service provide
 
 What would this look like at its core, and how could this evolve in the future?
 
+At the core, I see Promises being a platform for tracking the commitments that you
+have made, and providing a way for these commitments to be confirmed by the
+receiving party. This would be realized by direct action through one of the
+translational client-service apis, such as the web-application, the slack
+"/promise" command, etc. Or alternatively, through one of the stateful, observational
+apis, such as a slack-bot, an SMS concierge style interactive agent, or
+something event more advanced.
+
+The interesting paths that Promises can evolve down in the future would nearly
+all be characterized as third-party service integrations, even if they
+are developed by the same people who make Promises.
+
+These services could include
+
+* Promotional Services
+* Matchmaking
+* Promise fulfilment prioritization
+* Promise making suggestions
+* Trustworthiness ratings
+* Relationship analysis,
+* Etc.
+
 ## Service Architecture
 
 <!--
