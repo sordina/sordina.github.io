@@ -95,3 +95,8 @@ read the article.
 
 I'll go ahead and read OP's link now and see if any of my ideas are vindicated :)
 
+## After reading the article,
+
+I found that the thrust to be quite different to what I had expressed, however
+there was a reference to the "satiric novel", so I guess it's time to read the
+book.
