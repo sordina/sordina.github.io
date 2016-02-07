@@ -8,12 +8,12 @@ categories: blog
      title="https://www.flickr.com/photos/ditatompel/4650762539/in/photolist-85YnF2-jgsaZi-8Gz9Zp-mgFCQQ-k9T5EU-jAyT6D-dSNHrp-5cxjZ-MAwyf-qr9F4f-a1eLNm-b6Wy1i-oF5J28-8Hnv8U-qr9DuU-8QogK7-4nXTrf-8543iX-5krye5-axjLJD-6uAR6m-D3mW5b-61M2po-au5fmY-8iUvbU-7FAHEc-cADEjb-8jeyRC-7pPPxV-68Gdtt-oFiRwd-8ZCSaF-rX74SB-rX73XR-8ZCSr6-rh9hSC-heQh73-epTFrK-8pLBTP-cVZd2u-o3msB5-77q7wn-3sBrkX-6XWnCz-bRY9b2-bU5kwn-4HFWCg-bU5hQZ-bU5iE2-6VC33r"
      class="fit image" />
 
-The Promise app intends to reify promises (informal contracts) between parties,
+Promises intends to reify promises (informal contracts) between parties,
 establishing a notion of identity easily and _transferably_, and facilitating
 tracking of communication and _intent_.
 
 Flexible identity services and management should make integrating new services
-and identities into the promises ecosystem both straight-foward, and painless.
+and identities into the promises ecosystem both straight-forward, and painless.
 This should be true not only for users, but also for third-party service providers.
 
 <!--more-->
@@ -33,9 +33,9 @@ What would this look like at its core, and how could this evolve in the future?
 At the core, I see Promises being a platform for tracking the commitments that you
 have made, and providing a way for these commitments to be confirmed by the
 receiving party. This would be realized by direct action through one of the
-translational client-service apis, such as the web-application, the slack
+translational client-service APIs, such as the web-application, the slack
 "/promise" command, etc. Or alternatively, through one of the stateful, observational
-apis, such as a slack-bot, an SMS concierge style interactive agent, or
+APIs, such as a slack-bot, an SMS concierge style interactive agent, or
 something event more advanced.
 
 The interesting paths that Promises can evolve down in the future would nearly
