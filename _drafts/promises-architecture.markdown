@@ -18,6 +18,14 @@ This should be true not only for users, but also for third-party service provide
 
 <!--more-->
 
+## Contents
+
+* [Contents](#contents)
+* [Daydreaming](#daydreaming)
+* [Service Architecture](#service-architecture)
+* [Backend Entities](#backend-entities)
+* [Identity](#identity)
+
 ## Daydreaming
 
 What would this look like at its core, and how could this evolve in the future?
@@ -177,7 +185,7 @@ EOF
      |             |                    |   User now acts   |                |
      |             |                    |  as authenticated |                |
 
-## Backend Entitiles
+## Backend Entities
 
 | Table           | Links            | Details                                            |
 | -------------   | -----            | --------------                                     |
@@ -185,10 +193,13 @@ EOF
 | Provider        |                  | External Identity Providers (Slack, Linkdin, etc.) |
 | Identity        | User -> Provider |                                                    |
 | Promises        | User -> User     | Connection between Users, with details             |
-| Acknowlegement  | User -> Promise  |                                                    |
+| Acknowledgement | User -> Promise  |                                                    |
 | Fulfilment      | User -> Promise  |                                                    |
 
 Any interactions should be tagged with both a user and an identity, this
 makes an informal audit possible.
+
+
+## Identity
 
 
