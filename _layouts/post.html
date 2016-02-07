@@ -22,14 +22,10 @@ layout: default
                     <header>
                         <h2><a href="{{ page.previous.url }}">{{ page.previous.title }}</a></h2>
                     </header>
-                    <section>
+                    <section class="more">
                         {{ page.previous.excerpt }}
+                        <p><a class="more-link" href="{{ post.previous.url }}">...</a></p>
                     </section>
-                    <footer>
-                        <ul class="actions">
-                            <li><a href="{{ page.previous.url }}" class="button">Read More</a></li>
-                        </ul>
-                    </footer>
                 </article>
             {% endif %}
 
@@ -39,14 +35,10 @@ layout: default
                     <header>
                         <h2><a href="{{ page.next.url }}">{{ page.next.title }}</a></h2>
                     </header>
-                    <section>
+                    <section class="more">
                         {{ page.next.excerpt | markdownify }}
+                        <p><a class="more-link" href="{{ post.next.url }}">...</a></p>
                     </section>
-                    <footer>
-                        <ul class="actions">
-                            <li><a href="{{ page.next.url }}" class="button">Read More</a></li>
-                        </ul>
-                    </footer>
                 </article>
             {% endif %}
 

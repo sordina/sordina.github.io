@@ -9,9 +9,9 @@
 
 /* Additions */
 
-	.index .more-link { border-bottom: none; }
-	.index .more :nth-last-child(2),
-	.index .more :nth-last-child(2) :last-child
+	#main .more-link { border-bottom: none; }
+	#main .more :nth-last-child(2),
+	#main .more :nth-last-child(2) :last-child
 	{
 		margin-bottom: 0;
 		padding-bottom: 0;

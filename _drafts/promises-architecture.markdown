@@ -12,7 +12,15 @@ The Promise app intends to reify promises (informal contracts) between parties,
 establishing a notion of identity easily and _transferably_, and facilitating
 tracking of communication and _intent_.
 
+Flexible identity services and management should make integrating new services
+and identities into the promises ecosystem both straight-foward, and painless.
+This should be true not only for users, but also for third-party service providers.
+
 <!--more-->
+
+## Daydreaming
+
+What would this look like at its core, and how could this evolve in the future?
 
 ## Service Architecture
 
@@ -23,7 +31,7 @@ cat <<EOF | digraph | OUTPUT=images/promises/dot_13440.png dotshow
     client_service;
     verifying_client_service;
     translational_client;
-    stateful_client;;
+    stateful_client;
     privelaged_client;
 
     database                 -> backend;
@@ -56,9 +64,47 @@ snaplets rather than running them as an external service.
 An example of a client performing a largely translational role would be the
 Sack "Forward-Slash" API.
 
-#### Stateful
-#### Verifiable
-#### External
+#### "Stateful"
+
+A stateful service maintains internal state that is useful for the service,
+but not nececerily for the backend. This could be used for providing
+bots with persistant connections, concierge style interactions with users,
+large-scale machine-learning capabilities, whatever can be expressed
+as a service-gateway specific concept that doesn't justify integration
+into the back-end.
+
+An example of a stateful service would be a Slack Bot, with two main kinds
+of state:
+
+* Connection State (Connection to the Slack Channel, etc.)
+* Interaction State (Previous interactions with users, etc.)
+
+#### "Verifiable"
+
+Verifiable services provide a mechanism for users to initially perform
+identity confirmation during sign-up, as well as for use during multi-factor
+style authentication for other operations in the system.
+
+The identity services are intended to provide an identity-provider network
+that should allow users to associate new accounts, and drop unused or
+untrusted accounts with ease.
+
+An example of a verified service would be an Email Gateway.
+
+#### "External"
+
+External entities may wish to provide services that interact with the
+promises backend. The architecture of the promise application should
+be such that there should be no reason why third parties couldn't
+use the backend in the same manner in which internal services do.
+
+The backend-api is intended to be versioned and stable, so that intagration
+can be dependable and well documented.
+
+An example of an external client-service would be "Linkdin" if they decided
+to integrate promises into their messaging platform.
+
+<hr />
 
 ### Example - Slack (with email auth)
 
