@@ -97,6 +97,7 @@ I'll go ahead and read OP's link now and see if any of my ideas are vindicated :
 
 ## After reading the article,
 
-I found that the thrust to be quite different to what I had expressed, however
+I found the thrust to be quite different to what I had expressed, however
 there was a reference to the "satiric novel", so I guess it's time to read the
-book.
+book for a definitive understanding of the intent of the author -
+[William Makepeace Thackeray.](https://en.wikipedia.org/wiki/William_Makepeace_Thackeray)
