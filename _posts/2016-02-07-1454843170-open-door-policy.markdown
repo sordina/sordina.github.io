@@ -4,9 +4,13 @@ title: "Open-Door Policy"
 categories: blog
 ---
 
+<img class="fit image"
+     src="/images/open-door-policy/doorknobs.png"
+     title="https://www.flickr.com/photos/hernanpc/9297447441/in/photolist-fazRcX-q4cBTQ-DSuehV-5UGXME-bCMdMw-e1QJxH-47nAmx-CUg8fS-xNTYFm-XxEy-8z5DWC-69bcgA-nj1UHG-9gEzcP-q5of53-dP3Amr-962hwY-iz7B-4nDdhq-asbefW-bKzeya-dHSqy3-zmdpDU-9PVSPo-2Nrxxr-drJP3F-drJQwB-drK3ho-drK36S-drK2YL-drK4GC-drK2FN-drJSQF-2Chib-oADECx-6uTVG9-qRp3gb-uRXSwX-dST8sR-oTDurt-5NazF8-4LMzDR-drJV16-drJW64-drJZrQ-4sKmid-drJRSe-drK2vu-77F1i2-bqJxJx" />
+
 There's a story about some of the old Bell Labs offices that is told by
 Richard Hamming in his lecture
-[You and your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html) [^1]
+[You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html) [^1]
 given at the Bell Communications Research Colloquium Seminar 
 in 1986:
 
@@ -105,4 +109,4 @@ failing to gain impressions from body-language and tenor for how
 compelling certain trends, views, and arguments are with your
 peers.
 
-[^1]: <http://www.cs.virginia.edu/~robins/YouAndYourResearch.html>
+[^1]: [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
