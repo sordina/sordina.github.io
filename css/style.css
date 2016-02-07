@@ -17,6 +17,10 @@
 		padding-bottom: 0;
 	}
 
+	#main p img {
+		max-width: 100%;
+	}
+
 /* Basic */
 
 	body {

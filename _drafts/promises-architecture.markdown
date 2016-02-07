@@ -17,24 +17,53 @@ tracking of communication and _intent_.
 ## Service Architecture
 
 <!--
+cat <<EOF | digraph | OUTPUT=images/promises/dot_13440.png dotshow
     database;
     backend;
     client_service;
     verifying_client_service;
-    client;
+    translational_client;
+    stateful_client;;
+    privelaged_client;
 
-    database       -> backend;
-    backend        -> client_service;
-    backend        -> verifying_client_service;
-    client_service -> verifying_client_service [style=dashed];
-    client_service -> client;
+    database                 -> backend;
+    backend                  -> client_service;
+    backend                  -> verifying_client_service;
+    backend                  -> translational_client;
+    client_service           -> verifying_client_service [style=dashed];
+    client_service           -> stateful_client;
+    verifying_client_service -> privelaged_client;
+EOF
 -->
 
 ![](/images/promises/dot_13440.png)
 
+### Types of Client Services
+
+There are a few factors that may be present in the various categories client services...
+
+#### "Translational"
+
+These exist mainly to pass information dircetly through to the backend-api,
+they simply translate some simple information, such as removing client-specific
+prefixes, translating user-identities, and so on.
+
+Translational APIs have a property that their computational requirements should
+scale perfectly linearly with the backend-api. Since this is the case, it makes
+sense to integrate them into the backend service as a sub-application via
+snaplets rather than running them as an external service.
+
+An example of a client performing a largely translational role would be the
+Sack "Forward-Slash" API.
+
+#### Stateful
+#### Verifiable
+#### External
+
 ### Example - Slack (with email auth)
 
 <!--
+cat <<EOF | digraph | OUTPUT=images/promises/dot_13564.png dotshow
     postgres;
     backend_api;
     slack_api;
@@ -45,7 +74,7 @@ tracking of communication and _intent_.
     backend_api    -> slack_api;
     backend_api    -> email_api;
     slack_api      -> slack;
-
+EOF
 -->
 
 ![](/images/promises/dot_13564.png)
