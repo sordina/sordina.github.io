@@ -1,9 +1,108 @@
 ---
 layout: post
-title: "Bell Labs' Open-Door Policy for Nerds"
+title: "Open-Door Policy"
 categories: blog
 ---
 
-Bell Labs' Open-Door Policy for Nerds.
+There's a story about some of the old Bell Labs offices that is told by
+Richard Hamming in his lecture
+[You and your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html) [^1]
+given at the Bell Communications Research Colloquium Seminar 
+in 1986:
+
+> Another trait, it took me a while to notice. I noticed the following facts
+	about people who work with the door open or the door closed. I notice that if
+	you have the door to your office closed, you get more work done today and
+	tomorrow, and you are more productive than most. But 10 years later somehow you
+	don't know quite know what problems are worth working on; all the hard work you
+	do is sort of tangential in importance. He who works with the door open gets
+	all kinds of interruptions, but he also occasionally gets clues as to what the
+	world is and what might be important. Now I cannot prove the cause and effect
+	sequence because you might say, "The closed door is symbolic of a closed mind."
+	I don't know. But I can say there is a pretty good correlation between those
+	who work with the doors open and those who ultimately do important things,
+	although people who work with doors closed often work harder. Somehow they seem
+	to work on slightly the wrong thing - not much, but enough that they miss fame.
 
 <!--more-->
+
+The lesson here, for me, is that you need to be very careful that you
+aren't creating a closed-space for yourself, otherwise you may be inadvertently
+left behind when it comes to crucial trends and incidental information
+that ends up being the linchpin for deciding on new directions and
+investigating new ideas.
+
+Of course, in an office environment where the choice is between having your
+door open, or having it closed, it's clear when you are putting yourself
+in a bubble. Maybe we need to update this observation for the modern
+workplace:
+
+## Obvious Closed Doors
+
+* Closed office door
+
+Ha-ha. Nobody has a private office anymore... :(
+
+* Remote work
+
+Remote work seems to have had the downsides in terms of productivity
+and business impact examined quite closely, however, what is the
+impact on the individual? Could they be closing their door by
+working remotely? This seems like it could be the closest analog to
+the original phenomenon in common practice today.
+
+* Odd hours
+
+Although you could still have a large overlap of time spent with
+your colleagues, there may be a consistent, crucial time of day where
+people relax, shoot the shit and discuss great (and terrible) new
+ideas. If you keep a consistent, odd schedule, then you may miss
+out on this recurring opportunity.
+
+## Insidious Closed Doors
+
+* Yes Men
+
+Putting yourself in an echo chamber is quite hard to do, but it is
+possible, and will you know when you've done it?
+
+* Hyper-Focus
+
+Building the ability to focus single-mindedly on a task is a skill
+that most people would claim they are attempting to attain, but
+once possessing this skill, or even while attempting to acquire it
+there is a possibility that they could believe that because they
+immerse themselves in the world, that they will be present in the
+world. In reality they could be in a closed-space in their own head.
+
+* Pervasive Negativity
+
+There are ways in which you can feel you are being rational, or honest
+which seem like the only downside would be filtering out people
+you wouldn't want to converse with anyway... Well, I've lost count of
+the number of times I've simply stopped talking to these people after
+concluding that most interactions with them were going to be
+unpleasant in the future. I know that I'm not the only one doing this.
+Do they know that they are working in a closed-space?
+
+## Conclusions
+
+It's important to keep in mind that the pitfalls I'm trying to identify
+here are really for the individual. They should not be used by teams
+and leaders to push for conformity, oppressive work environments, or
+9-5 culture. But as with most choices, it helps to weigh up the pros
+and cons. There may be a hidden down-side in some of these scenarios
+that you can take into account when you might otherwise end up
+inadvertently closing a door.
+
+Of course, when the lecture was given the world was a different place.
+It's certainly possible that in today's more connected environment
+the danger isn't as great for missing out on trends and information.
+But I feel that the abstract danger is still there.
+Losing touch with collaborators within your grasp, missing out on
+building an understanding of the local zeitgeist, and even simply
+failing to gain impressions from body-language and tenor for how
+compelling certain trends, views, and arguments are with your
+peers.
+
+[^1]: <http://www.cs.virginia.edu/~robins/YouAndYourResearch.html>
