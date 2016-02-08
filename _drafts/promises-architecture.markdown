@@ -25,6 +25,8 @@ This should be true not only for users, but also for third-party service provide
 * [Service Architecture](#service-architecture)
 * [Backend Entities](#backend-entities)
 * [Identity](#identity)
+* [Hosting / Deployment](#hosting--deployment)
+* [Roadmap](#roadmap)
 
 ## Daydreaming
 
@@ -216,3 +218,37 @@ I would like to be able to:
 * Associate previously disassociated accounts and identities
 * Promote non-verifying services to verifying services through a service trust network
 * Make a promise to someone who does not yet have a promises account
+
+## Hosting / Deployment
+
+## Roadmap
+
+Provide a set of check-points in terms of functionality.
+
+### Checkpoint 1 - Hello World
+
+Spin up snap with stack, run hello world web-application.
+
+### Checkpoint 2 - Fake Slack-Slash API
+
+Re-code the hello-world web-app to provide a /command API
+that can be used by simple Slack /promise commands,
+such as "make" and "list".
+
+### Checkpoint 3 - AWS Elastic Beanstalk Hosting
+
+Configure the application with Docker to allow simple hosting
+on AWS Elastic Beanstalk. Perform a proof-of-concept deployment
+and Configure Slack to use the hosted endpoint.
+
+Test that a user-interaction through slack behaves as expected.
+Once this has been tested the hosted application can be decomissioned
+until further development has been completed.
+
+### Checkpoint 4 - Backend Service
+
+### Checkpoint 5 - Database
+
+### Checkpoint 6 - Identity
+
+### Checkpoint 7 - AWS Hosting Version 2
