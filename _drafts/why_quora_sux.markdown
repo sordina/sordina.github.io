@@ -69,3 +69,20 @@ I swear I read this every week.
 * Let me tell you why your question is dumb, and then not answer it (very popular response)
 * I'm so cool
 * Detailed tangental boring answer
+
+## Other points of view
+
+It's funny, I've had this quite-strong reinforced experience with Quora over the last few
+years and my convictions have become so strong that I'd accepted that my oppinions were
+almost certainly fact. Until I had a conversation with my friend...
+
+I sat down for a drink and started to talk about Quora, I opened with something
+like "Do you read Quora? How about that Quora hey?", expecting to begin a fun
+hate-session where we both agreed how much Quora sucked.
+
+Much to my surprise, his impressions of Quora were almost the exact opposite of mine,
+and this wasn't because he interpreted the same content differently from me. No,
+he was being shown an entirely different set of content. After describing what he was
+seeing, it seemed that his perspective was _also_ totally reasonable.
+
+Something quite interesting is going on here :-)
