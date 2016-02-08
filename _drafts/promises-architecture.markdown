@@ -202,4 +202,16 @@ makes an informal audit possible.
 
 ## Identity
 
+Rather than trying to describe the identity model from the get-go,
+I'd first like to outline a few standard and interesting use-cases
+involving identity in Promises, and from there, factor out the model.
 
+I would like to be able to:
+
+* Sign-in, and out through the promises web-app.
+* Have 2nd factor auth verify who I am for important interactions with Promises
+* Sign-in to promises via a connected service (such as slack)
+* Disconnect services from my identity
+* Retroactively retract non-verified promises
+* Associate previously disassociated accounts and identities
+* Promote non-verifying services to verifying services through a service trust network
