@@ -215,3 +215,4 @@ I would like to be able to:
 * Retroactively retract non-verified promises
 * Associate previously disassociated accounts and identities
 * Promote non-verifying services to verifying services through a service trust network
+* Make a promise to someone who does not yet have a promises account
