@@ -16,15 +16,21 @@ Notes:
 
 Perception of value can be characterized as global, or domestic.
 
-	     Body 1                 Body 2
-	+--------------+       +--------------+
-	|              |  A    |              |
-	|   Party 1 ---------> |   Party 3    |
-	|              |       |              |
-	|      |       |  B    |      |       |
-	|      |       | ----> |      |       |
-	|      V       |       |      V       |
-	|              |  C    |              |
-	|   Party 2  ------------> Party 4    |
-	|              |       |              |
-	+--------------+       +--------------+
+	     Body 1                  Body 2
+	+--------------+        +--------------+
+	|              |   A    |              |
+	|   Party 1 ----------> |   Party 3    |
+	|              |        |              |
+	|      |       |   B    |      |       |
+	|      |       | -----> |      |       |
+	|      V       |        |      V       |
+	|              |   C    |              |
+	|   Party 2  -------------> Party 4    |
+	|              |        |              |
+	+--------------+        +--------------+
+	
+	                Party 5
+
+Notes:
+
+* Tropical Geometry of minimums and maximums
