@@ -252,3 +252,7 @@ until further development has been completed.
 ### Checkpoint 6 - Identity
 
 ### Checkpoint 7 - AWS Hosting Version 2
+
+Hosted CI through [Shippable.](https://app.shippable.com/)
+
+Run docker compose stack through [AWS ECS.](http://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html)
