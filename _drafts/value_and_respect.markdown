@@ -50,10 +50,10 @@ Perception of value can be characterized as global, or domestic.
 | BB2   | B            | Body 2    | [Group] the actions of a member of another group toward itself?
 | CB2   | C            | Body 2    | [Group] the actions of another group towards itself?
 | DB2   | D            | Body 2    | [Group] the actions of a member of another group towards one of its members?
-| EB2   | E            | Body 2    | (Same as FB1) [Group] the interactions between the members of another group?
-| FB2   | F            | Body 2    | 
-| AP1   | A            | Party 1   | 
-| BP1   | B            | Party 1   | 
+| EB2   | E            | Body 2    | (Same as FB1)
+| FB2   | F            | Body 2    | (Same as EB1)
+| AP1   | A            | Party 1   | [Member] the actions of its group towards a member of another group?
+| BP1   | B            | Party 1   | [Member] their own actions towards another group?
 | CP1   | C            | Party 1   | 
 | DP1   | D            | Party 1   | 
 | EP1   | E            | Party 1   | 

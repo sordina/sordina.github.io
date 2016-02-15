@@ -12,3 +12,9 @@ I feel the only answer I have at the moment is that
 they have to trust you.
 
 Building trust is another matter entirely.
+
+<!--more-->
+
+## Methods of Fostering Trust
+
+* <https://en.wikipedia.org/wiki/Trust_(social_sciences)>
