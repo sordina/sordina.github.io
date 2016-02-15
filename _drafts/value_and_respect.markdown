@@ -34,17 +34,19 @@ Perception of value can be characterized as global, or domestic.
 	
 	                Party 5
 
+* Group Perceptions - What does it mean for a group to percieve?
+
 | ------------ | -------------- | --------------------------- |
 | Interaction  | As Observed By | Comment                     |
 | ------------ | -------------- | --------------------------- |
-| A            | Body 1         |                             |
-| B            | Body 1         |                             |
-| C            | Body 1         |                             |
-| D            | Body 1         |                             |
-| E            | Body 1         |                             |
-| F            | Body 1         |                             |
-| A            | Body 2         |                             |
-| B            | Body 2         |                             |
+| A            | Body 1         | How does a group percieve its collective actions in reference to the member of another group?
+| B            | Body 1         | How does a group percieve the actions of one of its members in relation to another group?
+| C            | Body 1         | How does a group percieve its collective actions towards another group?
+| D            | Body 1         | How does a group percieve the actions of one of its members towards the member of another group?
+| E            | Body 1         | How does a group percieve the interactions between its members?
+| F            | Body 1         | How does a group percieve the interactions between the members of another group?
+| A            | Body 2         | How does a group percieve the actions of another group towards a particular one of its members?
+| B            | Body 2         | How does a group percieve the actions of a member of another group toward itself?
 | C            | Body 2         |                             |
 | D            | Body 2         |                             |
 | E            | Body 2         |                             |
