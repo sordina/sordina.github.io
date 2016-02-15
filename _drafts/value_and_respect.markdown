@@ -35,52 +35,53 @@ Perception of value can be characterized as global, or domestic.
 	                Party 5
 
 * Group Perceptions - What does it mean for a group to percieve?
+* Canonical form - Observations relative to a perciever
 
-| ------------ | -------------- | --------------------------- |
-| Interaction  | As Observed By | Comment                     |
-| ------------ | -------------- | --------------------------- |
-| A            | Body 1         | How does a group percieve its collective actions in reference to the member of another group?
-| B            | Body 1         | How does a group percieve the actions of one of its members in relation to another group?
-| C            | Body 1         | How does a group percieve its collective actions towards another group?
-| D            | Body 1         | How does a group percieve the actions of one of its members towards the member of another group?
-| E            | Body 1         | How does a group percieve the interactions between its members?
-| F            | Body 1         | How does a group percieve the interactions between the members of another group?
-| A            | Body 2         | How does a group percieve the actions of another group towards a particular one of its members?
-| B            | Body 2         | How does a group percieve the actions of a member of another group toward itself?
-| C            | Body 2         |                             |
-| D            | Body 2         |                             |
-| E            | Body 2         |                             |
-| F            | Body 2         |                             |
-| A            | Party 1        |                             |
-| B            | Party 1        |                             |
-| C            | Party 1        |                             |
-| D            | Party 1        |                             |
-| E            | Party 1        |                             |
-| F            | Party 1        |                             |
-| A            | Party 2        |                             |
-| B            | Party 2        |                             |
-| C            | Party 2        |                             |
-| D            | Party 2        |                             |
-| E            | Party 2        |                             |
-| F            | Party 2        |                             |
-| A            | Party 3        |                             |
-| B            | Party 3        |                             |
-| C            | Party 3        |                             |
-| D            | Party 3        |                             |
-| E            | Party 3        |                             |
-| F            | Party 3        |                             |
-| A            | Party 4        |                             |
-| B            | Party 4        |                             |
-| C            | Party 4        |                             |
-| D            | Party 4        |                             |
-| E            | Party 4        |                             |
-| F            | Party 4        |                             |
-| A            | Party 5        |                             |
-| B            | Party 5        |                             |
-| C            | Party 5        |                             |
-| D            | Party 5        |                             |
-| E            | Party 5        |                             |
-| F            | Party 5        |                             |
+| ----- | ------------ | ----------| ------------------------------------- |
+| ID    | Interaction  | Observer  | Comment (How does a [X] percieve... ) |
+| ----- | ------------ | ----------| ------------------------------------- |
+| AB1   | A            | Body 1    | [Group] its collective actions in reference to the member of another group?
+| BB1   | B            | Body 1    | [Group] the actions of one of its members in relation to another group?
+| CB1   | C            | Body 1    | [Group] its collective actions towards another group?
+| DB1   | D            | Body 1    | [Group] the actions of one of its members towards the member of another group?
+| EB1   | E            | Body 1    | [Group] the interactions between its members?
+| FB1   | F            | Body 1    | [Group] the interactions between the members of another group?
+| AB2   | A            | Body 2    | [Group] the actions of another group towards a particular one of its members?
+| BB2   | B            | Body 2    | [Group] the actions of a member of another group toward itself?
+| CB2   | C            | Body 2    | [Group] the actions of another group towards itself?
+| DB2   | D            | Body 2    | [Group] the actions of a member of another group towards one of its members?
+| EB2   | E            | Body 2    | (Same as FB1) [Group] the interactions between the members of another group?
+| FB2   | F            | Body 2    | 
+| AP1   | A            | Party 1   | 
+| BP1   | B            | Party 1   | 
+| CP1   | C            | Party 1   | 
+| DP1   | D            | Party 1   | 
+| EP1   | E            | Party 1   | 
+| FP1   | F            | Party 1   | 
+| AP2   | A            | Party 2   | 
+| B     | B            | Party 2   | 
+| C     | C            | Party 2   | 
+| D     | D            | Party 2   | 
+| E     | E            | Party 2   | 
+| F     | F            | Party 2   | 
+| A     | A            | Party 3   | 
+| B     | B            | Party 3   | 
+| C     | C            | Party 3   | 
+| D     | D            | Party 3   | 
+| E     | E            | Party 3   | 
+| F     | F            | Party 3   | 
+| A     | A            | Party 4   | 
+| B     | B            | Party 4   | 
+| C     | C            | Party 4   | 
+| D     | D            | Party 4   | 
+| E     | E            | Party 4   | 
+| F     | F            | Party 4   | 
+| A     | A            | Party 5   | 
+| B     | B            | Party 5   | 
+| C     | C            | Party 5   | 
+| D     | D            | Party 5   | 
+| E     | E            | Party 5   | 
+| F     | F            | Party 5   | 
 
 
 Notes:
