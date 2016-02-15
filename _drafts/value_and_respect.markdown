@@ -36,6 +36,8 @@ Perception of value can be characterized as global, or domestic.
 
 * Group Perceptions - What does it mean for a group to percieve?
 * Canonical form - Observations relative to a perciever
+* Self deception and self perception
+* Can we remove the 'F' arrow?
 
 | ----- | ------------ | ----------| ------------------------------------- |
 | ID    | Interaction  | Observer  | Comment (How does a [X] percieve... ) |
@@ -54,11 +56,11 @@ Perception of value can be characterized as global, or domestic.
 | FB2   | F            | Body 2    | (Same as EB1)
 | AP1   | A            | Party 1   | [Member] the actions of its group towards a member of another group?
 | BP1   | B            | Party 1   | [Member] their own actions towards another group?
-| CP1   | C            | Party 1   | 
-| DP1   | D            | Party 1   | 
-| EP1   | E            | Party 1   | 
-| FP1   | F            | Party 1   | 
-| AP2   | A            | Party 2   | 
+| CP1   | C            | Party 1   | [Member] their group's actions towards another group?
+| DP1   | D            | Party 1   | [Member] a sibling member's actions towards a member of another group?
+| EP1   | E            | Party 1   | [Member] their actions towards another member of their group?
+| FP1   | F            | Party 1   | [Member] the actions between another group's members?
+| AP2   | A            | Party 2   | [Member] the actions of a member of thier group towards themselves?
 | BP2   | B            | Party 2   | 
 | CP2   | C            | Party 2   | 
 | DP2   | D            | Party 2   | 
@@ -69,13 +71,13 @@ Perception of value can be characterized as global, or domestic.
 | CP3   | C            | Party 3   | 
 | DP3   | D            | Party 3   | 
 | EP3   | E            | Party 3   | 
-| FP3   | F            | Party 3   | 
+| FP3   | F            | Party 3   | (Same as EP1)
 | AP4   | A            | Party 4   | 
 | BP4   | B            | Party 4   | 
 | CP4   | C            | Party 4   | 
 | DP4   | D            | Party 4   | 
 | EP4   | E            | Party 4   | 
-| FP4   | F            | Party 4   | 
+| FP4   | F            | Party 4   | (Same as AP2)
 | AP5   | A            | Party 5   | 
 | BP5   | B            | Party 5   | 
 | CP5   | C            | Party 5   | 
