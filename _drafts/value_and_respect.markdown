@@ -13,7 +13,65 @@ Notes:
 * Respect and Value are often confused and conflated
 * Theory of Mind
 
-## The Two-Body Problem
+## The One-Party Problem
+
+	Party 1 ---+
+	   ^       |
+	   |   A   |
+	   |       |
+	   +-------+
+
+* (One party - One body) = One Party
+* Bodies only become meaningful with more than one party in them
+
+### Parties
+
+* Party 1
+
+### Actions
+
+* A
+
+### Interpretation of Actions
+
+| ----- | ------------ | ----------| ------------------------------------- |
+| ID    | Interaction  | Observer  | Comment (How does a [X] percieve... ) |
+| ----- | ------------ | ----------| ------------------------------------- |
+| AP1   | A            | Party 1   | [Party] its actions towards itself?
+
+### Theory of Mind
+
+TODO
+
+## The Minimum One-Body Problem
+
+	           Body 1
+	      +--------------+
+	      |              |
+	+-------- Party 1    |
+	| B   |              |
+	\---> |      | A     |
+	      |      |       |
+	+-----|      V       |----+
+	| C   |              |  D |
+	\-------> Party 2    | <--+
+	      |              |
+	      +--------------+
+
+### Parties
+
+TODO
+
+### Actions
+
+TODO
+
+### Interpretation of Actions
+
+TODO
+
+
+## The Minimum Two-Body Problem
 
 Perception of value can be characterized as global, or domestic.
 
