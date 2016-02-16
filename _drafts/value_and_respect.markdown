@@ -20,20 +20,21 @@ Perception of value can be characterized as global, or domestic.
 	           Body 1                  Body 2
 	      +--------------+        +--------------+
 	      |              |   A    |              |
-	      |              | ---------> Party 3    |
-	      |              |        |              |
-	      |              |   B    |      |       |
-	/-------- Party 1 ----------> |      |       |
+	      |              | ---------> Party 3 ---------+
+	      |              |        |              |   I |
+	      |              |   B    |      |       | <---/
+	+-------- Party 1 ----------> |      |       |
 	| G   |              |        |      |       |
 	\---> |      | E     |   C    |      | F     |
 	      |      |       | -----> |      |       |
-	/-----|      V       |        |      V       |
-	| H   |              |   D    |              |
-	\-------> Party 2  -------------> Party 4    |
+	+-----|      V       |        |      V       |-----+
+	| H   |              |   D    |              |   J |
+	\-------> Party 2  -------------> Party 4 <--------/
 	      |              |        |              |
 	      +--------------+        +--------------+
-	
-	                      Party 5
+	           |   ^                   |   ^
+	           | K |      Party 5      | L |
+	           +---+                   +---+
 
 Notes 2:
 
@@ -42,11 +43,10 @@ Notes 2:
 * Self deception and self perception
 * Can we remove the 'F' arrow? Only if it provides at least one unique scenario
 * Changes references of `Body` to `Group`
+* Add I,J,K and L
 
 <!-- hoe
-
 [ [y] ++ take 1 x ++ [last x] ++ " | " ++ [y] ++ " | " ++ x | x <- ["Group 1","Group 2","Party 1","Party 2","Party 3","Party 4","Party 5"], y <- "ABCDEFGH"]
-
 -->
 
 | ----- | ------------ | ----------| ------------------------------------- |
@@ -58,56 +58,56 @@ Notes 2:
 | DB1   | D            | Body 1    | [Group] the actions of one of its members towards the member of another group?
 | EB1   | E            | Body 1    | [Group] the interactions between its members?
 | FB1   | F            | Body 1    | [Group] the interactions between the members of another group?
-| GB1   | G            | Body 1    | 
-| HB1   | H            | Body 1    | 
+| GB1   | G            | Body 1    | [Group] the actions of one of its members towards itself?
+| HB1   | H            | Body 1    | [Group] its own actions towards one of its members?
 | AB2   | A            | Body 2    | [Group] the actions of another group towards a particular one of its members?
 | BB2   | B            | Body 2    | [Group] the actions of a member of another group toward itself?
 | CB2   | C            | Body 2    | [Group] the actions of another group towards itself?
 | DB2   | D            | Body 2    | [Group] the actions of a member of another group towards one of its members?
 | EB2   | E            | Body 2    | (Same as FB1)
 | FB2   | F            | Body 2    | (Same as EB1)
-| GB2   | G            | Body 2    | 
-| HB2   | H            | Body 2    | 
+| GB2   | G            | Body 2    | [Group] the actions of the member of another group towards that group?
+| HB2   | H            | Body 2    | [Group] the actions of another group towards a member of that group?
 | AP1   | A            | Party 1   | [Member] the actions of its group towards a member of another group?
 | BP1   | B            | Party 1   | [Member] their own actions towards another group?
 | CP1   | C            | Party 1   | [Member] their group's actions towards another group?
 | DP1   | D            | Party 1   | [Member] a sibling member's actions towards a member of another group?
 | EP1   | E            | Party 1   | [Member] their actions towards another member of their group?
 | FP1   | F            | Party 1   | [Member] the actions between another group's members?
-| GP1   | G            | Party 1   | 
-| HP1   | H            | Party 1   | 
-| AP2   | A            | Party 2   | [Member] the actions of a member of thier group towards themselves?
-| BP2   | B            | Party 2   | 
-| CP2   | C            | Party 2   | 
-| DP2   | D            | Party 2   | 
-| EP2   | E            | Party 2   | 
-| FP2   | F            | Party 2   | 
-| GP2   | G            | Party 2   | 
-| HP2   | H            | Party 2   | 
-| AP3   | A            | Party 3   | 
-| BP3   | B            | Party 3   | 
-| CP3   | C            | Party 3   | 
-| DP3   | D            | Party 3   | 
-| EP3   | E            | Party 3   | 
+| GP1   | G            | Party 1   | [Member] their own actions towards their group?
+| HP1   | H            | Party 1   | [Member] their group's actions towards another member of their group?
+| AP2   | A            | Party 2   | (Same as AP1)
+| BP2   | B            | Party 2   | [Member] the actions of another member of their group towards another group?
+| CP2   | C            | Party 2   | (Same as CP1)
+| DP2   | D            | Party 2   | [Member] their own actions towards a member of another group?
+| EP2   | E            | Party 2   | [Member] the actions of a member of thier group towards themselves?
+| FP2   | F            | Party 2   | (Same as FP1)
+| GP2   | G            | Party 2   | [Member] the actions of another member of its group towards its group?
+| HP2   | H            | Party 2   | [Member] the actions of its group towards itself?
+| AP3   | A            | Party 3   | [Member] the actions of another group towards itself?
+| BP3   | B            | Party 3   | [Member] the actions of a member of another group towards its own group?
+| CP3   | C            | Party 3   | [Member] the actions of another group towards its own group?
+| DP3   | D            | Party 3   | [Member] the actions of a member of another group to another member of its group?
+| EP3   | E            | Party 3   | (Same as FP1)
 | FP3   | F            | Party 3   | (Same as EP1)
-| GP3   | G            | Party 3   | 
-| HP3   | H            | Party 3   | 
-| AP4   | A            | Party 4   | 
-| BP4   | B            | Party 4   | 
-| CP4   | C            | Party 4   | 
-| DP4   | D            | Party 4   | 
-| EP4   | E            | Party 4   | 
+| GP3   | G            | Party 3   | [Member] the actions of a member of another group towards that group?
+| HP3   | H            | Party 3   | [Member] the actions of another group towards one of that group's members?
+| AP4   | A            | Party 4   | [Member] their fellow member's reception of the actions of another group them?
+| BP4   | B            | Party 4   | (Same as BP3)
+| CP4   | C            | Party 4   | (Same as CP3)
+| DP4   | D            | Party 4   | [Member] the actions of the member of another group towards themselves?
+| EP4   | E            | Party 4   | (Same as FP1)
 | FP4   | F            | Party 4   | (Same as AP2)
-| GP4   | G            | Party 4   | 
-| HP4   | H            | Party 4   | 
-| AP5   | A            | Party 5   | 
-| BP5   | B            | Party 5   | 
-| CP5   | C            | Party 5   | 
-| DP5   | D            | Party 5   | 
-| EP5   | E            | Party 5   | 
-| FP5   | F            | Party 5   | 
-| GP5   | G            | Party 5   | 
-| HP5   | H            | Party 5   | 
+| GP4   | G            | Party 4   | (Same as GP3)
+| HP4   | H            | Party 4   | (Same as HP3)
+| AP5   | A            | Party 5   | [Outsider] the actions of a group towards a member of another group?
+| BP5   | B            | Party 5   | [Outsider] the actions of a member of a group towards another group?
+| CP5   | C            | Party 5   | [Outsider] the actions of one group towards another group?
+| DP5   | D            | Party 5   | [Outsider] the actions of the member of one group towards a member of another group?
+| EP5   | E            | Party 5   | [Outsider] the actions between two members of a group?
+| FP5   | F            | Party 5   | (Same as EP5)
+| GP5   | G            | Party 5   | [Outsider] the actions of a member of a group towards its group?
+| HP5   | H            | Party 5   | [Outsider] the actions of a group towards one of its members?
 
 
 Notes 3:
