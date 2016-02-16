@@ -16,28 +16,31 @@ Notes:
 
 Perception of value can be characterized as global, or domestic.
 
-	     Body 1                  Body 2
-	+--------------+        +--------------+
-	|              |   A    |              |
-	|              | ---------> Party 3    |
-	|              |        |              |
-	|              |   B    |      |       |
-	|   Party 1 ----------> |      |       |
-	|              |        |      |       |
-	|      | E     |   C    |      | F     |
-	|      |       | -----> |      |       |
-	|      V       |        |      V       |
-	|              |   D    |              |
-	|   Party 2  -------------> Party 4    |
-	|              |        |              |
-	+--------------+        +--------------+
-	
-	                Party 5
+	               Body 1                  Body 2
+	          +--------------+        +--------------+
+	          |              |   A    |              |
+	          |              | ---------> Party 3    |
+	          |              |        |              |
+	          |              |   B    |      |       |
+	    /-------- Party 1 ----------> |      |       |
+	  G |     |              |        |      |       |
+	    \---> |      | E     |   C    |      | F     |
+	          |      |       | -----> |      |       |
+	    /-----|      V       |        |      V       |
+	  H |     |              |   D    |              |
+	    \-------> Party 2  -------------> Party 4    |
+	          |              |        |              |
+	          +--------------+        +--------------+
+
+	                          Party 5
+
+Notes 2:
 
 * Group Perceptions - What does it mean for a group to percieve?
 * Canonical form - Observations relative to a perciever
 * Self deception and self perception
-* Can we remove the 'F' arrow?
+* Can we remove the 'F' arrow? Only if it provides at least one unique scenario
+* Changes references of `Body` to `Group`
 
 | ----- | ------------ | ----------| ------------------------------------- |
 | ID    | Interaction  | Observer  | Comment (How does a [X] percieve... ) |
@@ -86,6 +89,6 @@ Perception of value can be characterized as global, or domestic.
 | FP5   | F            | Party 5   | 
 
 
-Notes:
+Notes 3:
 
 * Tropical Geometry of minimums and maximums
