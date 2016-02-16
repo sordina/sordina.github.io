@@ -12,6 +12,8 @@ Notes:
 * Example: North Korea
 * Respect and Value are often confused and conflated
 * Theory of Mind
+* How to talk about conflict
+* How to talk about interpretation and mis-interpretation of events, ideas, and perceptions
 
 ## The One-Party Problem
 
