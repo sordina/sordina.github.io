@@ -16,23 +16,23 @@ Notes:
 
 Perception of value can be characterized as global, or domestic.
 
-	               Body 1                  Body 2
-	          +--------------+        +--------------+
-	          |              |   A    |              |
-	          |              | ---------> Party 3    |
-	          |              |        |              |
-	          |              |   B    |      |       |
-	    /-------- Party 1 ----------> |      |       |
-	  G |     |              |        |      |       |
-	    \---> |      | E     |   C    |      | F     |
-	          |      |       | -----> |      |       |
-	    /-----|      V       |        |      V       |
-	  H |     |              |   D    |              |
-	    \-------> Party 2  -------------> Party 4    |
-	          |              |        |              |
-	          +--------------+        +--------------+
-
-	                          Party 5
+	           Body 1                  Body 2
+	      +--------------+        +--------------+
+	      |              |   A    |              |
+	      |              | ---------> Party 3    |
+	      |              |        |              |
+	      |              |   B    |      |       |
+	/-------- Party 1 ----------> |      |       |
+	| G   |              |        |      |       |
+	\---> |      | E     |   C    |      | F     |
+	      |      |       | -----> |      |       |
+	/-----|      V       |        |      V       |
+	| H   |              |   D    |              |
+	\-------> Party 2  -------------> Party 4    |
+	      |              |        |              |
+	      +--------------+        +--------------+
+	
+	                      Party 5
 
 Notes 2:
 
@@ -41,6 +41,12 @@ Notes 2:
 * Self deception and self perception
 * Can we remove the 'F' arrow? Only if it provides at least one unique scenario
 * Changes references of `Body` to `Group`
+
+<!-- hoe
+
+[ [y] ++ take 1 x ++ [last x] ++ " | " ++ [y] ++ " | " ++ x | x <- ["Group 1","Group 2","Party 1","Party 2","Party 3","Party 4","Party 5"], y <- "ABCDEFGH"]
+
+-->
 
 | ----- | ------------ | ----------| ------------------------------------- |
 | ID    | Interaction  | Observer  | Comment (How does a [X] percieve... ) |
