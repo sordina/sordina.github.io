@@ -46,7 +46,7 @@ Notes 2:
 * Add I,J,K and L
 
 <!-- hoe
-[ [y] ++ take 1 x ++ [last x] ++ " | " ++ [y] ++ " | " ++ x | x <- ["Group 1","Group 2","Party 1","Party 2","Party 3","Party 4","Party 5"], y <- "ABCDEFGH"]
+[ [y] ++ take 1 x ++ [last x] ++ " | " ++ [y] ++ " | " ++ x | x <- ["Group 1","Group 2","Party 1","Party 2","Party 3","Party 4","Party 5"], y <- "ABCDEFGHIJKL"]
 -->
 
 | ----- | ------------ | ----------| ------------------------------------- |
