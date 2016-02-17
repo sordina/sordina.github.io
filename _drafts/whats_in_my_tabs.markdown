@@ -7,13 +7,13 @@ tags: ["whats-in-my-tabs"]
 
 This is the start of a new post series titled "What's in my Tabs?"
 
-In it, I go through each of my open browser tabs and explain why its there.
-In the future I won't repeat tabs that have been previously discussed unless
-their presence has a new significance.
-This should also help me clear out old tabs that I've never got around to
-reading, and give me a higher-level understanding of the tabs that I have.
+In it, I go through each of my open browser tabs and explain why its there. In
+the future I won't repeat tabs that have been previously discussed unless their
+presence has a new significance. I'm also hoping that this will help me clear
+out old tabs that I've never got around to reading, and give me a higher-level
+understanding of the tabs that I have open.
 
-Without Futher Ado...
+Without Further Ado...
 
 <!--more-->
 
@@ -41,7 +41,7 @@ Noon
 
 ### Tab 11 - [Kan Extensions](http://comonad.com/reader/2008/kan-extensions/)
 
-At the Haskell Meetup ["Discussion: Freer Monads"](http://www.meetup.com/Melbourne-Haskell-Users-Group/events/227180247/)
+At the [most recent Haskell meetup](http://www.meetup.com/Melbourne-Haskell-Users-Group/events/227180247/)
 we discussed Freer Monads (Tab 12). During the course of the meetup
 [Ken Scambler](https://twitter.com/kenscambler) lent his assistance in
 understanding some of the category-theoretic concepts involved and also
