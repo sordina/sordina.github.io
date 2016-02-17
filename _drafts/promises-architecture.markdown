@@ -59,6 +59,7 @@ These services could include
 <!--
 cat <<EOF | digraph | OUTPUT=images/promises/dot_13440.png dotshow
     database;
+    database_rest_gateway;
     backend;
     client_service;
     verifying_client_service;
@@ -66,7 +67,8 @@ cat <<EOF | digraph | OUTPUT=images/promises/dot_13440.png dotshow
     stateful_client;
     privelaged_client;
 
-    database                 -> backend;
+    database                 -> database_rest_gateway;
+    database_rest_gateway    -> backend;
     backend                  -> client_service;
     backend                  -> verifying_client_service;
     backend                  -> translational_client;
