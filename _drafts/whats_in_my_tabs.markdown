@@ -133,7 +133,25 @@ to improve the foundation of my understanding of trust.
 
 ### Tab 14 - [Why the Assholes are Winning: Money Trumps All](http://onlinelibrary.wiley.com/doi/10.1111/joms.12177/full)
 
-This is an article about TODO
+This article's premise can be summed up as
+"the multiple dimensions of corporate performance and reputation are not that highly correlated - why?"
+
+Hypotheses range from the Just World fallacy, to Pavlovian conditioning.
+
+Littered with paradoxical anecdotes and examples, you would expect the text to be entertaining, but
+this felt like a major slog to read.
+
+The article also diverges into the evolution of organizational studies and how they have
+de-emphasized the human aspects of the workplace in favour of profitability and productivity.
+This is explained as and outcome of the decline of prominence of "Industrial and organizational psychology"
+within psychology departments. This is backed up by an anecdote.
+
+The conclusion ends with quotes from the Pope, and the United Nations. With a
+call for changes in research and public policy.
+
+Light on data and details, and falling back on emotional and anecdotal arguments while
+simultaneously lacking the persuasive or literary power to make such weak arguments
+bearable - I don't recommend reading it. Thankfully I can close the tab now.
 
 ### Tab 15 - [Monad transformers, free monads, mtl, laws and a new approach](https://ocharles.org.uk/blog/posts/2016-01-26-transformers-free-monads-mtl-laws.html)
 
