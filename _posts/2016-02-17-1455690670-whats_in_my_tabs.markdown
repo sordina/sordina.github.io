@@ -19,6 +19,51 @@ Without Further Ado...
 
 <!--more-->
 
+## Index
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.  [Personal Unread Email](#tab-1---sticky-personal-unread-email)
+2.  [Silverpond Inbox](#tab-2---sticky-silverpond-inbox)
+3.  [Personal Calendar](#tab-3---sticky-personal-calendar)
+4.  [Silverpond Calendar](#tab-4---sticky-silverpond-calendar)
+5.  [Tax Return](#tab-5---sticky-tax-return)
+6.  [Google Keep](#tab-6---sticky-google-keep)
+7.  [Tidal](#tab-7---sticky-tidal)
+8.  [Bows and Arrows Localhost](#tab-8---sticky-bows-and-arrows-localhost)
+9.  [Strongly-Typed Recurrent Neural Networks](#tab-9---strongly-typed-recurrent-neural-networkshttparxivorgpdf160202218pdf)
+10. [Basic Algebra, A W. Knapp](#tab-10---basic-algebra-a-w-knapphttpwwwmathstonybrookeduaknappdownloadb2-alg-coverandinsidepdf)
+11. [Kan Extensions](#tab-11---kan-extensionshttpcomonadcomreader2008kan-extensions)
+12. [Freer Monads, More Extensible Effects](#tab-12---freer-monads-more-extensible-effectshttpokmijorgftphaskellextensiblemorepdf)
+13. [Trust - Wikipedia](#tab-13---trust---wikipediahttpsenwikipediaorgwikitrustsocialsciences)
+14. [Why the Assholes are Winning: Money Trumps All](#tab-14---why-the-assholes-are-winning-money-trumps-allhttponlinelibrarywileycomdoi101111joms12177full)
+15. [Monad transformers, free monads, mtl, laws and a new approach](#tab-15---monad-transformers-free-monads-mtl-laws-and-a-new-approachhttpsocharlesorgukblogposts2016-01-26-transformers-free-monads-mtl-lawshtml)
+16. [Decision Trees Are Free Monads Over the Reader Functor](#tab-16---decision-trees-are-free-monads-over-the-reader-functorhttpclathomasprimegithubiohaskfreedecision)
+17. [Tropical geometry](#tab-17---tropical-geometryhttpsenwikipediaorgwikitropicalgeometry)
+18. [Production Haskell](#tab-18---production-haskell-youtubehttpswwwyoutubecomwatchvazqlkkdxy68featureyoutube)
+19. [Top Reddit Videos](#tab-19---top-reddit-videos-youtubehttpswwwyoutubecomchannelucu5tjt5egd6wtvp0l1msaplaylists)
+
+## Tabs
+
+
 ### Tab 1 - (Sticky) Personal Unread Email
 
 I generally keep my personal email open to a search of 'unread'.
