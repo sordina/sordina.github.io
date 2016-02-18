@@ -23,6 +23,8 @@ Notes:
 	   |       |
 	   +-------+
 
+* One party acts on itself
+* This is the simplest possible example besides the null problem
 * (One party - One body) = One Party
 * Bodies only become meaningful with more than one party in them
 
@@ -43,7 +45,11 @@ Notes:
 
 ### Theory of Mind
 
-TODO
+| ----- | ------------ | ---------- | -------- | ---------------------------------------------- |
+| ID    | Interaction  | Observer   | Theorist | Comment (What are an [X]'s thoughts about... ) |
+| ----- | ------------ | ---------- | -------- | ---------------------------------------------- |
+| AP1P1 | A            | Party 1    | Party 1  | [Party] the perception of its actions towards itself?
+
 
 ## The Minimum One-Body Problem
 
@@ -62,15 +68,29 @@ TODO
 
 ### Parties
 
-TODO
+* Party 1
+* Party 2
+
+### Groups
+
+* Body 1
 
 ### Actions
 
-TODO
+* A
+* B
+* C
+* D
 
 ### Interpretation of Actions
 
-TODO
+| ----- | ------------ | ----------| ------------------------------------- |
+| ID    | Interaction  | Observer  | Comment (How does a [X] percieve... ) |
+| ----- | ------------ | ----------| ------------------------------------- |
+| AB1   | A            | Body 1    | [Group] the interaction between two of its members?
+| BB1   | B            | Body 1    | [Group] the actions of one of its members to itself?
+| BB1   | C            | Body 1    | [Group] the actions of itself to one of its members?
+| BB1   | D            | Body 1    | [Group] its own actions towards itself?
 
 
 ## The Minimum Two-Body Problem
@@ -120,6 +140,10 @@ Notes 2:
 | FB1   | F            | Body 1    | [Group] the interactions between the members of another group?
 | GB1   | G            | Body 1    | [Group] the actions of one of its members towards itself?
 | HB1   | H            | Body 1    | [Group] its own actions towards one of its members?
+| IB1   | I            | Body 1    | [Group] the actions of a member of another group towards that group?
+| JB1   | J            | Body 1    | [Group] TODO
+| KB1   | K            | Body 1    | [Group] TODO
+| LB1   | L            | Body 1    | [Group] TODO
 | AB2   | A            | Body 2    | [Group] the actions of another group towards a particular one of its members?
 | BB2   | B            | Body 2    | [Group] the actions of a member of another group toward itself?
 | CB2   | C            | Body 2    | [Group] the actions of another group towards itself?
@@ -128,6 +152,10 @@ Notes 2:
 | FB2   | F            | Body 2    | (Same as EB1)
 | GB2   | G            | Body 2    | [Group] the actions of the member of another group towards that group?
 | HB2   | H            | Body 2    | [Group] the actions of another group towards a member of that group?
+| IB2   | I            |           | [] TODO
+| JB2   | J            |           | [] TODO
+| KB2   | K            |           | [] TODO
+| LB2   | L            |           | [] TODO
 | AP1   | A            | Party 1   | [Member] the actions of its group towards a member of another group?
 | BP1   | B            | Party 1   | [Member] their own actions towards another group?
 | CP1   | C            | Party 1   | [Member] their group's actions towards another group?
@@ -136,6 +164,10 @@ Notes 2:
 | FP1   | F            | Party 1   | [Member] the actions between another group's members?
 | GP1   | G            | Party 1   | [Member] their own actions towards their group?
 | HP1   | H            | Party 1   | [Member] their group's actions towards another member of their group?
+| IP1   | I            | Party 1   | (Same as GP3)
+| JP1   | J            | Party 1   | [] TODO
+| KP1   | K            | Party 1   | [] TODO
+| LP1   | L            | Party 1   | [] TODO
 | AP2   | A            | Party 2   | (Same as AP1)
 | BP2   | B            | Party 2   | [Member] the actions of another member of their group towards another group?
 | CP2   | C            | Party 2   | (Same as CP1)
@@ -144,6 +176,10 @@ Notes 2:
 | FP2   | F            | Party 2   | (Same as FP1)
 | GP2   | G            | Party 2   | [Member] the actions of another member of its group towards its group?
 | HP2   | H            | Party 2   | [Member] the actions of its group towards itself?
+| IP2   | I            | Party 2   | (Same as GP3)
+| JP2   | J            | Party 2   | [] TODO
+| KP2   | K            | Party 2   | [] TODO
+| LP2   | L            | Party 2   | [] TODO
 | AP3   | A            | Party 3   | [Member] the actions of another group towards itself?
 | BP3   | B            | Party 3   | [Member] the actions of a member of another group towards its own group?
 | CP3   | C            | Party 3   | [Member] the actions of another group towards its own group?
@@ -152,6 +188,10 @@ Notes 2:
 | FP3   | F            | Party 3   | (Same as EP1)
 | GP3   | G            | Party 3   | [Member] the actions of a member of another group towards that group?
 | HP3   | H            | Party 3   | [Member] the actions of another group towards one of that group's members?
+| IP3   | I            | Party 3   | [] TODO
+| JP3   | J            | Party 3   | [] TODO
+| KP3   | K            | Party 3   | [] TODO
+| LP3   | L            | Party 3   | [] TODO
 | AP4   | A            | Party 4   | [Member] their fellow member's reception of the actions of another group them?
 | BP4   | B            | Party 4   | (Same as BP3)
 | CP4   | C            | Party 4   | (Same as CP3)
@@ -160,6 +200,10 @@ Notes 2:
 | FP4   | F            | Party 4   | (Same as AP2)
 | GP4   | G            | Party 4   | (Same as GP3)
 | HP4   | H            | Party 4   | (Same as HP3)
+| IP4   | I            | Party 4   | [] TODO
+| JP4   | J            | Party 4   | [] TODO
+| KP4   | K            | Party 4   | [] TODO
+| LP4   | L            | Party 4   | [] TODO
 | AP5   | A            | Party 5   | [Outsider] the actions of a group towards a member of another group?
 | BP5   | B            | Party 5   | [Outsider] the actions of a member of a group towards another group?
 | CP5   | C            | Party 5   | [Outsider] the actions of one group towards another group?
@@ -168,6 +212,10 @@ Notes 2:
 | FP5   | F            | Party 5   | (Same as EP5)
 | GP5   | G            | Party 5   | [Outsider] the actions of a member of a group towards its group?
 | HP5   | H            | Party 5   | [Outsider] the actions of a group towards one of its members?
+| IP5   | I            | Party 5   | [] TODO
+| JP5   | J            | Party 5   | [] TODO
+| KP5   | K            | Party 5   | [] TODO
+| LP5   | L            | Party 5   | [] TODO
 
 
 Notes 3:
