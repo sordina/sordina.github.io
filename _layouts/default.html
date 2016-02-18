@@ -70,14 +70,6 @@
               </li>
               {% endif %}
 
-              {% if site.google_plus_username %}
-              <li>
-                <a href="https://plus.google.com/{{ site.google_plus_username }}" class="icon fa-google-plus">
-                  <span class="label">Google+</span>
-                </a>
-              </li>
-              {% endif %}
-
               {% if site.facebook_username %}
               <li>
                 <a href="https://www.facebook.com/{{ site.facebook_username }}" class="icon fa-facebook">
@@ -101,6 +93,23 @@
                 </a>
               </li>
               {% endif %}
+
+              {% if site.reddit %}
+              <li>
+                <a href="{{ site.reddit }}">
+                  <span class="label">Reddit</span>
+                </a>
+              </li>
+              {% endif %}
+
+              {% if site.google_plus_username %}
+              <li>
+                <a href="https://plus.google.com/{{ site.google_plus_username }}" class="icon fa-google-plus">
+                  <span class="label">Google+</span>
+                </a>
+              </li>
+              {% endif %}
+
             </ul>
             <ul class="copyright">
                 <li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
