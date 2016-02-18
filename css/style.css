@@ -21,6 +21,11 @@
 		max-width: 100%;
 	}
 
+	#main .post-meta a {
+		border-bottom: 0;
+		color: #b2b2b2;
+	}
+
 /* Basic */
 
 	body {
