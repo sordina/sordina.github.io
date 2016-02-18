@@ -12,7 +12,7 @@ permalink: /posts/
         {% for post in site.posts %}
           <tr>
             <td>{{ post.date | date: "%b %-d, %Y" }}</td>
-            <td> {% if post.reddit %} &nbsp;&nbsp; <a href="{{post.reddit}}"><i class="fa fa-reddit"></i></a> &nbsp; {% endif %} </td>
+            <td class="social"> {% if post.reddit %} &nbsp;&nbsp; <a href="{{post.reddit}}"><i class="fa fa-reddit"></i></a> &nbsp; {% endif %} </td>
             <td> <a href="{{ post.url }}">{{ post.title }}</a> </td>
           </tr>
         {% endfor %}

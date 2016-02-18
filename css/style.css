@@ -21,7 +21,7 @@
 		max-width: 100%;
 	}
 
-	#main .post-meta a {
+	#main .post-meta a, #main.index .social a {
 		border-bottom: 0;
 		color: #b2b2b2;
 	}
