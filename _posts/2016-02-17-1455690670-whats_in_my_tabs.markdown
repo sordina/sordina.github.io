@@ -3,6 +3,7 @@ layout: post
 title:  "What's in my Tabs? (Wed, 17 Feb, 2016)"
 categories: blog
 tags: ["whats-in-my-tabs"]
+reddit: "https://www.reddit.com/r/sordina/comments/46corf/whats_in_my_tabs_wed_17_feb_2016_bows_and_arrows/"
 ---
 
 <img src="/images/whats-in-my-tabs/tabs-2016-02-17.png" class="fit image" />
@@ -20,26 +21,6 @@ Without Further Ado...
 <!--more-->
 
 ## Index
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 1.  [Personal Unread Email](#tab-1---sticky-personal-unread-email)
 2.  [Silverpond Inbox](#tab-2---sticky-silverpond-inbox)

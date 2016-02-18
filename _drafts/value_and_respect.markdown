@@ -15,6 +15,8 @@ Notes:
 * How to talk about conflict
 * How to talk about interpretation and mis-interpretation of events, ideas, and perceptions
 
+<!--more-->
+
 ## The One-Party Problem
 
 	Party 1 ---+

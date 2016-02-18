@@ -2,6 +2,7 @@
 layout: post
 title: "Everything but the Last Step"
 categories: blog
+reddit: "https://www.reddit.com/r/sordina/comments/46coj7/everything_but_the_last_step_bows_and_arrows/"
 ---
 
 I write a lot of convenience scripts day-to-day. These usually take the form of

@@ -2,6 +2,7 @@
 layout: post
 title: "Death to the Standup Cult"
 categories: blog
+reddit: "https://www.reddit.com/r/sordina/comments/46conj/death_to_the_standup_cult_bows_and_arrows/"
 ---
 
 <img src="/images/death-to-standups/178821871_2800eaf196_o.jpg"

@@ -2,6 +2,7 @@
 layout: post
 title: "Barry Lyndon is a Comedy"
 categories: blog
+reddit: "https://www.reddit.com/r/sordina/comments/46cooo/barry_lyndon_is_a_comedy_bows_and_arrows/"
 ---
 
 <img class="fit image" src="/images/barry-lyndon-comedy/relaxing.png" title="http://www.frockflicks.com/wp-content/uploads/2015/01/barry2.jpeg" />

@@ -5,7 +5,10 @@ layout: default
     <article class="{% if page.draft %} draft {% endif %}">
         <header class="major">
           <h2 class="post-title"><a href="{{ page.url }}">{{ page.title }}</a></h2>
-          <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+          <p class="post-meta">
+            {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
+            {% if page.reddit %} &nbsp;&nbsp; <a href="{{page.reddit}}"><img src="https://www.redditstatic.com/spreddit5.gif" /></a> &nbsp; {% endif %}
+          </p>
         </header>
 
         <section>
@@ -17,7 +20,7 @@ layout: default
         <footer>
             <div class="row">
             {% if page.previous %}
-            
+
                 <article class="{% cycle '6u', '6u$' %} 12u(small) excerpt">
                     <header>
                         <h2><a href="{{ page.previous.url }}">{{ page.previous.title }}</a></h2>

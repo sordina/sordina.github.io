@@ -3,6 +3,7 @@
 layout: post
 title:  "Welcome"
 categories: blog
+reddit: "https://www.reddit.com/r/sordina/comments/46cjt7/welcome_bows_and_arrows/"
 
 ---
 

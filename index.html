@@ -13,7 +13,8 @@ layout: default
                 <p class="post-meta">
                   {{ post.date | date: "%b %-d, %Y" }}
                   {% if post.author %} • {{ post.author }}{% endif %}
-                  {% if page.meta %} • {{ page.meta }}{% endif %}
+                  {% if post.meta %} • {{ post.meta }}{% endif %}
+                  {% if post.reddit %} &nbsp;&nbsp; <a href="{{post.reddit}}"><img src="https://www.redditstatic.com/spreddit5.gif" /></a> &nbsp; {% endif %}
                 </p>
             </header>
             <section class="more">
@@ -33,7 +34,8 @@ layout: default
                         <p class="post-meta">
                           {{ post.date | date: "%b %-d, %Y" }}
                           {% if post.author %} • {{ post.author }}{% endif %}
-                          {% if page.meta %} • {{ page.meta }}{% endif %}
+                          {% if post.meta %} • {{ post.meta }}{% endif %}
+                          {% if post.reddit %} &nbsp;&nbsp; <a href="{{post.reddit}}"><img src="https://www.redditstatic.com/spreddit5.gif" /></a> &nbsp; {% endif %}
                         </p>
                     </header>
                     <section class="more">
