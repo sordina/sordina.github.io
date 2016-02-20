@@ -4,8 +4,12 @@ title: "Action, Perception and Theory of Mind"
 categories: blog
 ---
 
-<img src="/images/value_perception/fallen_tree.png" class="image fit"
-title="https://www.flickr.com/photos/nahidv/8960325447/in/photolist-eDN1zM-dtjw3c-95z9pT-h9L5YE-7a2KAR-dGZpaa-dkedgE-dpe8LG-7an1Yw-dq1E17-gV4Zvb-dpRPEu-dj8FBk-dnPCXq-hC6Z8C-dpTCnj-dsgGbH-qM8MVu-gMrgXC-haSeHe-6bDGcg-c2ttSw-5wXubZ-8XQW9e-dvgFph-5wtAcK-ebJ6bA-imE1Kj-9aGSof-dpSrM7-78QkAC-7NSdLa-78LKUM-gx1KwM-aH5dzv-djgWaE-dsgYzz-pCrPYN-dq2cqt-djmQGB-ds1gbS-dkqqxJ-dm2Vmx-5Mhy1N-dpRDtj-75vdyf-djmiaC-aAdCgz-hxGqmh-pR6KQX/lightbox/" />
+<p class="attribution">
+	<img src="/images/value_perception/fallen_tree.png" class="image fit"
+	title='Nahid V - "Fallen tree"' />
+	<a href="https://www.flickr.com/photos/nahidv/">Nahid V</a> -
+	<a href="https://www.flickr.com/photos/nahidv/8960325447/in/photolist-eDN1zM-dtjw3c-95z9pT-%20h9L5YE-7a2KAR-dGZpaa-dkedgE-dpe8LG-7an1Yw-dq1E17-gV4Zvb-dpRPEu-dj8FBk-dnPCXq-hC6Z8C-dpTCnj-%20dsgGbH-qM8MVu-gMrgXC-haSeHe-6bDGcg-c2ttSw-5wXubZ-8XQW9e-dvgFph-5wtAcK-ebJ6bA-imE1Kj-9aGSof-%20dpSrM7-78QkAC-7NSdLa-78LKUM-gx1KwM-aH5dzv-djgWaE-dsgYzz-pCrPYN-dq2cqt-djmQGB-ds1gbS-dkqqxJ-%20dm2Vmx-5Mhy1N-dpRDtj-75vdyf-djmiaC-aAdCgz-hxGqmh-pR6KQX/">"Fallen tree"</a>
+</p>
 
 I started writing this in an attempt to capture certain ideas
 about how value projections can be misconstrued. Halfway there

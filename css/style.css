@@ -26,6 +26,10 @@
 		color: #b2b2b2;
 	}
 
+	#main .attribution     { text-align: right; }
+	#main .attribution img { margin-bottom: 2px; }
+	#main .attribution a   { font-size: 80%; }
+
 /* Basic */
 
 	body {
