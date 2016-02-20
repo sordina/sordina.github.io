@@ -1,8 +1,11 @@
 ---
 layout: post
-title: "Perception of Action and Theory of Mind"
+title: "Action, Perception and Theory of Mind"
 categories: blog
 ---
+
+<img src="/images/value_perception/fallen_tree.png" class="image fit"
+title="https://www.flickr.com/photos/nahidv/8960325447/in/photolist-eDN1zM-dtjw3c-95z9pT-h9L5YE-7a2KAR-dGZpaa-dkedgE-dpe8LG-7an1Yw-dq1E17-gV4Zvb-dpRPEu-dj8FBk-dnPCXq-hC6Z8C-dpTCnj-dsgGbH-qM8MVu-gMrgXC-haSeHe-6bDGcg-c2ttSw-5wXubZ-8XQW9e-dvgFph-5wtAcK-ebJ6bA-imE1Kj-9aGSof-dpSrM7-78QkAC-7NSdLa-78LKUM-gx1KwM-aH5dzv-djgWaE-dsgYzz-pCrPYN-dq2cqt-djmQGB-ds1gbS-dkqqxJ-dm2Vmx-5Mhy1N-dpRDtj-75vdyf-djmiaC-aAdCgz-hxGqmh-pR6KQX/lightbox/" />
 
 I started writing this in an attempt to capture certain ideas
 about how value projections can be misconstrued. Halfway there
@@ -13,10 +16,27 @@ of action perception, with some examples.
 I will soon write another post to get back to the original topic
 viewed from with the help of the ideas discussed here.
 
-The interplay between domestic and international politics is fascinating and enlightening.
+Let's talk a little about the title.
+
+Most of the interactions in our day-to-day lives are
+just that - actions. These actions occur between people,
+groups, objects, or are self-inflicted. We mostly limit
+our conversations about these actions to remarks about
+their circumstances, and the details involved in their
+construction and execution.
+However, if a tree falls in a forrest, and nobody is there
+to witness it, does it make a noise?
+It is important to keep in mind the contexts and interpretations
+of the _perceptions_ of actions that occur.
+
+<!--more-->
+
+
+---
 
 Notes:
 
+* The interplay between domestic and international politics is fascinating and enlightening.
 * If global actions seem bizarre, ask yourself, do you understand the domestic context?
 * Example: North Korea
 * Respect and Value are often confused and conflated
@@ -237,3 +257,4 @@ Notes 3:
 
 * <https://en.wikipedia.org/wiki/Theory_of_mind>
 * <https://en.wikipedia.org/wiki/Tropical_geometry>
+* <https://en.wikipedia.org/wiki/If_a_tree_falls_in_a_forest>
