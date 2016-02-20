@@ -8,7 +8,7 @@ help:
 
 .PHONY: serve
 serve:
-	bundle exec jekyll serve --watch --drafts --incremental
+	bundle exec jekyll serve --watch --drafts # --incremental
 
 devel:
 	commando -p cat -j -q \
