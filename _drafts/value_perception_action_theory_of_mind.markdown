@@ -1,8 +1,17 @@
 ---
 layout: post
-title: "Value and Respect - Domestic Vs. Global"
+title: "Perception of Action and Theory of Mind"
 categories: blog
 ---
+
+I started writing this in an attempt to capture certain ideas
+about how value projections can be misconstrued. Halfway there
+I began to realize that I was instead creating a kind of
+embedded language for discussing the perceptions of actions
+in general. This post will, therefore, focus on the idea
+of action perception, with some examples.
+I will soon write another post to get back to the original topic
+viewed from with the help of the ideas discussed here.
 
 The interplay between domestic and international politics is fascinating and enlightening.
 
@@ -23,7 +32,7 @@ Notes:
 	   ^       |
 	   |   A   |
 	   |       |
-	   +-------+
+	   \-------+
 
 * One party acts on itself
 * This is the simplest possible example besides the null problem
@@ -64,7 +73,7 @@ Notes:
 	      |      |       |
 	+-----|      V       |----+
 	| C   |              |  D |
-	\-------> Party 2    | <--+
+	\-------> Party 2    | <--/
 	      |              |
 	      +--------------+
 
@@ -95,7 +104,7 @@ Notes:
 | BB1   | D            | Body 1    | [Group] its own actions towards itself?
 
 
-## The Minimum Two-Body Problem
+## The Two-Body, Two-Parties-Per-Body Problem
 
 Perception of value can be characterized as global, or domestic.
 
@@ -116,7 +125,7 @@ Perception of value can be characterized as global, or domestic.
 	      +--------------+        +--------------+
 	           |   ^                   |   ^
 	           | K |      Party 5      | L |
-	           +---+                   +---+
+	           +---/                   +---/
 
 Notes 2:
 
