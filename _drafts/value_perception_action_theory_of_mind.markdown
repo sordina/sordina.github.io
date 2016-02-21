@@ -49,7 +49,7 @@ of the _perceptions_ of actions that occur.
 <!-- TODO: Concrete Two-Party Problem -->
 * [Theory of Mind                 ](#theory-of-mind)
 * [Bodies                         ](#bodies)
-* [One-Body Problem               ](#the-minimum-one-body-problem) *
+* [One-Body Problem               ](#the-two-party-one-body-problem) *
 <!-- TODO: Concrete One-Body Problem -->
 * [Group-Action                   ](#group-action)
 * [Two Two-Party Bodies Problem   ](#the-two-body-two-parties-per-body-problem) *
@@ -322,7 +322,7 @@ Our examples will use groups that do not overlap, and that don't contain
 sub-groups. A group is _not_ a party, but it _is_ an entity.
 
 
-## The Minimum One-Body Problem
+## The Two-Party One-Body Problem
 
 	           Body 1
 	      +--------------+
@@ -420,7 +420,8 @@ mis-perceptions anyway, so... Who cares? Let's draw an arrow regardless.
 
 ## The Two-Body, Two-Parties-Per-Body Problem
 
-Perception of value can be characterized as global, or domestic.
+Finally, we come to the abstract form of the scenario that I originally wanted
+to describe.
 
 	           Body 1                  Body 2
 	      +--------------+        +--------------+
@@ -591,6 +592,8 @@ Stay tuned!
 ## Perceptive Description Table Generation
 
 {% highlight haskell %}
+
+-- Haskell:
 
 [ [y] ++ take 1 x ++ [last x] ++ " | " ++ [y] ++ " | " ++ x |
   x <- ["Group 1","Group 2","Party 1","Party 2","Party 3","Party 4","Party 5"],
