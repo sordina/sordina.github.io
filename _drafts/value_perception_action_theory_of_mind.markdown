@@ -32,7 +32,7 @@ of the _perceptions_ of actions that occur.
 
 <!--more-->
 
-## Index
+## Index ( diagrams* )
 
 * [Action                         ](#action)
 * [Observation                    ](#observation)
@@ -40,19 +40,19 @@ of the _perceptions_ of actions that occur.
 * [Inaction                       ](#inaction)
 * [Parties                        ](#parties)
 * [Self-Action                    ](#self-action)
-* [One-Party Problem              ](#one-party-problem)
+* [One-Party Problem              ](#one-party-problem) *
 * [Analysis                       ](#analysis)
-* [One-Party Problem Analysis     ](#analysis-of-the-abstract-one-party-problem)
+* [One-Party Problem Analysis     ](#analysis-of-the-abstract-one-party-problem) *
 <!-- TODO: Concrete One-Party Problem -->
 * [Mis-Perception                 ](#mis-perception)
-* [Two-Party Problem              ](#two-party-problem)
+* [Two-Party Problem              ](#two-party-problem) *
 <!-- TODO: Concrete Two-Party Problem -->
 * [Theory of Mind                 ](#theory-of-mind)
 * [Bodies                         ](#bodies)
-* [One-Body Problem               ](#the-minimum-one-body-problem)
+* [One-Body Problem               ](#the-minimum-one-body-problem) *
 <!-- TODO: Concrete One-Body Problem -->
 * [Group-Action                   ](#group-action)
-* [Two Two-Party Bodies Problem   ](#the-two-body-two-parties-per-body-problem)
+* [Two Two-Party Bodies Problem   ](#the-two-body-two-parties-per-body-problem) *
 <!-- TODO: Concrete Two Two-Party Bodies Problem -->
 * [Group-Perceptions              ](#group-perceptions)
 * [Perception of Group-Actions    ](#perception-of-group-actions)
@@ -192,6 +192,11 @@ Here is analysis of the One-Party Problem
 
 ## Analysis of the Abstract One Party Problem
 
+	Party 1 ---+
+	   ^       |
+	   |   A   |
+	   |       |
+	   \-------+
 
 ### Parties
 
@@ -290,11 +295,34 @@ Problem (with the diagram again for reference):
 | AP2P1 | A            | Party 2    | Party 1    | another party's perceptions of its actions towards that party?
 | AP2P2 | A            | Party 2    | Party 2    | its perceptions of another party's actions towards it?
 
+I'm sure that as you read the descriptions in the table above you feel frustrated
+at just how limited the English language is at describing multi-layered entity
+interactions in an abstract fashion. However, it is not good enough to simply
+use names and make each entity explicit in the descriptions, as the
+relativistic form that the descriptions take is what allows them to be compared
+for equality.
+
+That being said, let's put Theory of Mind aside for now, it being enough that the
+concept is codified as a level, so that it can be referred to later.
+
 ## Bodies
 
-## The Minimum One-Body Problem
+So far, we have looked at simple scenarios involving multiple parties, and multiple
+levels of interpretation of the actions involved between those parties. From here,
+it's easy to imagine scenarios that you're already familiar with, and how this
+framework may make it easier to describe what is occurring, however, even with
+a plethora more parties and actions involved, there is still a crucial concept
+that must be added before any greater numeric complexity is accrued.
+This concept is the notion of groups, or bodies. It is what allows us to say
+"we", "the opposition", "our allies", etc.
 
-TODO: The notion of "Us"
+There is a huge degree of nuance involved with the concept of groups, but for
+simplicities sake, we'll simply say that a party is either in a group, or isn't.
+Our examples will use groups that do not overlap, and that don't contain
+sub-groups. A group is _not_ a party, but it _is_ an entity.
+
+
+## The Minimum One-Body Problem
 
 	           Body 1
 	      +--------------+
@@ -332,10 +360,63 @@ TODO: The notion of "Us"
 | ----- | ------------ | ----------| -------------------------- |
 | AB1   | A            | Body 1    | [Group] the interaction between two of its members?
 | BB1   | B            | Body 1    | [Group] the actions of one of its members to itself?
-| BB1   | C            | Body 1    | [Group] the actions of itself to one of its members?
-| BB1   | D            | Body 1    | [Group] its own actions towards itself?
+| CB1   | C            | Body 1    | [Group] the actions of itself to one of its members?
+| DB1   | D            | Body 1    | [Group] its own actions towards itself?
+| AP1   | A            | Party 1   | [Party] its own actions towards a fellow party?
+| BP1   | B            | Party 1   | [Party] its own actions towards its group?
+| CP1   | C            | Party 1   | [Party] its group's actions towards a fellow party?
+| DP1   | D            | Party 1   | [Party] its group's actions towards itself?
+| AP2   | A            | Party 2   | [Party] a fellow party's actions towards it?
+| BP2   | B            | Party 2   | [Party] a fellow party's actions towards its group?
+| CP2   | C            | Party 2   | [Party] its group's actions towards it?
+| DP2   | D            | Party 2   | (Same as DP1)
+
+The first impression we get from this table is that there are quite a few more
+rows than last time. The first example had one descriptive row, the second - four.
+And now, this slightly more involved example has 12.
+
+The number of rows follows a formula: `N = A * E ^ (L - 1)`.
+
+In this case, `12 = 4 * 3 ^ (2 - 1)`.
+
+	N = 12         = Number of Descriptions
+	A =  4         = Actions
+	E =  3 = B + P = Entities
+	B =  1         = Bodies
+	P =  2         = Parties
+	L =  2 = Level = "Description of Perception"
+
+We also see the first occurrence of a descriptive equality. The perceptions
+`DP1 = DP2` up to description. No matter which party is observing it, the group
+acting upon itself is described the same way. So in actual fact, the formula
+should really take this into account. The number we've derived `N` is the
+upper bound in the number of descriptions, however, once duplicates are
+removed, the real number may be lower. Finding a formula for that number
+is left as an exercise to the reader.
+
+There are some other phenomenon that appear for the first time in this scenario.
 
 ## Group-Action
+
+Here is where the first non-concrete diagrammatic representation creeps in.
+Clearly, there is no single instance of "group-action" in the real world,
+however, we have drawn an arrow representing an action, from the group
+to various entities, including the group itself. Weather or not this is
+permissible is left up to the drafter of the diagram that represents any
+particular scenario. I include the representation in order to capture
+the idea of multi-action aggregates, or notional perception of implied
+aggregate-action.
+
+What does this actually mean? It means that a person can perceive an
+action as originating from a group, and a group can perceive actions
+as being directed at it. I'm sure that many exciting examples
+spring immediately to mind after hearing this proposition.
+
+Group-Action, specifically, could be a perception that is unwarranted
+in a particular scenario, i.e. there was no aggregate of party-actions
+that would warrant such a perception. There may have never even been
+a party-action whatsoever. But as I wrote earlier, all perceptions are
+mis-perceptions anyway, so... Who cares? Let's draw an arrow regardless.
 
 ## The Two-Body, Two-Parties-Per-Body Problem
 
@@ -464,6 +545,7 @@ have had to be left out for now...
 * Self action in multi-party and group scenarios
 * Beyond Theory of Mind
 * Concrete examples of action-entity diagrams
+* Theory of mind in group dynamics
 
 ## What's Next?
 
@@ -483,6 +565,7 @@ Stay tuned!
 * <https://en.wikipedia.org/wiki/Theory_of_mind>
 * <https://en.wikipedia.org/wiki/Tropical_geometry>
 * <https://en.wikipedia.org/wiki/If_a_tree_falls_in_a_forest>
+* [Crow Theory of Mind - Google Scholar](https://scholar.google.com.au/scholar?q=crow+theory+of+mind&btnG=&hl=en&as_sdt=0%2C5&as_vis=1)
 
 ---
 
