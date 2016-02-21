@@ -8,6 +8,7 @@ description: >
   Composition as Expression
 
 # Build settings
+
 markdown: kramdown
 excerpt_separator: <!--more-->
 exclude:
