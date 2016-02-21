@@ -441,9 +441,7 @@ Perception of value can be characterized as global, or domestic.
 	           | K |      Party 5      | L |
 	           +---/                   +---/
 
-<!-- hoe
-[ [y] ++ take 1 x ++ [last x] ++ " | " ++ [y] ++ " | " ++ x | x <- ["Group 1","Group 2","Party 1","Party 2","Party 3","Party 4","Party 5"], y <- "ABCDEFGHIJKL"]
--->
+
 
 | ----- | ------------ | ----------| -------------------------- |
 | ID    | Interaction  | Observer  | How does a [X] perceive... |
@@ -546,6 +544,8 @@ have had to be left out for now...
 * Beyond Theory of Mind
 * Concrete examples of action-entity diagrams
 * Theory of mind in group dynamics
+* An unambiguous language for relativistic perceptive description
+* A method for generating description tables
 
 ## What's Next?
 
@@ -584,3 +584,17 @@ Stay tuned!
 * Canonical form - Observations relative to a perceiver
 * Self deception and self perception
 * Can I remove the 'F' arrow? Only if it provides at least one unique scenario
+
+
+# Appendix
+
+## Perceptive Description Table Generation
+
+{% highlight haskell %}
+
+[ [y] ++ take 1 x ++ [last x] ++ " | " ++ [y] ++ " | " ++ x |
+  x <- ["Group 1","Group 2","Party 1","Party 2","Party 3","Party 4","Party 5"],
+  y <- "ABCDEFGHIJKL" ]
+
+{% endhighlight %}
+

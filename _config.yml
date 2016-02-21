@@ -13,3 +13,7 @@ excerpt_separator: <!--more-->
 exclude:
   - bak
   - themes
+
+syntax-highlighting:
+  enabled : true
+  css: syntax.css
