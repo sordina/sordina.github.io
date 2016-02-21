@@ -412,12 +412,12 @@ is kept to a minimum. This was achieved mostly through intuition.
 I'd love to find out if there is a more rigorous way to attack such
 a goal.
 
-This diagram should be sufficient to represent various simple forms
+This diagram is intended to be sufficient to represent various simple forms
 of both inter and intra-organizational collaboration, conflict,
 communication, perception, and action. The entities involved
-are kept to a minimum, and there should be an economy of action
-between those entities. This should not only allow the description
-of objective facts, but also a model for the description of
+are intended to be kept to a minimum, and there should be an economy of
+action between those entities. This should not only allow the description
+of objective facts, but also present a model for the description of
 misunderstanding, mis-perception, miscommunication, and confusion
 in general, both accidental, and intentionally constructed.
 Note that this framework doesn't put forward any solutions
@@ -491,9 +491,9 @@ of action:
 | GP1   | G       | Party 1   | [Member] their own actions towards their group?
 | HP1   | H       | Party 1   | [Member] their group's actions towards another member of their group?
 | IP1   | I       | Party 1   | (Same as GP3)
-| JP1   | J       | Party 1   | [] TODO
-| KP1   | K       | Party 1   | [] TODO
-| LP1   | L       | Party 1   | [] TODO
+| JP1   | J       | Party 1   | (Same as HP3)
+| KP1   | K       | Party 1   | [Member] their groups actions towards itself?
+| LP1   | L       | Party 1   | [Member] the actions of another group towards that group?
 | AP2   | A       | Party 2   | (Same as AP1)
 | BP2   | B       | Party 2   | [Member] the actions of another member of their group towards another group?
 | CP2   | C       | Party 2   | (Same as CP1)
@@ -503,9 +503,9 @@ of action:
 | GP2   | G       | Party 2   | [Member] the actions of another member of its group towards its group?
 | HP2   | H       | Party 2   | [Member] the actions of its group towards itself?
 | IP2   | I       | Party 2   | (Same as GP3)
-| JP2   | J       | Party 2   | [] TODO
-| KP2   | K       | Party 2   | [] TODO
-| LP2   | L       | Party 2   | [] TODO
+| JP2   | J       | Party 2   | (Same as HP3)
+| KP2   | K       | Party 2   | (Same as KP1)
+| LP2   | L       | Party 2   | (Same as LP1)
 | AP3   | A       | Party 3   | [Member] the actions of another group towards itself?
 | BP3   | B       | Party 3   | [Member] the actions of a member of another group towards its own group?
 | CP3   | C       | Party 3   | [Member] the actions of another group towards its own group?
@@ -514,10 +514,10 @@ of action:
 | FP3   | F       | Party 3   | (Same as EP1)
 | GP3   | G       | Party 3   | [Member] the actions of a member of another group towards that group?
 | HP3   | H       | Party 3   | [Member] the actions of another group towards one of that group's members?
-| IP3   | I       | Party 3   | [] TODO
-| JP3   | J       | Party 3   | [] TODO
-| KP3   | K       | Party 3   | [] TODO
-| LP3   | L       | Party 3   | [] TODO
+| IP3   | I       | Party 3   | (Same as GP1)
+| JP3   | J       | Party 3   | (Same as HP2)
+| KP3   | K       | Party 3   | (Same as LP1)
+| LP3   | L       | Party 3   | (Same as KP1)
 | AP4   | A       | Party 4   | [Member] their fellow member's reception of the actions of another group them?
 | BP4   | B       | Party 4   | (Same as BP3)
 | CP4   | C       | Party 4   | (Same as CP3)
@@ -526,10 +526,10 @@ of action:
 | FP4   | F       | Party 4   | (Same as AP2)
 | GP4   | G       | Party 4   | (Same as GP3)
 | HP4   | H       | Party 4   | (Same as HP3)
-| IP4   | I       | Party 4   | [] TODO
-| JP4   | J       | Party 4   | [] TODO
-| KP4   | K       | Party 4   | [] TODO
-| LP4   | L       | Party 4   | [] TODO
+| IP4   | I       | Party 4   | (Same as GP2)
+| JP4   | J       | Party 4   | (Same as HP2)
+| KP4   | K       | Party 4   | (Same as LP1)
+| LP4   | L       | Party 4   | (Same as KP1)
 | AP5   | A       | Party 5   | [Outsider] the actions of a group towards a member of another group?
 | BP5   | B       | Party 5   | [Outsider] the actions of a member of a group towards another group?
 | CP5   | C       | Party 5   | [Outsider] the actions of one group towards another group?
@@ -538,10 +538,10 @@ of action:
 | FP5   | F       | Party 5   | (Same as EP5)
 | GP5   | G       | Party 5   | [Outsider] the actions of a member of a group towards its group?
 | HP5   | H       | Party 5   | [Outsider] the actions of a group towards one of its members?
-| IP5   | I       | Party 5   | [] TODO
-| JP5   | J       | Party 5   | [] TODO
-| KP5   | K       | Party 5   | [] TODO
-| LP5   | L       | Party 5   | [] TODO
+| IP5   | I       | Party 5   | (Same as GP5)
+| JP5   | J       | Party 5   | (Same as HP5)
+| KP5   | K       | Party 5   | [Outsider] the actions of a group towards itself?
+| LP5   | L       | Party 5   | (Same as KP5)
 
 TODO - More about the explosion of complexity
 
