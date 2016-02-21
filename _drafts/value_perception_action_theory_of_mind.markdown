@@ -34,21 +34,29 @@ of the _perceptions_ of actions that occur.
 
 ## Index
 
-* [Action                     ](#action)
-* [Observation                ](#observation)
-* [Perception                 ](#perception)
-* [Inaction                   ](#inaction)
-* [Parties                    ](#parties)
-* [Self-Action                ](#self-action)
-* [One-Party Problem          ](#one-party-problem)
-* [Analysis                   ](#analysis)
-* [One Party Problem Analysis ](#analysis-of-the-abstract-one-party-problem)
-* [Mis-Perception             ](#mis-perception)
-* [Theory of Mind             ](#theory-of-mind)
-* [Bodies                     ](#bodies)
-* [Group-Action               ](#group-action)
-* [Group-Perceptions          ](#group-perceptions)
-* [Perception of Group-Actions](#perception-of-group-actions)
+* [Action                         ](#action)
+* [Observation                    ](#observation)
+* [Perception                     ](#perception)
+* [Inaction                       ](#inaction)
+* [Parties                        ](#parties)
+* [Self-Action                    ](#self-action)
+* [One-Party Problem              ](#one-party-problem)
+* [Analysis                       ](#analysis)
+* [One-Party Problem Analysis     ](#analysis-of-the-abstract-one-party-problem)
+<!-- TODO: Concrete One-Party Problem -->
+* [Mis-Perception                 ](#mis-perception)
+* [Two-Party Problem              ](#two-party-problem)
+<!-- TODO: Concrete Two-Party Problem -->
+* [Theory of Mind                 ](#theory-of-mind)
+* [Bodies                         ](#bodies)
+* [One-Body Problem               ](#the-minimum-one-body-problem)
+<!-- TODO: Concrete One-Body Problem -->
+* [Group-Action                   ](#group-action)
+* [Two Two-Party Bodies Problem   ](#the-two-body-two-parties-per-body-problem)
+<!-- TODO: Concrete Two Two-Party Bodies Problem -->
+* [Group-Perceptions              ](#group-perceptions)
+* [Perception of Group-Actions    ](#perception-of-group-actions)
+* [What's Next?                   ](#whats-next)
 
 ## Action
 
@@ -144,6 +152,7 @@ And so, the "Perceptive-Graph" for the One-Party Problem:
 Currently AP1 is explicitly drawn on the graph, however, there are such
 arrows from every party to every action, so we may leave them out of the
 diagrams and refer to them via the convention (Action)-(Party).
+These can then be referenced and discussed in tabular form.
 
 The diagram then simply becomes an Action-Entity graph. In this example:
 
@@ -161,7 +170,7 @@ described becoming more abstract with each level.
 
 The levels begin as follows:
 
-* Parties and Actions
+* Parties, Groups and Actions
 * Observations and Perceptions
 * Theory Of Mind
 
@@ -200,6 +209,8 @@ Here is analysis of the One-Party Problem
 
 ## Mis-Perception
 
+## Two-Party Problem
+
 ## Theory of Mind
 
 TODO - Rehash previous examples with additional TOM
@@ -211,28 +222,6 @@ TODO - Rehash previous examples with additional TOM
 
 
 ## Bodies
-
-## Group-Action
-
-## Group-Perceptions
-
-## Perception of Group-Actions
-
-
----
-
-Notes:
-
-* The interplay between domestic and international politics is fascinating and enlightening.
-* If global actions seem bizarre, ask yourself, do you understand the domestic context?
-* Respect and Value are often confused and conflated
-* Theory of Mind
-* How to talk about conflict
-* How to talk about interpretation and mis-interpretation of events, ideas, and perceptions
-* Actions can be mis-percieved
-* There is an explosion of combinations
-
-<!--more-->
 
 ## The Minimum One-Body Problem
 
@@ -275,6 +264,7 @@ Notes:
 | BB1   | C            | Body 1    | [Group] the actions of itself to one of its members?
 | BB1   | D            | Body 1    | [Group] its own actions towards itself?
 
+## Group-Action
 
 ## The Two-Body, Two-Parties-Per-Body Problem
 
@@ -298,15 +288,6 @@ Perception of value can be characterized as global, or domestic.
 	           |   ^                   |   ^
 	           | K |      Party 5      | L |
 	           +---/                   +---/
-
-Notes 2:
-
-* Group Perceptions - What does it mean for a group to percieve?
-* Canonical form - Observations relative to a perciever
-* Self deception and self perception
-* Can I remove the 'F' arrow? Only if it provides at least one unique scenario
-* Changes references of `Body` to `Group`
-* Add I,J,K and L
 
 <!-- hoe
 [ [y] ++ take 1 x ++ [last x] ++ " | " ++ [y] ++ " | " ++ x | x <- ["Group 1","Group 2","Party 1","Party 2","Party 3","Party 4","Party 5"], y <- "ABCDEFGHIJKL"]
@@ -400,13 +381,43 @@ Notes 2:
 | KP5   | K            | Party 5   | [] TODO
 | LP5   | L            | Party 5   | [] TODO
 
+## Group-Perceptions
 
-Notes 3:
+## Perception of Group-Actions
 
-* Tropical Geometry of minimums and maximums
+## What's Next?
+
+This post has been laying the groundwork for future discussions.
+I'd like to take this framework and use it to analyse various
+contentious situations to see if there can be a better understanding
+of conflict, and what paths might be navigated to resolve it.
+
+There are a lot of words written here, but hopefully I've kept it
+simple. The main take-away should be the notion of the
+action-entity diagram and the tabular descriptive analysis format.
+
+Stay tuned!
 
 ## Links
 
 * <https://en.wikipedia.org/wiki/Theory_of_mind>
 * <https://en.wikipedia.org/wiki/Tropical_geometry>
 * <https://en.wikipedia.org/wiki/If_a_tree_falls_in_a_forest>
+
+---
+
+# Notes. TODO Remove
+
+* The interplay between domestic and international politics is fascinating and enlightening.
+* If global actions seem bizarre, ask yourself, do you understand the domestic context?
+* Respect and Value are often confused and conflated
+* Theory of Mind
+* How to talk about conflict
+* How to talk about interpretation and mis-interpretation of events, ideas, and perceptions
+* Actions can be mis-perceived
+* There is an explosion of combinations
+* Tropical Geometry of minimums and maximums
+* Group Perceptions - What does it mean for a group to perceive?
+* Canonical form - Observations relative to a perceiver
+* Self deception and self perception
+* Can I remove the 'F' arrow? Only if it provides at least one unique scenario
