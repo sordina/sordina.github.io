@@ -2,7 +2,7 @@
 layout: post
 title: "Action, Perception and Theory of Mind"
 categories: blog
-reddit: www.reddit.com
+reddit: "https://www.reddit.com/r/sordina/comments/46corf/whats_in_my_tabs_wed_17_feb_2016_bows_and_arrows/"
 ---
 
 <p class="attribution">
