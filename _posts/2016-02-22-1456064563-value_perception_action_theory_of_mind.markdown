@@ -633,7 +633,6 @@ Stay tuned!
 ## Perceptive Description Table Generation
 
 {% highlight haskell %}
-
 -- Haskell:
 
 [ [y] ++ take 1 x ++ [last x] ++ " | " ++ [y] ++ " | " ++ x |
