@@ -52,11 +52,13 @@ of the _perceptions_ of actions that occur.
 * [One-Body Problem               ](#the-two-party-one-body-problem) *
 <!-- TODO: Concrete One-Body Problem -->
 * [Group-Action                   ](#group-action)
+* [Group-Perceptions              ](#group-perceptions)
 * [Two Two-Party Bodies Problem   ](#the-two-body-two-parties-per-body-problem) *
 <!-- TODO: Concrete Two Two-Party Bodies Problem -->
-* [Group-Perceptions              ](#group-perceptions)
 * [What's Missing?                ](#whats-missing)
 * [What's Next?                   ](#whats-next)
+* [Notes                          ](#notes)
+* [Appendix                       ](#appendix)
 
 ## Action
 
@@ -401,6 +403,17 @@ that would warrant such a perception. There may have never even been
 a party-action whatsoever. But as I wrote earlier, all perceptions are
 mis-perceptions anyway, so... Who cares? Let's draw an arrow regardless.
 
+## Group-Perceptions
+
+In addition to the perceptions of actions as having originated from groups,
+is there such a phenomenon as a collective perception? Our arrows indicate
+that we are modelling it, and while its manifestation may be non-physical,
+it is often written about. And in terms of a theory of mind, the mind itself
+need not exist for the theory to be concrete.
+
+Since we're not currently in the business of establishing objective truth, the
+arrows of group perception can stay too.
+
 ## The Two-Body, Two-Parties-Per-Body Problem
 
 Finally, we come to the abstract form of the scenario that I originally wanted
@@ -448,9 +461,9 @@ of action:
 
 ### Analysis of
 
-| Parties | Party 1, Party 2, Party 3, Party 4 |
-| Groups  | Body 1, Body 2                     |
-| Actions | A, B, C, D, E, F, G, H, I, J, K, L |
+| Parties | Party 1, Party 2, Party 3, Party 4, Party 5 |
+| Groups  | Body 1, Body 2                              |
+| Actions | A, B, C, D, E, F, G, H, I, J, K, L          |
 
 ### Interpretation of Actions
 
@@ -543,14 +556,26 @@ of action:
 | KP5   | K       | Party 5   | [Outsider] the actions of a group towards itself?
 | LP5   | L       | Party 5   | (Same as KP5)
 
-TODO - More about the explosion of complexity
+This totals 84 descriptions - Including duplicates.
 
-## Group-Perceptions
+Using the formula shown earlier: `N = A * E ^ (L - 1) = 12 * (5+2) ^ (2-1) = 84`.
 
-As well as the perceptions of actions as having originated from groups,
-is there such a phenomenon as a collective perception?
+This same scenario would lead to `7056` theories of mind. That's a hell of a lot
+of complexity, and this is one of the simplest inter-group scenarios possible.
 
-TODO - What would that even mean?
+That being said, the ToM angle is definitely one of the most useful in terms
+of resolving misunderstandings, as it is also one of the beliefs that is
+often most loosely held. So, how can one go about analysing such a plethora
+of theories-of-mind? Should one even bother to try at all?
+If you were to examine just a subset, how would you choose the candidates?
+
+I suppose that the easiest approach may just be to take any particular
+situation at face-value until you smell something fishy, then
+follow your nose until you can see a path ahead that leads you
+to some potentially broken theories. These can then form the
+foundation of your investigation. Branching via connected
+action from party-to-party, uncovering mis-perception and
+observational obscurity as you go...
 
 ## What's Missing?
 
@@ -563,6 +588,11 @@ have had to be left out for now...
 * Theory of mind in group dynamics
 * An unambiguous language for relativistic perceptive description
 * A method for generating description tables
+* Automatic duplicate removal
+* A formula for description-numbers sans-duplicates
+* Methods of aggregation for perceived actions
+* Methods of aggregation for perception of actions
+* The bad-pineapple (tropical-geometry)
 
 ## What's Next?
 
@@ -586,22 +616,16 @@ Stay tuned!
 
 ---
 
-# Notes. TODO Remove
+# Notes
 
 * The interplay between domestic and international politics is fascinating and enlightening.
 * If global actions seem bizarre, ask yourself, do you understand the domestic context?
 * Respect and Value are often confused and conflated
-* Theory of Mind
 * How to talk about conflict
 * How to talk about interpretation and mis-interpretation of events, ideas, and perceptions
-* Actions can be mis-perceived
-* There is an explosion of combinations
 * Tropical Geometry of minimums and maximums
 * Group Perceptions - What does it mean for a group to perceive?
 * Canonical form - Observations relative to a perceiver
-* Self deception and self perception
-* Can I remove the 'F' arrow? Only if it provides at least one unique scenario
-
 
 # Appendix
 
