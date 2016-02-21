@@ -11,6 +11,4 @@ serve:
 	bundle exec jekyll serve --watch --drafts # --incremental
 
 devel:
-	commando -p cat -j -q \
-		| grep --line-buffered html \
-		| conscript chromereload 4000
+	make serve | conscript chromereload 4000

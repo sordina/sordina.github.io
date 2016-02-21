@@ -5,20 +5,18 @@ categories: blog
 ---
 
 <p class="attribution">
-	<img src="/images/value_perception/fallen_tree.png" class="image fit"
-	title='Nahid V - "Fallen tree"' />
+	<img src="/images/value_perception/fallen_tree.png" class="image fit" />
 	<a href="https://www.flickr.com/photos/nahidv/">Nahid V</a> -
 	<a href="https://www.flickr.com/photos/nahidv/8960325447/in/photolist-eDN1zM-dtjw3c-95z9pT-%20h9L5YE-7a2KAR-dGZpaa-dkedgE-dpe8LG-7an1Yw-dq1E17-gV4Zvb-dpRPEu-dj8FBk-dnPCXq-hC6Z8C-dpTCnj-%20dsgGbH-qM8MVu-gMrgXC-haSeHe-6bDGcg-c2ttSw-5wXubZ-8XQW9e-dvgFph-5wtAcK-ebJ6bA-imE1Kj-9aGSof-%20dpSrM7-78QkAC-7NSdLa-78LKUM-gx1KwM-aH5dzv-djgWaE-dsgYzz-pCrPYN-dq2cqt-djmQGB-ds1gbS-dkqqxJ-%20dm2Vmx-5Mhy1N-dpRDtj-75vdyf-djmiaC-aAdCgz-hxGqmh-pR6KQX/">"Fallen tree"</a>
 </p>
 
-I started writing this in an attempt to capture certain ideas
-about how value projections can be misconstrued. Halfway there
-I began to realize that I was instead creating a kind of
-embedded language for discussing the perceptions of actions
-in general. This post will, therefore, focus on the idea
-of action perception, with some examples.
-I will soon write another post to get back to the original topic
-viewed from with the help of the ideas discussed here.
+I started writing this post in an attempt to capture certain ideas about how
+value is projected, and how those projections can be misconstrued. Halfway there
+I began to realize that I was instead creating a kind of embedded language for
+discussing the perceptions of actions in general. This post will, therefore,
+focus on the idea of action perception, with some examples. I will soon write
+another post to get back to the original topic viewed from with the help of the
+ideas discussed here.
 
 Let's talk a little about the title.
 
@@ -27,31 +25,110 @@ just that - actions. These actions occur between people,
 groups, objects, or are self-inflicted. We mostly limit
 our conversations about these actions to remarks about
 their circumstances, and the details involved in their
-construction and execution.
-However, if a tree falls in a forrest, and nobody is there
-to witness it, does it make a noise?
+construction and execution. However,
+[if a tree falls in a forest, and it is not perceived, does it still make a sound?](https://en.wikipedia.org/wiki/If_a_tree_falls_in_a_forest)
 It is important to keep in mind the contexts and interpretations
 of the _perceptions_ of actions that occur.
 
 <!--more-->
 
+## Index
 
----
+* [Action                     ](#action)
+* [Observation                ](#observation)
+* [Perception                 ](#perception)
+* [Inaction                   ](#inaction)
+* [Parties                    ](#parties)
+* [Self-Action                ](#self-action)
+* [One-Party Problem          ](#one-party-problem)
+* [Analysis                   ](#analysis)
+* [One Party Problem Analysis ](#analysis-of-the-abstract-one-party-problem)
+* [Mis-Perception             ](#mis-perception)
+* [Theory of Mind             ](#theory-of-mind)
+* [Bodies                     ](#bodies)
+* [Group-Action               ](#group-action)
+* [Group-Perceptions          ](#group-perceptions)
+* [Perception of Group-Actions](#perception-of-group-actions)
 
-Notes:
+## Action
 
-* The interplay between domestic and international politics is fascinating and enlightening.
-* If global actions seem bizarre, ask yourself, do you understand the domestic context?
-* Example: North Korea
-* Respect and Value are often confused and conflated
-* Theory of Mind
-* How to talk about conflict
-* How to talk about interpretation and mis-interpretation of events, ideas, and perceptions
+An action is an objective real-world event that occurs between
+concrete or abstract entities within in the world.
 
-<!--more-->
+> Bob pours himself a glass of water.
 
-## The One-Party Problem
+## Observation
 
+An observation is the concrete phenomenon of the receipt of information
+by an entity pertaining to an action.
+
+> Alice hears Bob pour the water from another room.
+
+## Perception
+
+Perception is the witnessing-entity's understanding of the
+information pertaining to the action that it observed.
+
+> Alice understands that that someone in the other room poured a liquid into a vessel.
+
+## Inaction
+
+The simplest form of action is no action at all.
+It exhibits no observable phenomenon aside from a lack
+of observations. Still, although there are no observations
+to be made, there are still an infinity of perceptions
+of inaction that are possible through the interpretation
+of the meaning of the non-event.
+
+There could be a wealth of content to be written about
+inaction, but I won't touch on it any further here. Instead focusing
+on singular observable actions.
+
+## Parties
+
+Although actions cab be described as occurring between abstract entities,
+the simplest type of entity is the "Party". A party is a single actor
+such as a person, or animal. Parties can perform and receive actions,
+but they can also observe and perceive actions. Parties can also go
+further and extend thought processes further than simple interpretations of
+the concrete.
+
+A simple diagram of three parties can be shown as follows:
+
+	Alice     Bob
+	
+	          Carol
+
+## Self-Action
+
+The simplest concrete action is self-action. This is because it requires
+only one entity to perform and receive the action. The same entity
+can observe and perceive the action, and their thoughts need pertain
+only to themselves.
+
+An example of a self-action could be Bob's refreshment from earlier:
+
+> Bob pours himself a glass of water.
+
+
+## One-Party Problem
+
+The previous example of Bob's refreshment (sans witnesses) is a variant
+of what I call "The One-Party Problem". A Party performs an Action upon
+itself. It observes that action, and perceives it. Although this seems
+to be a contrived and solipsistic construction of an example, there is still
+something to be gained by examining the forces at play in the scenario.
+
+* Are actions in this scenario important?
+* Can the party involved form an objective interpretation of the events that unfolded?
+* How linked are action, observation, and perception?
+* Is the party merely perceiving the scenario, or also transformed by those perceptions?
+
+And so, the "Perceptive-Graph" for the One-Party Problem:
+
+	   /-----+
+	   :     : AP1
+	   :     v
 	Party 1 ---+
 	   ^       |
 	   |   A   |
@@ -59,9 +136,52 @@ Notes:
 	   \-------+
 
 * One party acts on itself
-* This is the simplest possible example besides the null problem
-* (One party - One body) = One Party
-* Bodies only become meaningful with more than one party in them
+* "Party 1" represents the party
+* "A" represents the action
+* There is an implicit group present containing "Party 1", however, this doesn't matter for single parties
+* "AP1" represents "Party 1"s perception of action "A"
+
+Currently AP1 is explicitly drawn on the graph, however, there are such
+arrows from every party to every action, so we may leave them out of the
+diagrams and refer to them via the convention (Action)-(Party).
+
+The diagram then simply becomes an Action-Entity graph. In this example:
+
+	Party 1 ---+
+	   ^       |
+	   |   A   |
+	   |       |
+	   \-------+
+
+## Analysis
+
+For any particular Action-Entity graph an analysis can be performed.
+This takes the form of a series of levels of descriptions. With the items being
+described becoming more abstract with each level.
+
+The levels begin as follows:
+
+* Parties and Actions
+* Observations and Perceptions
+* Theory Of Mind
+
+After the initial action-entity diagram has been constructed, each successive
+level of abstraction can be generated by taking the cross-product of the
+previous level of abstraction with the set of entities. For example, each party
+perceives all actions, and each party also models all such perceptions.
+For scenarios composed of many entities and actions, this can lead to
+a combinatorial explosion of descriptions. However, if you refer to entities
+purely through abstract circumstance, then you will find that many of these
+descriptions will be identical, and their implications only need to be
+considered once.
+
+There is no limit to how many levels of abstraction can be analysed, but
+three should be sufficient for most practical discussion.
+
+Here is analysis of the One-Party Problem
+
+## Analysis of the Abstract One Party Problem
+
 
 ### Parties
 
@@ -71,20 +191,48 @@ Notes:
 
 * A
 
-### Interpretation of Actions
+### Parties' Interpretation of Actions
 
 | ----- | ------------ | ----------| ------------------------------------- |
-| ID    | Interaction  | Observer  | Comment (How does a [X] percieve... ) |
+| ID    | Interaction  | Observer  | Comment (How does a [X] perceive... ) |
 | ----- | ------------ | ----------| ------------------------------------- |
 | AP1   | A            | Party 1   | [Party] its actions towards itself?
 
-### Theory of Mind
+## Mis-Perception
+
+## Theory of Mind
+
+TODO - Rehash previous examples with additional TOM
 
 | ----- | ------------ | ---------- | -------- | ---------------------------------------------- |
 | ID    | Interaction  | Observer   | Theorist | Comment (What are an [X]'s thoughts about... ) |
 | ----- | ------------ | ---------- | -------- | ---------------------------------------------- |
 | AP1P1 | A            | Party 1    | Party 1  | [Party] the perception of its actions towards itself?
 
+
+## Bodies
+
+## Group-Action
+
+## Group-Perceptions
+
+## Perception of Group-Actions
+
+
+---
+
+Notes:
+
+* The interplay between domestic and international politics is fascinating and enlightening.
+* If global actions seem bizarre, ask yourself, do you understand the domestic context?
+* Respect and Value are often confused and conflated
+* Theory of Mind
+* How to talk about conflict
+* How to talk about interpretation and mis-interpretation of events, ideas, and perceptions
+* Actions can be mis-percieved
+* There is an explosion of combinations
+
+<!--more-->
 
 ## The Minimum One-Body Problem
 
@@ -156,7 +304,7 @@ Notes 2:
 * Group Perceptions - What does it mean for a group to percieve?
 * Canonical form - Observations relative to a perciever
 * Self deception and self perception
-* Can we remove the 'F' arrow? Only if it provides at least one unique scenario
+* Can I remove the 'F' arrow? Only if it provides at least one unique scenario
 * Changes references of `Body` to `Group`
 * Add I,J,K and L
 
