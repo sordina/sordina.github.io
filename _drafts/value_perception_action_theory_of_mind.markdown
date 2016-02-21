@@ -444,6 +444,8 @@ of action:
 	           | K |      Party 5      | L |
 	           +---/                   +---/
 
+(Note: I may be able to remove actions I,J, and L after some consideration)
+
 ### Analysis of
 
 | Parties | Party 1, Party 2, Party 3, Party 4 |
@@ -465,9 +467,9 @@ of action:
 | GB1   | G       | Body 1    | [Group] the actions of one of its members towards itself?
 | HB1   | H       | Body 1    | [Group] its own actions towards one of its members?
 | IB1   | I       | Body 1    | [Group] the actions of a member of another group towards that group?
-| JB1   | J       | Body 1    | [Group] TODO
-| KB1   | K       | Body 1    | [Group] TODO
-| LB1   | L       | Body 1    | [Group] TODO
+| JB1   | J       | Body 1    | [Group] the actions of another group towards one of that group's members?
+| KB1   | K       | Body 1    | [Group] its actions towards itself?
+| LB1   | L       | Body 1    | [Group] the actions of another group towards that group?
 | AB2   | A       | Body 2    | [Group] the actions of another group towards a particular one of its members?
 | BB2   | B       | Body 2    | [Group] the actions of a member of another group toward itself?
 | CB2   | C       | Body 2    | [Group] the actions of another group towards itself?
@@ -476,10 +478,10 @@ of action:
 | FB2   | F       | Body 2    | (Same as EB1)
 | GB2   | G       | Body 2    | [Group] the actions of the member of another group towards that group?
 | HB2   | H       | Body 2    | [Group] the actions of another group towards a member of that group?
-| IB2   | I       |           | [] TODO
-| JB2   | J       |           | [] TODO
-| KB2   | K       |           | [] TODO
-| LB2   | L       |           | [] TODO
+| IB2   | I       | Body 2    | (Same as GB1)
+| JB2   | J       | Body 2    | (Same as HB1)
+| KB2   | K       | Body 2    | (Same as LB1)
+| LB2   | L       | Body 2    | (Same as KB1)
 | AP1   | A       | Party 1   | [Member] the actions of its group towards a member of another group?
 | BP1   | B       | Party 1   | [Member] their own actions towards another group?
 | CP1   | C       | Party 1   | [Member] their group's actions towards another group?
