@@ -56,6 +56,7 @@ of the _perceptions_ of actions that occur.
 <!-- TODO: Concrete Two Two-Party Bodies Problem -->
 * [Group-Perceptions              ](#group-perceptions)
 * [Perception of Group-Actions    ](#perception-of-group-actions)
+* [What's Missing?                ](#whats-missing)
 * [What's Next?                   ](#whats-next)
 
 ## Action
@@ -202,28 +203,98 @@ Here is analysis of the One-Party Problem
 
 ### Parties' Interpretation of Actions
 
-| ----- | ------------ | ----------| ------------------------------------- |
-| ID    | Interaction  | Observer  | Comment (How does a [X] perceive... ) |
-| ----- | ------------ | ----------| ------------------------------------- |
+| ----- | ------------ | ----------| --------------------------- |
+| ID    | Interaction  | Observer  | How does a [X] perceive...  |
+| ----- | ------------ | ----------| --------------------------- |
 | AP1   | A            | Party 1   | [Party] its actions towards itself?
 
 ## Mis-Perception
 
+Where there is perception, as distinct from observation, there
+is always mis-perception. An understanding of events that does
+not reflect reality. In the analysis of abstract entity-action
+scenarios this is not terribly interesting, however, in concrete
+scenarios it is very important. The mis-understanding of various
+parties should be derived so that their future behaviour can be
+better predicted, and so that the models of their understanding
+by other parties can be improved.
+
 ## Two-Party Problem
+
+Here, I present the two-party problem. Two concrete entities with
+a single action from one to the other. No self-actions are presented
+as, while these are very interesting, they don't add anything
+new to the scenario.
+
+	          A
+	Party 1 ----> Party 2
+
+### Parties
+
+* Party 1
+* Party 2
+
+### Actions
+
+* A
+
+### Parties’ Interpretation of Actions
+
+| ----- | ------------ | ----------| ----------------------------- |
+| ID    | Interaction  | Observer  | How does a Party perceive...  |
+| ----- | ------------ | ----------| ----------------------------- |
+| AP1   | A            | Party 1   | Its actions towards another party?
+| AP2   | A            | Party 2   | the actions of another party towards itself?
+
+This scenario provides one of the simplest, yet non-trivial diagrams in terms
+of the actions and entities involved. While it is extraordinarily simple,
+I believe that most situational analysis attempts to reduce any complexity
+down to this model. This is deficient in many situations and can only provide
+a cursory and limited understanding of the perceptions, specifically mis-perceptions
+as well as how they relate to an objective truth, in terms of individuals,
+and especially groups.
+
 
 ## Theory of Mind
 
-TODO - Rehash previous examples with additional TOM
+Once multiple parties are involved, it becomes useful to begin exploring the concept
+of ["Theory of Mind (ToM)."](https://en.wikipedia.org/wiki/Theory_of_mind)
+Theory of Mind as a concept has been used extensively in psychological and
+animal-behaviour research in order to understand the nuances and sophistication
+of a subject's mental models of other actors.
+Tests for the presence of ToM in subjects include observing food-hiding
+behaviours in the company of other animals, etc.
+Theory of Mind comprises the third level of action-entity analysis, forming
+the cross-product of perceptions and entities.
 
-| ----- | ------------ | ---------- | -------- | ---------------------------------------------- |
-| ID    | Interaction  | Observer   | Theorist | Comment (What are an [X]'s thoughts about... ) |
-| ----- | ------------ | ---------- | -------- | ---------------------------------------------- |
-| AP1P1 | A            | Party 1    | Party 1  | [Party] the perception of its actions towards itself?
+For example, the One-Party Problem yields not just self-perception, but also
+an inner theory of the party's own mind:
 
+| ----- | ------------ | ---------- | -------- | ------------------------------------ |
+| ID    | Interaction  | Observer   | Theorist | What are a Party's thoughts about... |
+| ----- | ------------ | ---------- | -------- | ------------------------------------ |
+| AP1P1 | A            | Party 1    | Party 1  | the perception of its actions towards itself?
+
+
+This is all very self-obsessed, so let's view ToM in the context of the Two-Party
+Problem (with the diagram again for reference):
+
+	          A
+	Party 1 ----> Party 2
+
+| ----- | ------------ | ---------- | ---------- | ------------------------------------- |
+| ID    | Interaction  | Observer   | Theorist   | What are a Party's thoughts about...  |
+| ----- | ------------ | ---------- | ---------- | ------------------------------------- |
+| AP1P1 | A            | Party 1    | Party 1    | its perceptions of its own actions towards another party?
+| AP1P2 | A            | Party 1    | Party 2    | another party's perceptions of that party's actions towards itself?
+| AP2P1 | A            | Party 2    | Party 1    | another party's perceptions of its actions towards that party?
+| AP2P2 | A            | Party 2    | Party 2    | its perceptions of another party's actions towards it?
 
 ## Bodies
 
 ## The Minimum One-Body Problem
+
+TODO: The notion of "Us"
 
 	           Body 1
 	      +--------------+
@@ -256,9 +327,9 @@ TODO - Rehash previous examples with additional TOM
 
 ### Interpretation of Actions
 
-| ----- | ------------ | ----------| ------------------------------------- |
-| ID    | Interaction  | Observer  | Comment (How does a [X] percieve... ) |
-| ----- | ------------ | ----------| ------------------------------------- |
+| ----- | ------------ | ----------| -------------------------- |
+| ID    | Interaction  | Observer  | How does a [X] perceive... |
+| ----- | ------------ | ----------| -------------------------- |
 | AB1   | A            | Body 1    | [Group] the interaction between two of its members?
 | BB1   | B            | Body 1    | [Group] the actions of one of its members to itself?
 | BB1   | C            | Body 1    | [Group] the actions of itself to one of its members?
@@ -293,9 +364,9 @@ Perception of value can be characterized as global, or domestic.
 [ [y] ++ take 1 x ++ [last x] ++ " | " ++ [y] ++ " | " ++ x | x <- ["Group 1","Group 2","Party 1","Party 2","Party 3","Party 4","Party 5"], y <- "ABCDEFGHIJKL"]
 -->
 
-| ----- | ------------ | ----------| ------------------------------------- |
-| ID    | Interaction  | Observer  | Comment (How does a [X] percieve... ) |
-| ----- | ------------ | ----------| ------------------------------------- |
+| ----- | ------------ | ----------| -------------------------- |
+| ID    | Interaction  | Observer  | How does a [X] perceive... |
+| ----- | ------------ | ----------| -------------------------- |
 | AB1   | A            | Body 1    | [Group] its collective actions in reference to the member of another group?
 | BB1   | B            | Body 1    | [Group] the actions of one of its members in relation to another group?
 | CB1   | C            | Body 1    | [Group] its collective actions towards another group?
@@ -384,6 +455,15 @@ Perception of value can be characterized as global, or domestic.
 ## Group-Perceptions
 
 ## Perception of Group-Actions
+
+## What's Missing?
+
+There's been a lot covered in this post, so the following
+have had to be left out for now...
+
+* Self action in multi-party and group scenarios
+* Beyond Theory of Mind
+* Concrete examples of action-entity diagrams
 
 ## What's Next?
 
