@@ -27,7 +27,7 @@ layout: default
                     </header>
                     <section class="more">
                         {{ page.previous.excerpt }}
-                        <p><a class="more-link" href="{{ post.previous.url }}">...</a></p>
+                        <p><a class="more-link" href="{{ page.previous.url }}">...</a></p>
                     </section>
                 </article>
             {% endif %}
@@ -40,7 +40,7 @@ layout: default
                     </header>
                     <section class="more">
                         {{ page.next.excerpt | markdownify }}
-                        <p><a class="more-link" href="{{ post.next.url }}">...</a></p>
+                        <p><a class="more-link" href="{{ page.next.url }}">...</a></p>
                     </section>
                 </article>
             {% endif %}
