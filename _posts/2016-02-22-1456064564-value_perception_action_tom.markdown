@@ -561,7 +561,7 @@ This totals 84 descriptions - Including duplicates.
 
 Using the formula shown earlier: `N = A * E ^ (L - 1) = 12 * (5+2) ^ (2-1) = 84`.
 
-This same scenario would lead to `7056` theories of mind. That's a hell of a lot
+This same scenario would lead to `588` theories of mind. That's a hell of a lot
 of complexity, and this is one of the simplest inter-group scenarios possible.
 
 That being said, the ToM angle is definitely one of the most useful in terms
