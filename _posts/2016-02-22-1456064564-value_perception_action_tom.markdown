@@ -610,9 +610,9 @@ Stay tuned!
 
 ## Links
 
-* <https://en.wikipedia.org/wiki/Theory_of_mind>
-* <https://en.wikipedia.org/wiki/Tropical_geometry>
-* <https://en.wikipedia.org/wiki/If_a_tree_falls_in_a_forest>
+* [Theory of Mind](https://en.wikipedia.org/wiki/Theory_of_mind)
+* [Tropical Geometry](https://en.wikipedia.org/wiki/Tropical_geometry)
+* [If a Tree Falls in a Forest](https://en.wikipedia.org/wiki/If_a_tree_falls_in_a_forest)
 * [Crow Theory of Mind - Google Scholar](https://scholar.google.com.au/scholar?q=crow+theory+of+mind&btnG=&hl=en&as_sdt=0%2C5&as_vis=1)
 
 ---
