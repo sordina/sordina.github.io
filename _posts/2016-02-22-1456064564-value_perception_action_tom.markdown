@@ -58,6 +58,7 @@ of the _perceptions_ of actions that occur.
 <!-- TODO: Concrete Two Two-Party Bodies Problem -->
 * [What's Missing?                ](#whats-missing)
 * [What's Next?                   ](#whats-next)
+* [Links                          ](#links)
 * [Notes                          ](#notes)
 * [Appendix                       ](#appendix)
 
@@ -608,14 +609,14 @@ action-entity diagram and the tabular descriptive analysis format.
 
 Stay tuned!
 
-## Links
+---
+
+# Links
 
 * [Theory of Mind](https://en.wikipedia.org/wiki/Theory_of_mind)
 * [Tropical Geometry](https://en.wikipedia.org/wiki/Tropical_geometry)
 * [If a Tree Falls in a Forest](https://en.wikipedia.org/wiki/If_a_tree_falls_in_a_forest)
 * [Crow Theory of Mind - Google Scholar](https://scholar.google.com.au/scholar?q=crow+theory+of+mind&btnG=&hl=en&as_sdt=0%2C5&as_vis=1)
-
----
 
 # Notes
 
