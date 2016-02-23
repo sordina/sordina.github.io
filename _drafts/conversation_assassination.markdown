@@ -16,6 +16,8 @@ categories: blog
 * Momentum
 * Irrelevant pedantry
 
+<!--more-->
+
 ## Be aware of what you're doing
 
 ## Or at least be able to recognize it in hindsight

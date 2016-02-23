@@ -15,6 +15,8 @@ categories: blog
 * Reference HWN again
 * Talk about the defecits of asynchronous communication
 
+<!--more-->
+
 ## What is a Newsletter?
 
 ## What isn't a Newsletter?
