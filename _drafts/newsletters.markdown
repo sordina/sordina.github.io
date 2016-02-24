@@ -14,6 +14,8 @@ categories: blog
 * Highlight the feedback-loop
 * Reference HWN again
 * Talk about the defecits of asynchronous communication
+* Limit the scope for the audience of the newsletter
+* It might be fine to broardcast or share it wider if people want insight, but don't pollute the message!
 
 <!--more-->
 

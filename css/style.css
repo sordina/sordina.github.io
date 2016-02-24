@@ -31,6 +31,21 @@
 	#main .attribution img { margin-bottom: 2px; }
 	#main .attribution a   { font-size: 80%; }
 
+	#elevator-button {
+		width: 31px;
+		text-indent: -45px;
+	}
+
+	#elevator-button:hover {
+		cursor: pointer;
+	}
+
+	#elevator-button * {
+		fill: rgba(255, 255, 255, 0.4);
+		height: 2.5em;
+		vertical-align: text-bottom;
+	}
+
 /* Basic */
 
 	body {
