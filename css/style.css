@@ -46,6 +46,10 @@
 		vertical-align: text-bottom;
 	}
 
+	#elevator-button:hover * {
+		fill: rgba(255, 255, 255, 0.7);
+	}
+
 /* Basic */
 
 	body {
