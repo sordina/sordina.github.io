@@ -15,6 +15,7 @@ categories: blog
 * You can kill a conversation in certain ways
 * Momentum
 * Irrelevant pedantry
+* Lack of focus
 
 <!--more-->
 
