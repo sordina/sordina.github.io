@@ -16,6 +16,7 @@ categories: blog
 * Momentum
 * Irrelevant pedantry
 * Lack of focus
+* Non-Sequiturs
 
 <!--more-->
 
