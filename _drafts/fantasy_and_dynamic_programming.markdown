@@ -7,8 +7,8 @@ categories: blog
 
 <p class="attribution">
 	<img src="/images/fantasy-dynamic-prog/fantasy.png" class="image fit" />
-	<a href="https://www.flickr.com/photos/torley/">Nahid V</a> -
-	<a href="https://www.flickr.com/photos/torley/2329063813/in/photolist-4xP4wD-jhYQ3Y-hrjAfx-gmrWCR-dBDrrx-8vw4mN-8vt3Rn-9enQPC-8vvKTs-8vtJRX-8vujZV-bt7R5a-aAWvZw-5uXyAd-e18moF-e1cD91-8vxkDy-5fG2fn-8vugpH-8vthyF-8vv6gX-8vsJTt-8vvoaR-8vtsqD-8vti9t-8vuFTD-8vta3M-8vsETH-8vttiV-8vwgeL-8vwjX9-8vtyRx-6NJ2fi-8vwrj9-9atiAk-8vtcyp-8vtBUp-8vvLSu-8vsUSp-8vyoRj-e4GNEB-8vt6ck-8vwGBG-8vydqG-8vupkr-e2SvUZ-8vv83p-8vsLQa-8vwNRd-8vvGTL">"Fallen tree"</a>
+	<a href="https://www.flickr.com/photos/torley/">Wynter Bracken</a> -
+	<a href="https://www.flickr.com/photos/torley/2329063813/in/photolist-4xP4wD-jhYQ3Y-hrjAfx-gmrWCR-dBDrrx-8vw4mN-8vt3Rn-9enQPC-8vvKTs-8vtJRX-8vujZV-bt7R5a-aAWvZw-5uXyAd-e18moF-e1cD91-8vxkDy-5fG2fn-8vugpH-8vthyF-8vv6gX-8vsJTt-8vvoaR-8vtsqD-8vti9t-8vuFTD-8vta3M-8vsETH-8vttiV-8vwgeL-8vwjX9-8vtyRx-6NJ2fi-8vwrj9-9atiAk-8vtcyp-8vtBUp-8vvLSu-8vsUSp-8vyoRj-e4GNEB-8vt6ck-8vwGBG-8vydqG-8vupkr-e2SvUZ-8vv83p-8vsLQa-8vwNRd-8vvGTL">"Torley on Piano"</a>
 </p>
 
 ## Fantasizing is often looked down on
