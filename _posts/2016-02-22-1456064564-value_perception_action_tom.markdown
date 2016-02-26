@@ -16,7 +16,7 @@ value is projected, and how those projections can be misconstrued. Halfway there
 I began to realize that I was instead creating a kind of embedded language for
 discussing the perceptions of actions in general. This post will, therefore,
 focus on the idea of action perception, with some examples. I will soon write
-another post to get back to the original topic viewed from with the help of the
+another post to get back to the original topic viewed with the help of the
 ideas discussed here.
 
 Let's talk a little about the title.
