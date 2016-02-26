@@ -50,6 +50,11 @@
 		fill: rgba(255, 255, 255, 0.7);
 	}
 
+	#main pre.highlight {
+		overflow: auto;
+		max-height: 18em;
+	}
+
 /* Basic */
 
 	body {
