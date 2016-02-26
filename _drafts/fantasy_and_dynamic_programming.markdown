@@ -4,7 +4,6 @@ title:  "Fantasy and Dynamic Programming"
 categories: blog
 ---
 
-
 <p class="attribution">
 	<img src="/images/fantasy-dynamic-prog/fantasy.png" class="image fit" />
 	<a href="https://www.flickr.com/photos/torley/">Wynter Bracken</a> -
