@@ -12,3 +12,9 @@ six Cello Suites, BWV 1007 to 1012.
 # Aproach
 
 * I will cheat - If I can't play something, I'll invent a simpler approach.
+
+# Notes
+
+* Your mental model of the music
+* Keeping everything in your head
+* Enough time to interpret upcomming phrases
