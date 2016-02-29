@@ -52,7 +52,7 @@
 
 	#main pre.highlight {
 		overflow: auto;
-		max-height: 18em;
+		max-height: 70vh; /* Viewport-Height */
 	}
 
 /* Basic */
