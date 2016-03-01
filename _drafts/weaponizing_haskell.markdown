@@ -17,16 +17,39 @@ I've published the post so that I can pre-link to it from various locations.
 
 ## What I Want
 
+### Builds
+
+* Automated builds in the cloud
+* For cheap!
+* With limited access to my accounts
+
+### Deployments
+
+* Running on AWS
+* Deployable with multi-container support
+
 ## How I Got There
+
+* Docker
+* Multi-Stage Containers
 
 ## Problems I Encountered
 
+* Credential Greed
+* Build Times
+
 ## What's Left
 
-* Talk about a path to getting haskell building and running on production.
-* Dockerhub
-* AWS
+### App Changes Left
 
+* Subscriptions
+* Web-Interface
+
+### Ops Changes Left
+
+* HTTPS
+* Zero-Downtime Deploys
+* Ansible
 
 # Links
 
