@@ -15,6 +15,8 @@ Note: This is currently a work in progress...
 
 I've published the post so that I can pre-link to it from various locations.
 
+<!--more-->
+
 ## What I Want
 
 ### Builds
