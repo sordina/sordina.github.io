@@ -10,22 +10,22 @@ categories: blog
 	<a href="https://www.flickr.com/photos/magnusl3d/6044910841/in/photolist-dmqo1k-3YZgPn-adaKoH-cJaJt7-dxUvSk-dDwcqL-b5jvN6-gtu2M-8CijDG-8CijF5-9GKKWa-9aq6sY-5VE1v5-pgqYaf-6b3H9z-53CH1r-9aq6y1-9aq6vj-8ZXg6f-E9454-9amXga-9amXiz-9amXsZ-9aq6Ju-9amXcP-oMbPWZ-bWWwyo-ddafLx-a9ucd3-byAttU-dqoz7g-dsh314-7nHEhW-cYZaF1-cKGyL5-55S2Ty-pK93nD-nBwAz3-donk6s-dBvmeN-dhmDET-9amXq2-j5NXvx-bDUaHS-62aNkd-626z8v-9L46aG-dz6GRX-nuQFRn-626z9n">"Downtown Vancouver Sunset"</a>
 </p>
 
+* What are categories?
+* Why are categories cool?
+* How do categories differ from modules?
+* Why would a regular programmer be interested in categories?
+* The Code Objection...
+* How can categories actually _save someone code_ in real life?
 
-What are categories?
+Read on!
 
-Why are categories cool?
-
-How do categories differ from modules?
-
-Why would a regular programmer be interested in categories?
-
-The Code Objection
-
-How can categories actually _save someone code_ in real life?
+<!--more-->
 
 Refactoring!
 
-Example:
+Classical Example:
+
+Categorical Example:
 
 {% highlight haskell %}
 {-# LANGUAGE RankNTypes #-}
@@ -98,3 +98,4 @@ Links:
 
 * <https://gist.github.com/sordina/6f686baf4997da3e3d40>
 * <https://en.wikipedia.org/wiki/Natural_transformation>
+* <https://en.wikipedia.org/wiki/Category_theory>
