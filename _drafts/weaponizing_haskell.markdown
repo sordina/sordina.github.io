@@ -55,6 +55,22 @@ towards building and running your own Haskell services in the cloud...
 * Still having issues with Elastic Beanstalk
 * HALP
 
+
+### Timeline
+
+* Prototype App
+* Dockerized
+* Run on Elastic Beanstalk
+* Integrated into Slack
+* Alpha App
+* Database Issues
+* Postgrest
+* Multi-Containerized (Suits Services Model)
+* Build Pipeline
+* CI Services Trials
+* Docker-Hub BitBucket-Proxy
+* Elastic-Beanstalk
+
 ## How I Got There
 
 * Docker
