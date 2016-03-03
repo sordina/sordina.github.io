@@ -10,7 +10,7 @@ categories: blog
 	<a href="https://www.flickr.com/photos/kulturarvsprojektet/6498637005/in/photolist-aUgdnB-7MD3dV-fmtgQn-aUg5p6-eLz2Kp-9gUzi2-Mhc6H-6zikYQ-aUg8cx-8JPib7-vgdVXn-fApYgF-8uDviZ-bwuDC4-2X7KSR-aGir6R-pexZnJ-eEdNHe-bH8xmk-fJiYY-3nsq5E-c5eEWw-gj3Qe-dSNCNT-6HeRMk-FeWvD-5a4ToF-rhTooD-hSrqbk-Mhc6R-dZjb2j-6HeTWv-Mhc7n-5a97Nu-rTD13u-Mh1of-8FHHAJ-Mh1pq-8BFk82-5dRGcb-Mh1oQ-jL2Khe-tqvvXr-cS9Lx5-mhCYtN-FeWxg-bDwVD8-qBVcyE-2XevxG-ry6kbL">"Video tape archive storage"</a>
 </p>
 
-Social media is great - We love sharing our thoughts with our friends,
+Social media is fun - We love sharing our thoughts with our friends,
 and looking at what our friends are thinking about too, but
 social-media has the power to be more than just an ephemeral stream
 of current thoughts and events. And that power is being vastly
