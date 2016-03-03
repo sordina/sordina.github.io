@@ -91,6 +91,7 @@ towards building and running your own Haskell services in the cloud...
 
 # Links
 
+* [Slides](http://sordina.presentations.s3.amazonaws.com/mfug_weaponized_haskell_20160303/index.html#/)
 * [Melbourne Haskell Meetup](http://www.meetup.com/Melbourne-Haskell-Users-Group/events/228578673/)
 * [Melbourne Functional Meetup](http://www.meetup.com/Melbourne-Functional-User-Group-MFUG/events/228116766/)
 * [Melbourne Functional Presentation](https://github.com/sordina/mfug_weaponizing_haskell)
