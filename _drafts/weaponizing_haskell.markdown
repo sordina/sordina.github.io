@@ -13,11 +13,14 @@ hidden: true
 
 Note: This is currently a work in progress...
 
-I've published the post so that I can pre-link to it from various locations.
-
 <!--more-->
 
 ## What I Want
+
+### Simple
+
+* Conceptually clear architecture
+* Seperation of responsibilities by service
 
 ### Builds
 
@@ -27,31 +30,58 @@ I've published the post so that I can pre-link to it from various locations.
 
 ### Deployments
 
-* Running on AWS
+* Dockerized
 * Deployable with multi-container support
+* Ideally platform agnostic
+* Running on AWS for now
+
+### Scalable
+
+* Expand the capability of the platform
+* Grow users
+* Grow services
+* Grow volume
+
+## Where I am Now
+
+* Pre-Prod
+* CI pipeline is working fine
+* Still having issues with Elastic Beanstalk
+* HALP
 
 ## How I Got There
 
 * Docker
 * Multi-Stage Containers
+* Proxy Version Control Accounts
 
 ## Problems I Encountered
 
 * Credential Greed
 * Build Times
+* Beanstalk Errors
 
 ## What's Left
+
+### Production Services
+
+* AWS Beanstalk Deployment
+* or AWS ECS
+* or AWS EC2 manual deploys
 
 ### App Changes Left
 
 * Subscriptions
 * Web-Interface
+* Email gateway
+* Privelaged Use-cases
 
 ### Ops Changes Left
 
 * HTTPS
 * Zero-Downtime Deploys
-* Ansible
+* Ansible Ops
+* VPCs
 
 # Links
 

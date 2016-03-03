@@ -15,7 +15,8 @@ categories: blog
 * How do categories differ from modules?
 * Why would a regular programmer be interested in categories?
 * The Code Objection...
-* How can categories actually _save someone code_ in real life?
+* The Code Objection Rebuttal
+* Example: How can categories actually _save someone code_ in real life?
 
 Read on!
 
@@ -86,8 +87,9 @@ main = do
 
 Categories for Greedy Bastards
 
-	Natural transformation:
+	Functor:
 		Changing from one category to another
+
 	Examples:
 		* Switch from a pure to an impure implementation
 		* ...
@@ -97,5 +99,6 @@ Categories for Greedy Bastards
 Links:
 
 * <https://gist.github.com/sordina/6f686baf4997da3e3d40>
-* <https://en.wikipedia.org/wiki/Natural_transformation>
 * <https://en.wikipedia.org/wiki/Category_theory>
+* <https://en.wikipedia.org/wiki/Natural_transformation>
+* <https://en.wikipedia.org/wiki/Commutative_diagram>
