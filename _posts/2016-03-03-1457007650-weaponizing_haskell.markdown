@@ -26,7 +26,7 @@ towards building and running your own Haskell services in the cloud...
 ### Simple
 
 * Conceptually clear architecture
-* Seperation of responsibilities by service
+* Separation of responsibilities by service
 
 ### Builds
 
@@ -96,7 +96,7 @@ towards building and running your own Haskell services in the cloud...
 * Subscriptions
 * Web-Interface
 * Email gateway
-* Privelaged Use-cases
+* Privileged Use-cases
 
 ### Ops Changes Left
 
