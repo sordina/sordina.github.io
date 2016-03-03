@@ -2,6 +2,7 @@
 layout: post
 title: "Social Media as an Index"
 categories: blog
+reddit: "http://sordina.github.io/blog/2016/02/29/1456693366-social_media_as_an_index.html"
 ---
 
 <p class="attribution">
