@@ -27,6 +27,7 @@ a little code?"
 
 <!--more-->
 
+
 ## What Are Categories?
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Commutative_diagram_for_morphism.svg/200px-Commutative_diagram_for_morphism.svg.png" />
