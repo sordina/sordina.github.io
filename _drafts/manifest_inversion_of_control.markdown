@@ -11,3 +11,17 @@ categories: blog
 </p>
 
 TEXT GOES HERE...
+
+about how the virtual can control the physical through inversion of control
+
+Examples
+
+IT
+
+Industrial Process
+
+Lifehacks
+
+Todo lists
+
+inbox zero
