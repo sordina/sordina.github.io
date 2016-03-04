@@ -48,11 +48,26 @@ within and between different branches of mathematics. Advances or constructions
 in one branch can be translated into other branches. Category theory focuses on the
 abstract structure of objects rather than on the elements of those objects.
 
-### Examples
+### Examples from Programming
+
+Theory aside, `Category` could be considered an interface, or as in Haskell,
+a type-class:
+
+{% highlight haskell %}
+class Category cat where
+  id  :: cat a a
+  (.) :: cat b c -> cat a b -> cat a c
+{% endhighlight %}
+
+Implementations provide identity, and composition, as well as satisfying
+the following laws:
+
+* Associativity: `(f . g) . h = f . (g . h)`
+* Left Unit: `id . f = f`
+* Right Unit: `f . id = f`
+
 
 ## Why are categories cool?
-
-## How do categories differ from modules?
 
 ## Why would a regular programmer be interested in categories?
 
@@ -62,13 +77,10 @@ abstract structure of objects rather than on the elements of those objects.
 
 ## Example: Refactoring Business Logic
 
-
-	Examples:
-		* Switch from a pure to an impure implementation
-		* ...
-
-	Theory - It's a Functor:
-		Changing from one category to another
+<!-- 
+Theory - It's a Functor:
+  Changing from one category to another
+-->
 
 ### Classically
 
@@ -130,6 +142,27 @@ pipeline = a >>> b >>> c
   tally f = Kleisli $ \x -> modify (+x) >> return (f x)
 {% endhighlight %}
 
+## Complications
+
+Funnily enough, when I presented this talk to the same group who had
+raised the inspirational question -
+
+> "How can a Category instance in my program save me from writing at least
+  a little code?"
+
+... they asked another -
+
+>  "does this form of abstraction provide much over a scoped definition of composition?"
+
+This is also a good one, but at least I have something of an answer ready
+in response.
+
+I believe that, scoping and refifinition boilerplate aside, the advantage that
+using category instances gives you over simply redefining a custom composition
+operator is the fact that your composition is coherent. This has to be the case
+becuase of the very fact that you are using a `Category` where composition
+is meaningful and correct by definition.
+
 # Links
 
 * <https://gist.github.com/sordina/6f686baf4997da3e3d40>
@@ -138,3 +171,4 @@ pipeline = a >>> b >>> c
 * <https://en.wikipedia.org/wiki/Natural_transformation>
 * <https://en.wikipedia.org/wiki/Commutative_diagram>
 * <https://hackage.haskell.org/package/profunctors-5.2/docs/Data-Profunctor.html>
+* <https://ncatlab.org/nlab/show/category>

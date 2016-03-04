@@ -2,7 +2,6 @@
 layout: post
 title:  "Projecting Value"
 categories: blog
-reddit: ""
 ---
 
 <p class="attribution">
