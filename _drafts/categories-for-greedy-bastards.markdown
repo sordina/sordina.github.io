@@ -120,3 +120,4 @@ pipeline = a >>> b >>> c
 * <https://en.wikipedia.org/wiki/Functor>
 * <https://en.wikipedia.org/wiki/Natural_transformation>
 * <https://en.wikipedia.org/wiki/Commutative_diagram>
+* <https://hackage.haskell.org/package/profunctors-5.2/docs/Data-Profunctor.html>
