@@ -2,7 +2,7 @@
 layout: post
 title:  "Projecting Value"
 categories: blog
-reddit: "https://www.reddit.com/r/sordina/comments/4891d4/social_media_as_an_index_bows_and_arrows/"
+reddit: ""
 ---
 
 <p class="attribution">
