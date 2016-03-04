@@ -31,6 +31,23 @@ a little code?"
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Commutative_diagram_for_morphism.svg/200px-Commutative_diagram_for_morphism.svg.png" />
 
+From [“All Concepts are Kan Extensions (PDF)”](http://www.math.harvard.edu/theses/senior/lehner/lehner.pdf):
+
+> When Samuel Eilenberg and Saunders MacLane first introduced the concept of a
+category in 1942, some mathematicians derided it as “general abstract nonsense” [7].
+Categories seemed so theoretical that many doubted they would lend new insights
+in any field. Now, however, many category theorists view the “general abstract
+nonsense” phrase as a challenge, and have even co-opted the term for their own uses.
+They have demonstrated the tremendous power of and universal insights provided
+by category theory.
+
+> Category theory offers “a bird’s eye view of mathematics. From high in the
+sky, details become invisible, but you can see patterns that were impossible to detect
+from ground level” [5]. Category theory provides a mechanism to describe similarities
+within and between different branches of mathematics. Advances or constructions
+in one branch can be translated into other branches. Category theory focuses on the
+abstract structure of objects rather than on the elements of those objects.
+
 ### Examples
 
 ## Why are categories cool?

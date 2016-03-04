@@ -55,6 +55,11 @@
 		max-height: 70vh; /* Viewport-Height */
 	}
 
+	#main blockquote p:last-child {
+		padding-bottom: 0;
+		margin-bottom: 0;
+	}
+
 /* Basic */
 
 	body {
