@@ -354,6 +354,8 @@ is meaningful and correct by definition.
 * <https://hackage.haskell.org/package/profunctors-5.2/docs/Data-Profunctor.html>
 * <https://ncatlab.org/nlab/show/category>
 * <http://hackage.haskell.org/package/category-extras>
+* <http://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/>
+* <http://bartoszmilewski.com/2014/11/04/category-the-essence-of-composition/>
 
 # Apendix
 
