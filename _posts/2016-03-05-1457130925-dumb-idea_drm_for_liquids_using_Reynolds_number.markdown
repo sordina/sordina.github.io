@@ -2,6 +2,7 @@
 layout: post
 title:  "Dumb-Idea: DRM for Liquids via Reynolds-Number"
 categories: blog
+reddit: "https://www.reddit.com/r/sordina/comments/4905zk/dumbidea_drm_for_liquids_via_reynoldsnumber_bows/"
 ---
 
 <p class="attribution">

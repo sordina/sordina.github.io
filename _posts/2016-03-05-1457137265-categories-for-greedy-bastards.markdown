@@ -2,6 +2,7 @@
 layout: post
 title:  "Categories for Greedy Bastards"
 categories: blog
+reddit: "https://www.reddit.com/r/sordina/comments/49061m/categories_for_greedy_bastards_bows_and_arrows/"
 ---
 
 <p class="attribution">
