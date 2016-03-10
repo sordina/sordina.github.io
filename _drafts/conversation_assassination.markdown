@@ -213,7 +213,7 @@ and introducing novelty.
 	Jules: Yeah. I will.
 
 
-The thing about Tarantino's dialogues is that the move.
+The thing about Tarantino's dialogues is that they move.
 This stagnated and died. There was a disagreement, but the
 motivations weren't explored. The implications weren't looked
 at, and there was no real attempt at resolution. This could
