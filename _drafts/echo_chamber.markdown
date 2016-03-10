@@ -12,6 +12,7 @@ categories: blog
 
 * Structured Mandatory Positivity
 * To balance criticism culture
+* Acknowledged deficiencies
 
 Why is it dumb?
 
