@@ -12,3 +12,7 @@ categories: blog
 
 * Structured Mandatory Positivity
 * To balance criticism culture
+
+Why is it dumb?
+
+Echo chambers are a big problem...
