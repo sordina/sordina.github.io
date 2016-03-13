@@ -2,6 +2,7 @@
 layout: post
 title:  "Weaponizing Haskell - Part Two: Deployment"
 categories: blog
+reddit: "https://www.reddit.com/r/sordina/comments/4a7wf5/weaponizing_haskell_part_two_deployment_bows_and/"
 ---
 
 <p class="attribution">
