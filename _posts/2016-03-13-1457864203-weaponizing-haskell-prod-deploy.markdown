@@ -15,7 +15,7 @@ Following on from [Weaponizing Haskell - Part One](/blog/2016/03/03/1457007650-w
 which left us on a stable footing with regards to Continuous Integration, but mired in the marshes
 of Elastic Beanstalk deployment woes... We now have a running EB deployment!
 
-This post will detail what this looks like, and what was involved in getting here.
+This post will detail what it looks like and what was involved in getting here.
 
 <!--more-->
 
@@ -32,7 +32,7 @@ This post will detail what this looks like, and what was involved in getting her
 
 ## tl;dr
 
-I'm now at a point where I have 3 services, one written by me, two by others running and
+I'm now at a point where I have 3 services, one written by us, two by others running and
 communicating on AWS Elastic Beanstalk. My service is builD through a two-stage
 CI process on DockerHub, with the first stage being public, and the second private.
 The private docker images are pulled by Beanstalk through an S3-hosted encrypted permissions
@@ -66,7 +66,7 @@ I had wrong.
 One of the main issues I had was that my `command` property for one of my services was a string,
 but it should have been an array. Docker-Compose allows this, but Dockerrun doesn't.
 I ended up reading the [ECS Task-Definition Parameters](http://docs.aws.amazon.com/AmazonECS/latest/developerguide/task_definition_parameters.html)
-manual with much more scrutiny and realizing my mistake, but part of why it took me so long to
+manual with much more scrutiny and realized my mistake. Part of why it took me so long to
 do so was because of the misleading error message.
 
 Beanstalk error message:
@@ -129,15 +129,15 @@ eliminate them one by one. That's about all you can do. The logs were next to us
 
 The config block will look something like the following:
 
-	{ "authentication": {
-			"bucket": "myspecialbucket",
-			"key":    "myapp/myapp.config.json" } }
+    { "authentication": {
+        "bucket": "myspecialbucket",
+        "key":    "myapp/myapp.config.json" } }
 
 And the payload on S3 should take the following format:
 
-	{ "https://index.docker.io/v1/": {
-			"auth": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-			"email": "mydockerhubloginemail@gmail.com" } }
+    { "https://index.docker.io/v1/": {
+        "auth": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+        "email": "mydockerhubloginemail@gmail.com" } }
 
 The block can be derived from your `~/.docker/config.json`, however, you need
 the old-style format for the credentials, which if you're using a recent version
