@@ -33,7 +33,7 @@ This post will detail what this looks like, and what was involved in getting her
 ## tl;dr
 
 I'm now at a point where I have 3 services, one written by me, two by others running and
-communicating on AWS Elastic Beanstalk. My service is build through a two-stage
+communicating on AWS Elastic Beanstalk. My service is builD through a two-stage
 CI process on DockerHub, with the first stage being public, and the second private.
 The private docker images are pulled by Beanstalk through an S3-hosted encrypted permissions
 file that the EC2 instances are granted permissions to read.
