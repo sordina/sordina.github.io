@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "trumps dumb speach"
+title:  "Trump's Dumb Speech"
 categories: blog
 ---
 
 <p class="attribution">
-	<img src="images/" class="image fit" />
-	<a href="">PHOTOGRAPHER</a> -
-	<a href="">"IMAGE TITLE"</a>
+	<img src="/images/trump-speech/trump.png" class="image fit" />
+	<a href="https://www.flickr.com/photos/jbouie/">Jamelle Bouie</a> -
+	<a href="https://www.flickr.com/photos/jbouie/20825230264">"Trump with his Hands Up"</a>
 </p>
 
 TEXT GOES HERE...
