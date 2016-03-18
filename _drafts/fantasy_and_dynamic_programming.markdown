@@ -13,22 +13,20 @@ categories: blog
 ## Fantasizing is often looked down on
 
 * As distinct from day-dreaming
-* Attributes of mania
+* Attributed to mania
 * Unrealistic
-* Not-Useful
 
-## But, You can remedy some of these issues
+... but, You can remedy some of these issues.
 
 <!--more-->
 
 * Start with the fantasy
-* Make it as realistic and engrosing as possible
-* Then in that Fantasy
+* Make it as realistic and engrosing as possible... Then in that Fantasy...
 * Rest on your laurels
-* And reflect
-* Reflect back onto how you rose to such a position
-* Look at the recent path to your achievement with pride
-* And be especially proud of how you came from humble beginnings
+* Reflect
+* Reflect back onto how you came to be in such a position
+* Look at the recent path to your achievements with pride
+* Be especially proud of how you rose from humble beginnings
 
 ## Dynamic-Programming comes in two parts
 
@@ -44,8 +42,6 @@ categories: blog
 ## Perform the Backward-Search
 
 * Fantasy provides a simulated mechanism for the backward-search
-
-## Example
 
 # Links
 
