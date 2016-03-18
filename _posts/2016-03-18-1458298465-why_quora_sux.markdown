@@ -2,6 +2,7 @@
 layout: post
 title:  "Why Quora Sux"
 categories: blog
+reddit: "https://www.reddit.com/r/sordina/comments/4axrfv/why_quora_sux_bows_and_arrows/"
 ---
 
 [Quora](https://www.quora.com/) - "The Best Answer to Any Question" serves as a Q&A site
