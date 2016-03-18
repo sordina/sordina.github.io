@@ -2,6 +2,7 @@
 layout: post
 title:  "Fantasy and Dynamic Programming"
 categories: blog
+reddit: "https://www.reddit.com/r/sordina/comments/4axqtv/fantasy_and_dynamic_programming_bows_and_arrows/"
 ---
 
 <p class="attribution">
