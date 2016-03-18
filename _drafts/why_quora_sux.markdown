@@ -62,17 +62,17 @@ I swear I read this every week.
 * So much military stuff
 * Ask rich people dumb stuff
 * Relationship advice for idiots
-* Easily googleable stuff but Quorans are so special, so let's ask them!
+* Easily googleable stuff that makes Quorans feel special, so let's ask them!
 
 ## Dumb Answers:
 
 * Let me tell you why your question is dumb, and then not answer it (very popular response)
 * I'm so cool
-* Detailed tangental boring answer
+* Detailed tangental boring answers
 
 ## Other points of view
 
-It's funny, I've had this quite-strong reinforced experience with Quora over the last few
+It's funny, I've had this reinforced experience with Quora over the last few
 years and my convictions have become so strong that I'd accepted that my oppinions were
 almost certainly fact. Until I had a conversation with my friend...
 
