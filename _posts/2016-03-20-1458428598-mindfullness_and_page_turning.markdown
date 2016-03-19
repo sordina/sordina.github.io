@@ -16,7 +16,6 @@ musician friends if they would like you to page-turn for them during a practice
 session. It's not hard to get the hang of, but it demands very high
 concentration none-the-less.
 
-
 <!--more-->
 
 I'm not sure if I subscribe to the benefits of perpetual mindfulness, but I do
