@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Rising Star"
+categories: blog
+---
+
+<p class="attribution">
+	<img src="/images/rising-star/field.png" class="image fit" />
+	<a href="https://www.flickr.com/photos/asherisbrucker/">Asher Isbrucker</a> -
+	<a href="https://www.flickr.com/photos/asherisbrucker/9577447322/in/photolist-fAjVq7">"Starfield"</a>
+</p>
+
+The concept of modern stardom hits like a rock to the back of the head.
+Shock, haze and a red-fade to concussion.
+
+What is a star?
+
+A star is silent. Old. Fading. It rises in perpetuity, but can only be seen in
+the quiet dark. It is easily drowned out.
+
+A star has one strength. Its purity. The sound of a star would be a single high harmonic
+note on a violin that emerges as the orchestral ruckus dims.
