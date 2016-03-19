@@ -21,6 +21,7 @@ I'm not sure if I subscribe to the benefits of perpetual mindfulness, but I do
 think that intermittent practice can have real impact. This is a fun and easy
 way to trigger the experience. I think even more-so if you're not a musician.
 
+
 # Links
 
 * <https://en.wikipedia.org/wiki/Page-turner>
