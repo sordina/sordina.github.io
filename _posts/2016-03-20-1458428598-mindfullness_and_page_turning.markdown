@@ -4,6 +4,7 @@ title:  "Mindfulness and Page-Turning"
 categories: blog
 ---
 
+
 <p class="attribution">
 	<img src="/images/mindfull-page-turning/score.png" class="image fit" />
 	<a href="https://www.flickr.com/photos/15302763@N04/">alexanderward12</a> -
