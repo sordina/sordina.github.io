@@ -2,6 +2,7 @@
 layout: post
 title:  "Mindfulness and Page-Turning"
 categories: blog
+reddit: "https://www.reddit.com/r/sordina/comments/4b5hjt/mindfulness_and_pageturning_bows_and_arrows/"
 ---
 
 
