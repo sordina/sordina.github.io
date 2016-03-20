@@ -11,9 +11,9 @@ permalink: /posts/
       <table>
         {% for post in site.posts %}
           <tr>
-            <td>{{ post.date | date: "%b %-d, %Y" }}</td>
-            <td class="social"> {% if post.reddit %} &nbsp;&nbsp; <a href="{{post.reddit}}"><i class="fa fa-reddit"></i></a> &nbsp; {% endif %} </td>
-            <td> <a href="{{ post.url }}">{{ post.title }}</a> </td>
+            <td style="white-space: nowrap;">{{ post.date | date: "%b %-d, %Y" }}</td>
+            <td style="line-height: 0;" class="social">{% if post.reddit %}&nbsp;<a href="{{post.reddit}}"><i class="fa fa-reddit"></i></a>&nbsp;{% endif %}</td>
+            <td style="width: 100%;"> <a href="{{ post.url }}">{{ post.title }}</a> </td>
           </tr>
         {% endfor %}
       </table>
