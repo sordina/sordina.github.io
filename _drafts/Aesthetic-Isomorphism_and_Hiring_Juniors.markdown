@@ -101,14 +101,64 @@ immediately, or it is a no-hire situation.
 
 ## Analogy
 
-Translating an aesthetic from on domain to another is a large effort.
-Archimedes said:
+Translating an aesthetic from on domain to another is a large effort,
+but Archimedes said:
 
-> Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.
+> Give me a lever long enough and a fulcrum on which to place it, and I shall
+  move the world.
 
 If you wish to be able to perform this aesthetic translation, then you need
 a lever and a fulcrum. The fulcrum is analogy, and the moving the lever is
-examples and extension.
+examples, extension of those examples, and vetting the student's own examples.
+
+Instead of focusing on style, results, or something like that when you are
+training, put a huge focus on the junior developing a strong aesthetic in
+the field. This could done by waxing lyrical about the aesthetic at regular
+intervals, in between layers of solid examples, tying them back to the
+junior's own areas of strong aesthetic-sensibility. Also, while getting
+them up to speed on the more concrete details of the trade via small projects,
+etc. You can help develop their partitioning filter about what has good
+or bad aesthetics at first, but later, dropping the notion of good or bad
+and trying to simply understand what an existing project's aesthetics are
+of themselves.
+
+
+## Burning
+
+The outcome of a developed aesthetic in a field is that the owner of that
+aesthetic will no longer be directly dependent on others to train them
+to mastery in that field. By using the aesthetic as a heuristic, they
+should now be able to train themselves. They will know when they need
+to seek out help and when they are on the right path. They will know when
+a piece of work that they have done is a acceptible pragmatic compromise
+that needs to be revisited later for improvement. They will know when
+they have crafted something beautiful.
+
+A translated aesthetic from a pre-existing passion of theirs to your
+field will light a fire within them that will sustain itself. Its
+fuel will be the work in front of them and with each day they will
+grow, even without prompting.
+
+This is the goal.
+
+
+## Journey
+
+I've been thinking a lot about hiring lately. I want to enable our company
+to grow. This seems like a no brainer, but there are three reasons why growth
+is a very dangerous thing...
+
+* Poisoning Culture
+* Dilution of Talent
+* Limited Time for Training
+
+The ideas I've been exploring here are intended to target the latter two
+points. I want to develop a new way to hire and train. One that lets us
+become effective very quickly with new hires. One that lets us impart a
+kernel of understanding in the new-hire that will allow them to train
+themselves in the logistic-details, and one that will allow us to filter for
+the candidates where this idea is possible.
+
 
 # Links
 
