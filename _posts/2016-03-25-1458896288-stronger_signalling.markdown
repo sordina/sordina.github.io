@@ -17,8 +17,8 @@ Signalling is the conveyance of information outside of the direct in-band commun
 
 This signals that they may have some grit, connections, a good demeanor and interesting traits.
 
-Of course, this signal could be misleading, but this isn't meant to be the conclusion
-the investigation of what the signal implies. Just the first step in the process.
+Of course, this signal could be misleading, but this isn't meant to conclude
+the investigation of what the signal implies. It's just an early step in the process.
 
 Now the cooler the signalling attribute, the stronger the signal, right?
 
