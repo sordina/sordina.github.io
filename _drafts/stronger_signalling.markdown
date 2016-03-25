@@ -1,15 +1,41 @@
 ---
 layout: post
-title:  "stronger signalling"
+title:  "Stronger Signalling"
 categories: blog
 ---
 
 <p class="attribution">
-	<img src="images/" class="image fit" />
-	<a href="">PHOTOGRAPHER</a> -
-	<a href="">"IMAGE TITLE"</a>
+	<img src="/images/stronger-signalling/signals.png" class="image fit" />
+	<a href="https://www.flickr.com/photos/rappensuncle/">Mel Stoutsenberger</a> -
+	<a href="https://www.flickr.com/photos/rappensuncle/1674861241/in/photolist-3y16TX-anMRXi-qCYBQh-ioZ544-dmaLpR-7ZsHVT-6hJpGP-a8hMvQ-oxHFCs-sdq99Y-apCN1K-vESMDL-7XnSn7-qzB1wt-6EYWCk-bvZMpf-dmW1B7-pi63ri-qPaGYC-eMDwJJ-6YQToF-7ckqFQ-o1ixYU-5ryvVu-dNfcyp-jCrH2c-sniN9v-5A74bU-4TDS6U-fFppJj-eR2Mf-pzWN57-bna3Ew-seXvxs-atSmL4-mPh4uA-a9mWZc-5fBktD-agQGxx-8kDWxm-bRpUNx-66g1Kw-4wwpqf-aCTiLk-o3KLsg-rAGkC5-o1ez6X-bDfXuu-cigmBU-ggMT2o">"signals"</a>
 </p>
 
-TEXT GOES HERE...
+Signalling is the conveyance of information outside of the direct in-band communication channel.
 
-Wolf rabbit quote
+> Example: Candidate at an interview for JPL went to Harvard.
+
+This signals that they may have some grit, connections, a good demeanor and interesting traits.
+
+Of course, this signal could be misleading, but this isn't meant to be the conclusion
+the investigation of what the signal implies. Just the first step in the process.
+
+Now the cooler the signalling attribute, the stronger the signal, right?
+
+Take a look at this panel from the manga "Cromartie High-School":
+
+<p class="attribution">
+	<img src="/images/stronger-signalling/rabbit2.png" class="image" /><br />
+	<a href="http://allmangascans.com/cromartie-high-school">Cromartie High-School</a> -
+	<a href="http://allmangascans.com/cromartie-high-school/1/26">"Volume 1, Page 26"</a>
+</p>
+
+This is a signal-paradox.
+
+If you lack an expected signal in a context, then you may actually signal higher on the
+implied attributes than if you had actually displayed the signal at all.
+
+> Example: Candidate at an interview for JPL never went to university at all.
+
+How the heck did they manage to get put in front the interviewer then?
+
+What incredible thing did they do to manage that?
