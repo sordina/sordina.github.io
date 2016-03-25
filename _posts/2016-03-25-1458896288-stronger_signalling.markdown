@@ -2,6 +2,7 @@
 layout: post
 title:  "Stronger Signalling"
 categories: blog
+reddit: "https://www.reddit.com/r/sordina/comments/4bvssc/stronger_signalling_bows_and_arrows/"
 ---
 
 <p class="attribution">
