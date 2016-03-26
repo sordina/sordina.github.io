@@ -45,23 +45,23 @@ from a "Value" perspective.
 ## The Scenario
 
 
-         Puppy-Toys LLC          Cat-Snack Corp
-        +--------------+        +--------------+
-        |              | -(X)----------+       |
-        |              |        |      |       |
-        |              |        |      V       |
-        |     Dave -------(Y)-> |    Alice     |
-        |              |        |              |
-        |              | -(A)-> |              |
-        |              |        |              |
-        |          +------(C)-> |              |
-        |         /    |        |              |
-        |        /     | -(D)----------+       |
-        |       /      |        |      |       |
-        |              |        |      V       |
-        |     Sam --------(S)------> Carol     |
-        |              |        |              |
-        +--------------+        +--------------+
+     Puppy-Toys LLC          Cat-Snack Corp
+    +--------------+        +--------------+
+    |              | -(X)----------+       |
+    |              |        |      |       |
+    |              |        |      V       |
+    |     Dave -------(Y)-> |    Alice     |
+    |              |        |              |
+    |              | -(A)-> |              |
+    |              |        |              |
+    |          +------(C)-> |              |
+    |         /    |        |              |
+    |        /     | -(D)----------+       |
+    |       /      |        |      |       |
+    |              |        |      V       |
+    |     Sam --------(S)------> Carol     |
+    |              |        |              |
+    +--------------+        +--------------+
 
 A threat originated from the Puppy-Toys company, towards the Cat-Snack Corporation.
 
@@ -381,4 +381,4 @@ Be clear, or face a great combinatorial explosion of doubt!
 
 # Links
 
-* <https://en.wikipedia.org/wiki/Curse_of_dimensionality>
+* [The Curse of Dimensionality](https://en.wikipedia.org/wiki/Curse_of_dimensionality)
