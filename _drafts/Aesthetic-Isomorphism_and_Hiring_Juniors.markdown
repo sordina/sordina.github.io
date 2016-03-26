@@ -166,3 +166,4 @@ the candidates where this idea is possible.
 * <http://www.joelonsoftware.com/articles/fog0000000043.html>
 * <http://danluu.com/programmer-moneyball/>
 * <http://www.brainyquote.com/quotes/quotes/a/archimedes101761.html>
+* <https://en.wikipedia.org/wiki/Aesthetics>
