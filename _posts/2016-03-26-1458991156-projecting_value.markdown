@@ -2,6 +2,7 @@
 layout: post
 title:  "Projecting Value"
 categories: blog
+reddit: "https://www.reddit.com/r/sordina/comments/4c0ud1/projecting_value_bows_and_arrows/"
 ---
 
 <p class="attribution">
