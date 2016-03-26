@@ -2,6 +2,7 @@
 layout: post
 title:  "Aesthetic-Analogy and Hiring"
 categories: blog
+reddit: "https://www.reddit.com/r/sordina/comments/4c0de8/aestheticanalogy_and_hiring_bows_and_arrows/"
 ---
 
 <p class="attribution">
