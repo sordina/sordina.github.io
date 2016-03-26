@@ -46,11 +46,11 @@ from a "Value" perspective.
 
          Puppy-Toys LLC          Cat-Snack Corp
         +--------------+        +--------------+
-        |              |   A    |              |
-        |              | -----> |              |
-        |     Dave     |        |    Alice     |
-        |              |   X    |      ^       |
+        |              |   X    |              |
         |              | --------------+       |
+        |              |        |      |       |
+        |              |   A    |      V       |
+        |     Dave     | -----> |    Alice     |
         |              |        |              |
         |              |   C    |              |
         |           +---------> |              |
@@ -129,6 +129,9 @@ won't be the combinatorial explosion discussed in the previous post:
 
 Remember that this is being analysed objectively here, but as an analyst in the
 real-world, everything here would be a subjective guess.
+
+Feel free to skip [to the conclusion](#what-can-we-learn-from-this-hypothetical)
+if the Theories-of-Mind section becomes too boring...
 
 
 ## Alice's Theories of Mind
@@ -256,17 +259,29 @@ that exists nowhere else.
 
 ### Dave's Understanding of Carol's Interpretation
 
-* [(A).](#alices-interpretation)
-* [(C).](#carols-interpretation)
-* [(D).](#daves-interpretation)
-* [(S).](#sams-interpretation)
+Since, in Dave's estimation, Carol is being attacked by Puppy-Toys,
+he feels that Carol will no doubt be under the factual impression
+that she is under attack. However, he feels that Carol will have
+misconstrued her attacker! Dave thinks that because convinced Sam
+to pen the letter, that Carol will feel that Sam is the attacker,
+even though it was really a Puppy-Toys endeavour...
+
+Dave's understanding of Carol's interpretation is [(S).](#sams-interpretation)
 
 ### Dave's Understanding of Dave's own Interpretation
 
-* [(A).](#alices-interpretation)
-* [(C).](#carols-interpretation)
-* [(D).](#daves-interpretation)
-* [(S).](#sams-interpretation)
+Dave's understanding of his own interpretation is that has a
+nuanced and sophisticated edge over the other people involved that
+let him see the real truth, a more subtle truth that takes into
+account group actions, and doesn't attribute actions to the
+issuing parties as a matter-of-face, since, all actions are
+a consequence of another action, as Newton said so well.
+As such, even though he persuaded Sam to write the response,
+and Sam wrote it, the action was really due to the collegial
+atmosphere that had developed at Puppy-Toys over the years,
+and was therefore a Puppy-Toys action.
+
+Dave's understanding of his own interpretation is, of course [(D).](#daves-interpretation)
 
 ### Dave's Understanding of Sam's Interpretation
 
