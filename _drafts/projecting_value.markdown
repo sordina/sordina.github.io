@@ -285,10 +285,13 @@ Dave's understanding of his own interpretation is, of course [(D).](#daves-inter
 
 ### Dave's Understanding of Sam's Interpretation
 
-* [(A).](#alices-interpretation)
-* [(C).](#carols-interpretation)
-* [(D).](#daves-interpretation)
-* [(S).](#sams-interpretation)
+Dave knows that Sam knows that Dave persuaded him to do what he did.
+But Dave also knows that Sam feels that he must take responsibility
+for his own actions, and will therefore claim responsibility for
+this one. Poor naive Sam... He also knows that Sam has the aptitude
+to see the broader impact of his action.
+
+Dave's understanding of Sam's interpretation is [(C).](#carols-interpretation)
 
 ## Sam's Theories of Mind
 
