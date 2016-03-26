@@ -13,7 +13,7 @@ categories: blog
 What is a great violin?
 
 A great violin has a great build, great sound, great
-herritage and a great history, but is a great violin what makes a great
+heritage and a great history, but is a great violin what makes a great
 violinist so remarkable? Why does Joshua Bell own the Gibson Stradivarius? Is
 it because he needs it to play his signature great performances?
 
@@ -29,14 +29,14 @@ What am I getting at here?
 
 Your company is the violinist and your new-hire is the violin.
 
-You may percieve your company as a virtuoso in its field, but you are not yet
+You may perceive your company as a virtuoso in its field, but you are not yet
 wealthy enough to go out and buy a bunch of Stradivarius graduates as juniors.
 You need to be able to work effectively with someone who may not have...
 
-* "Great Build"     - An attitue befitting the kind of work they will perform
-* "Great Sound"     - The fully developed skillset you want
-* "Great Herritage" - A prestigious education
-* "Great History"   - An impressive C.V.
+* "Great Build"    - An attitude befitting the kind of work they will perform
+* "Great Sound"    - The fully developed skill-set you want
+* "Great Heritage" - A prestigious education
+* "Great History"  - An impressive C.V.
 
 There is something they must have though, or they are a non-starter.
 
@@ -50,18 +50,18 @@ brass tacks.
 If you have aesthetics in a domain then you have a heuristic that will save
 you when you are down-and-out. You have a means to harshly criticize yourself,
 and others. You will develop a language to communicate your ideas with passion
-and conviction. You can paint in broard strokes your intentions for an undertaking
+and conviction. You can paint in broad strokes your intentions for an undertaking
 and fill in the blanks later. You can see a path through adversity. You can
 imagine how to change a broken construction into a functional and beautiful one.
 There is no limit to what a powerful aesthetic will improve.
 
-If you don't believe this then watch someone with stunted aesthitics in any
+If you don't believe this then watch someone with stunted aesthetics in any
 of the situations described above. You will become a believer.
 
 If a candidate has a strong aesthetic in our problem domains then I would take
 them over someone with any of the "Great" points I listed earlier. However,
 that dilemma will likely never eventuate because if someone arrives with Build,
-Sound, Herritage and History, then they will most likely have a good aesthetic
+Sound, Heritage and History, then they will most likely have a good aesthetic
 too. Still, test this.
 
 
@@ -88,11 +88,11 @@ another domain than trying to build an aesthetic from scratch.
 Building a first aesthetic is something like a 10-year task. It is just not
 possible to do quickly. The primary reason for this is that the main way
 that an aesthetic is developed is through negative-reinforcement. A dissonance
-with the core of the existing aesthetic that is already posessed. If there is
+with the core of the existing aesthetic that is already possessed. If there is
 no core, then through primitive means - such as reward or punishment.
 
 I won't stray too long on this point, as my conclusion is that it is just too
-hard to develop a ground-up aesthitc in a new-hire. It will take too long, be
+hard to develop a ground-up aesthetic in a new-hire. It will take too long, be
 too painful, and drain too many other people's time. It is a bridge too far.
 If you find that your candidate does not have a very strong aesthetic in ANY
 other area, then they better be able to do some job you have in mind
@@ -130,7 +130,7 @@ aesthetic will no longer be directly dependent on others to train them
 to mastery in that field. By using the aesthetic as a heuristic, they
 should now be able to train themselves. They will know when they need
 to seek out help and when they are on the right path. They will know when
-a piece of work that they have done is a acceptible pragmatic compromise
+a piece of work that they have done is a acceptable pragmatic compromise
 that needs to be revisited later for improvement. They will know when
 they have crafted something beautiful.
 
@@ -145,7 +145,7 @@ This is the goal.
 ## Journey
 
 I've been thinking a lot about hiring lately. I want to enable our company
-to grow. This seems like a no brainer, but there are three reasons why growth
+to grow. This seems like a no-brainer, but there are three reasons why growth
 is a very dangerous thing...
 
 * Poisoning Culture
