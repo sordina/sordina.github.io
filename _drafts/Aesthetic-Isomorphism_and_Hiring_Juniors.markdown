@@ -123,7 +123,7 @@ and trying to simply understand what an existing project's aesthetics are
 of themselves.
 
 
-## Burning
+## Lighting a Fire Inside
 
 The outcome of a developed aesthetic in a field is that the owner of that
 aesthetic will no longer be directly dependent on others to train them
