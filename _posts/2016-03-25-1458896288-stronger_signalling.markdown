@@ -22,6 +22,8 @@ the investigation of what the signal implies. It's just an early step in the pro
 
 Now the cooler the signalling attribute, the stronger the signal, right?
 
+<!--more-->
+
 Take a look at this panel from the manga "Cromartie High-School":
 
 <p class="attribution">
