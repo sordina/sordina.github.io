@@ -49,8 +49,11 @@ from a "Value" perspective.
         |              |   X    |              |
         |              | --------------+       |
         |              |        |      |       |
-        |              |   A    |      V       |
-        |     Dave     | -----> |    Alice     |
+        |              |   Y    |      V       |
+        |     Dave -----------> |    Alice     |
+        |              |        |              |
+        |              |   A    |              |
+        |              | -----> |    Alice     |
         |              |        |              |
         |              |   C    |              |
         |           +---------> |              |
@@ -295,33 +298,57 @@ Dave's understanding of Sam's interpretation is [(C).](#carols-interpretation)
 
 ## Sam's Theories of Mind
 
+Sam wrote the threatening reply. Of course Sam knows what
+he was thinking at the time. Sam knows therefore, that he
+can be the only objective party in this whole situation...
+
 ### Sam's Understanding of Alice's Interpretation
 
-* [(A).](#alices-interpretation)
-* [(C).](#carols-interpretation)
-* [(D).](#daves-interpretation)
-* [(S).](#sams-interpretation)
+Sam feels that Alice was the only party who wasn't involved. He also knows that
+even though Alice wasn't involved she still has a strong opinion about what
+occurred. In Sam's opinion, Alice believes that Puppy-Toys attacked Carol. He's
+reached this conclusion because Puppy-Toys is a very cohesive unit, unlike
+Cat-Snack Corp, and any action emanating from one of its employees will be
+perceived as being made by the whole organization. He feels that Alice will
+think that it is Carol being attacked because Carol wrote the email that
+solicited the threatening response, she certainly wouldn't feel attacked
+herself in such a situation.
+
+Sam's understanding of Alice's interpretation is [(D).](#daves-interpretation)
 
 ### Sam's Understanding of Carol's Interpretation
 
-* [(A).](#alices-interpretation)
-* [(C).](#carols-interpretation)
-* [(D).](#daves-interpretation)
-* [(S).](#sams-interpretation)
+Sam wrote the email to Carol. This much is fact. Sam knows Carol, and
+he knows that she will feel very much under attack after receiving his
+email. She will be under no illusion who sent it either. Sam.
+
+Sam's understanding of Carol's interpretation is [(S).](#sams-interpretation)
 
 ### Sam's Understanding of Dave's Interpretation
 
-* [(A).](#alices-interpretation)
-* [(C).](#carols-interpretation)
-* [(D).](#daves-interpretation)
-* [(S).](#sams-interpretation)
+Sam's colleague and close-friend Dave is, in Sam's estimation, a
+manipulator. He feels that Dave thought he was persuading him to
+write the threatening reply, but that was besides the point when
+Sam began penning it. Sam know that he had to defend Puppy-Toys
+from breach of contract and so did what the situation demanded,
+regardless of if Dave was pushing for it or not...
+Still, Sam knows that Dave thinks that it was all Dave's doing.
+A manipulation of himself, but in reality an orchestration by
+Dave, against Cat-Snack Corp.
+
+Sam's understanding of Dave's interpretation is (Y). An arrow
+seen nowhere else.
 
 ### Sam's Understanding of Sam's own Interpretation
 
-* [(A).](#alices-interpretation)
-* [(C).](#carols-interpretation)
-* [(D).](#daves-interpretation)
-* [(S).](#sams-interpretation)
+Sam knows that he and Carol are the only ones who really understand
+the state of affairs. He wrote the threatening email, Carol received
+it. The interaction was between the two of them and they both
+understand that. No beating around the bush here.
+It's perfectly straight-forward.
+
+Sam's understanding of his interpretation is the same as his
+understanding of Carol's interpretation. [(S).](#sams-interpretation)
 
 
 # What can we Learn from this Hypothetical?
