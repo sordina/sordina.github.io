@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Open Movie Night"
+title:  "Melbourne Silver-Screen Open Movie Nights"
 categories: blog
 ---
 
