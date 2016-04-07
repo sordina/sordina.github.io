@@ -2,6 +2,7 @@
 layout: post
 title:  '"Melbourne Silver-Screen" Open Movie Nights'
 categories: blog
+reddit: "https://www.reddit.com/r/sordina/comments/4dqumv/melbourne_silverscreen_open_movie_nights_bows_and/"
 ---
 
 <p class="attribution">
