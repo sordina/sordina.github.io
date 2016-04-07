@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Melbourne Silver-Screen Open Movie Nights"
+title:  '"Melbourne Silver-Screen" Open Movie Nights'
 categories: blog
 ---
 
@@ -18,6 +18,7 @@ Designed for:
 
 * New directors showing off their work
 * Creative Commons Movies
+* Inclusive and Fun
 * Public Domain Movies
 * Approach universities and film-schools about using it as an avenue to show of student films
 
