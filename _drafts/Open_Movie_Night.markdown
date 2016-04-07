@@ -21,7 +21,7 @@ There are lots of movie-nights, so what makes this one unique?
 There are a slew of copyright issues associated with running movie nights beyond a few close friends.
 The easiest way around this is to simply only air movies that have permissive copyright licenses.
 Starting with this premise was a fruitful source of intuition about the kind of movies that we
-would endevour to screen...
+would endeavour to screen...
 
 * A Focus on Open-Content
 * Creative-Commons Movies
@@ -32,7 +32,7 @@ would endevour to screen...
 
 A constrained medium often gives birth to unexplored creativity, I'm hoping that the open constraint
 does the same for our movie nights. One of the best ideas that this has lead to so far, is to
-reach out to upcomming and student directors to see if they would like a small venue in which
+reach out to upcoming and student directors to see if they would like a small venue in which
 to air their films.
 
 * Invitations extended to directors to show off their work
