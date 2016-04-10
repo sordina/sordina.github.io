@@ -17,6 +17,8 @@ It's an open movie-night hosted at [Silverpond](http://silverpond.com.au/).
 
 There are lots of movie-nights, so what makes this one unique?
 
+<!--more-->
+
 ## Open Content
 
 There are a slew of copyright issues associated with running movie nights beyond a few close friends.
