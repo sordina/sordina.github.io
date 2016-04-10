@@ -2,6 +2,7 @@
 layout: post
 title:  "Opinions and Moments of Inertia"
 categories: blog
+reddit: "https://www.reddit.com/r/sordina/comments/4e57fp/opinions_and_moments_of_inertia_bows_and_arrows/"
 ---
 
 <!--
