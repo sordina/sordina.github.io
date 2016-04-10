@@ -32,42 +32,49 @@ categories: blog
 	<a href="https://www.miniphysics.com/uy1-calculation-of-moment-of-inertia-of-uniform-rigid-rod.html">"MoI in a Uniform Rigid Rod"</a>
 </p>
 
-Extreme opinions on neuanced topics are a-dime-a-dozen. It's easy to ignore the
+Extreme opinions on nuanced topics are a-dime-a-dozen. It's easy to ignore the
 fact that there are many diverse views on these kinds of subjects and focus only
-on your own, but another common occurance is creating extreme cacacatures of
-the other opinions on the topic.
-
-Some examples of this:
-
-* Programming Languages: Haskellers are Arrogant
-* Religion: Christians believe that the earth was created 7000 years ago
-* Terrorism: Terrorism is scary common
+on your own opinion. Another common reaction is to create an extreme caricatures of
+other opinions on the topic of your interest.
 
 <!--more-->
 
-The problem here is that the population concerned with the subject is
-large, and by focusing on extremes, you ignore the neuances of the individuals
-involved. It's far better to jettison your generalizations and focus on any
-particular individual if the opportunity arises. The variations in their
-behaviours and views will far exceed the bounds of the generalizations
-you have established about their category.
+The problem is that when the population concerned with the subject is large,
+and you focus on extremes then you ignore the subtleties of the opinions of the
+individuals involved. It's better to jettison your generalizations and
+focus on any particular individual if the opportunity arises. The variations in
+their behaviours and views will far exceed the bounds of the generalizations
+you have established about their "category".
 
 But what if you don't have an individual to focus on, or what if you're
 making decisions about groups? Surely there must be better ways to make
-generalizations that don't fall into the trap of simple caracature?
+generalizations without falling into the trap of caricature?
 The layman's statistical tool here is the average - Simply normalizing to the
 group... But shouldn't extreme views carry more weight?
 Even if there is a small subgroup of individuals within a group with extreme
-views, you should grant more weight to these oppinions as they have a greater
-impact on perceptions, as well as the direction of the groups actions.
+views, you should grant more weight to these opinions as they have a greater
+impact on perceptions, as well as the direction of the group's actions.
 
 There is, however, another tool that is conceptually simple, and should be
-able to be calculated if you can calculate an average, with just one other
+able to be taken into account if you can calculate an average, with just one other
 piece of information - what you feel should be considered "neutral".
-This tool is the Moment-of-Inertia[^1]
+These tools are the [Moments of Inertia.](https://en.wikipedia.org/wiki/Moment_of_inertia)
 
-Further reading:
+Moments of inertia are applicable in several contexts. One of these is the
+physics of momentum. Another one is structural-analysis. There are actually two
+related concepts coined "Moment of Inertia", that is the concept of
+angular-momentum, and also the concept of geometrical structural-stiffness - The "2nd Moment of Inertia".
+Both of these concepts can serve as useful analogies for opinion balancing.
 
-* <a href="http://andrewxhill.com/blog/2016/01/04/idea-averaging/">Idea Averaging</a>
+It's interesting to look at how each of the moments of inertia can be thought of
+in terms of application towards the dynamics of group-power-shifts, effective
+categorization of diverse opinions, as well as the implications of a shifting
+cultural mean.
 
-[^1]: <a href="https://en.wikipedia.org/wiki/Moment_of_inertia">Moment of Inertia - Wikipedia</a>
+What do you think?
+
+# Links
+
+* [Idea Averaging](http://andrewxhill.com/blog/2016/01/04/idea-averaging/)
+* [Moment of Inertia](https://en.wikipedia.org/wiki/Moment_of_inertia)
+* [2nd Moment of Inertia](https://en.wikipedia.org/wiki/Second_moment_of_area)
