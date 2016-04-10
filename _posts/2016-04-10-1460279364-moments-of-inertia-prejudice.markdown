@@ -35,7 +35,7 @@ reddit: "https://www.reddit.com/r/sordina/comments/4e57fp/opinions_and_moments_o
 
 Extreme opinions on nuanced topics are a-dime-a-dozen. It's easy to ignore the
 fact that there are many diverse views on these kinds of subjects and focus only
-on your own opinion. Another common reaction is to create an extreme caricatures of
+on your own opinion. Another common reaction is to create extreme caricatures of
 other opinions on the topic of your interest.
 
 <!--more-->

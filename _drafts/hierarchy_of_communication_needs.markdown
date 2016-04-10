@@ -14,11 +14,12 @@ Most people are familiar with the
 but I feel that this idea can be reused in many places, including...
 Communications.
 
-Sometimes it feels like just getting a response to your communication is very hard.
-This is the bottom of the barrel in terms of communications problems.
-The hierarchy of needs lays out an ordering of 
-Just as
-there is a Hierarchy of needs
+Sometimes it feels like just getting a response to your communication is very
+hard. This is the bottom of the barrel in terms of communications problems. The
+hierarchy communications needs lays out an ordering, and dependency hirachy between
+various levels of communication.
+
+Just as there is a Hierarchy of needs, there is also a Hierarchy of communication.
 
 From the Bottom-Up, like the pyramid:
 
