@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Prejudice and Moments of Inertia"
+title:  "Opinions and Moments of Inertia"
 categories: blog
 ---
 
