@@ -2,6 +2,7 @@
 layout: post
 title:  "Best-Guess (Hypothesis Enumeration)"
 categories: blog
+reddit: "https://www.reddit.com/r/sordina/comments/4e551z/bestguess_hypothesis_enumeration_bows_and_arrows/"
 ---
 
 <p class="attribution">
