@@ -2,6 +2,7 @@
 layout: post
 title:  "Dumb Idea: Asciinema WebM Proxy"
 categories: blog
+reddit: "https://www.reddit.com/r/sordina/comments/4e8brc/dumb_idea_asciinema_webm_proxy_bows_and_arrows/"
 ---
 
 <p class="attribution">
