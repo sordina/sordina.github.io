@@ -2,6 +2,7 @@
 layout: post
 title:  "Surface-Area and Influence"
 categories: blog
+reddit: "https://www.reddit.com/r/sordina/comments/4f6e9t/surfacearea_and_influence_bows_and_arrows/"
 ---
 
 <p class="attribution">
