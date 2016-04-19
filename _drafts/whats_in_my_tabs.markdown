@@ -15,6 +15,8 @@ TODO: Image
 Repeating the idea from [last time](/blog/2016/02/17/1455690670-whats_in_my_tabs.html),
 I've got a new set of tabs that have been hanging around...
 
+<!--more-->
+
 1. [Google Keep for Work](http://keep.google.com/)
 2. [External Sort](https://github.com/sseefried/external-sort/blob/master/src/Data/ExternalSort/Internal.hs)
 3. [Metropolis–Hastings Algorithm](https://en.wikipedia.org/wiki/Metropolis%E2%80%93Hastings_algorithm)

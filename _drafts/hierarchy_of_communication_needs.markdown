@@ -19,6 +19,8 @@ hard. This is the bottom of the barrel in terms of communications problems. The
 hierarchy communications needs lays out an ordering, and dependency hirachy between
 various levels of communication.
 
+<!--more-->
+
 Just as there is a Hierarchy of needs, there is also a Hierarchy of communication.
 
 From the Bottom-Up, like the pyramid:
