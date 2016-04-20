@@ -30,51 +30,71 @@ the physics side. We see the changes to the world, the fantastic technologies
 and the rocket-ships, but underlying and enabling this lies the transfer of
 information. This has swept into public conciousness recently with the
 popularisation of the notion of an artificial-intelligence singularity. Less
-extreme is simply the shrinkage of the scales involved in information transmission.
-Transistor sizes shrink, timescales of cycles shift ever smaller, and network
-capacities and packet latencies reduce again and again.
+extreme is simply the shrinkage of the scales involved in information
+transmission. Transistor sizes shrink, timescales of cycles shift ever smaller,
+and network capacities and packet latencies reduce again and again.
 
-It is reduction that makes this more interesting than a growth phenomenon.
-In the equations that interest us with regards to information these shrinking
-quantities lie on the denominator, and we all know what happens when you
-divide by zero! Ha-ha, of course the very notion of dividing by zero is absurd
-and there are physical limits preventing this from manifesting. The asymptote
-is tempered by asymptotic forces in the numerator. Still, currently the trend
+It is reduction that makes this more interesting than a growth phenomenon. In
+the equations that interest us with regards to information these shrinking
+quantities lie on the denominator, and we all know what happens when you divide
+by zero! Ha-ha, of course the very notion of dividing by zero is absurd and
+there are physical limits preventing this from manifesting. The asymptote is
+tempered by asymptotic forces in the numerator. Still, currently the trend
 applies - at least philosophically.
 
 While transmission speeds are reducing technologically, how are they faring
 interpersonally? Will we experience a personal renaissance in human-to-human
 interaction? Some of us may, but not all. Some people like to handle
-communication like a batch process. This can be observed as a total void
-of correspondence for extended periods of time, followed by bursts of ideas,
-replies, and requests. Other people acquiesce to all incoming messages.
-They reply immediately, and whatever task is currently occupying them
-plays second fiddle to the immediacy of the message vibration-alert.
+communication like a batch process. This can be observed as a total void of
+correspondence for extended periods of time, followed by bursts of ideas,
+replies, and requests. Other people acquiesce to all incoming messages. They
+reply immediately, and whatever task is currently occupying them plays second
+fiddle to the immediacy of the message vibration-alert.
 
 There are "brutal-batchers" and "meek-interuptees", and I'm sure many others
-who like on the continuum between, but what about "spare-cycle schedulers"?
-The two personalities have been portrayed analogously to operating-system
-task-schedulers. The third model that I'm picturing is identical to the
-batch system, except for an additional attribute of scheduling communication
-windows for points where NOP cycles occur in the batch tasks.
+who like on the continuum between, but what about "spare-cycle schedulers"? The
+two personalities have been portrayed analogously to operating-system
+task-schedulers. The third model that I'm picturing is identical to the batch
+system, except for an additional attribute of scheduling communication windows
+for points where NOP cycles occur in the batch tasks.
 
 It may be possible, but I believe that it must be at least exceedingly rare
-that someone can work on a task 100% for extended periods of time with no
-gaps. These gaps are sometimes filled with total inactivity - staring out the
-window, the closing of eyes and day-dreaming, doodling on a piece of paper...
-This kind of inactivity is valuable. It is a form of rest and rejuvenation.
-However, there is a second use of the idle time between useful cycles during
+that someone can work on a task 100% for extended periods of time with no gaps.
+These gaps are sometimes filled with total inactivity - staring out the window,
+the closing of eyes and day-dreaming, doodling on a piece of paper... This kind
+of inactivity is valuable. It is a form of rest and rejuvenation. However,
+there is a second use of the idle time between useful cycles during
 a batch-task. This can be seen as quiet frustration and occupation seeking
-activities of no acknowledged value. Here is the time where I would suggest
-you partake in cycle-reclaiming communications.
+activities of no acknowledged value. Here is the time where I would suggest you
+partake in cycle-reclaiming communications.
 
-not-covered
+Communication itself can still be a batch-process. The most important and
+reasoned forms of communication should still follow this model, since covering
+serious subjects flippantly would do more harm than good, but there are certain
+kinds of communications that are extremely low-overhead and still very
+valuable. These are the classes of correspondence that should be considered for
+scheduling to spare cycles:
 
-covered
+* Receipt acknowledgement (since channels are fallible, this is valuable)
+* Subject survey (for the people who need to know the broad strokes)
+* In transit (batched tasks that are being looked at where a complete response is not ready)
+* Predictions (simple estimates, even if they are non-finite such as "this could take a while")
 
-incoming
+How do you know if you are you suffering the consequences of the batcher or
+interuptee? The ideal way that you would know if you're suffering negative
+batchterisms is that people would simply tell you. Unfortunately most people
+hate confrontation and this is unlikely to be made so explicit. Instead of
+this, you must look for the effects described in the context of the hermit.
+Missed opportunities, lost friends, and lack of interest in the communications
+that are finally sent out. The interuptee has an easier time identifying their
+plight - Constant frustration at the lack of ability to concentrate over the
+stream of incoming interruptions, feeling subservient to the outside world
+rather than its master, and a pang of fear that deeper meaning is slipping by
+unaccounted for.
 
-outgoing
+If you feel that you might be the victim of these communications mindsets, then
+try the spare-cycles approach. You may find you pay a very low cost for a very
+high reward.
 
 
 # Links
@@ -82,3 +102,6 @@ outgoing
 * <https://en.wikipedia.org/wiki/Accelerando>
 * <http://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html>
 * <https://en.wikipedia.org/wiki/Information_theory>
+* <https://en.wikipedia.org/wiki/Computer_multitasking>
+* <https://en.wikipedia.org/wiki/Preemption_(computing)>
+* <https://en.wikipedia.org/wiki/Batch_processing>
