@@ -2,6 +2,7 @@
 layout: post
 title:  "Spare Cycles and Multi-Tasking"
 categories: blog
+reddit: "https://www.reddit.com/r/sordina/comments/4fm8qh/spare_cycles_and_multitasking_bows_and_arrows/"
 ---
 
 <p class="attribution">
