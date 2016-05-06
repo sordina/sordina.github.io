@@ -13,3 +13,7 @@ categories: blog
 Composable Sub-Graphs.
 
 <!--more-->
+
+# Links
+
+* <https://ncatlab.org/nlab/show/compact+closed+category>
