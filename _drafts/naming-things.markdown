@@ -106,3 +106,11 @@ It is also ungooglable.
 <http://bayesianlogic.github.io>
 
 ### XBox One
+
+### Juliar
+
+Yes... Just terrible.
+
+Julia, R, Julia-r?
+
+<https://github.com/juliarLang/juliar>
