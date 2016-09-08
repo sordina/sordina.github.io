@@ -138,9 +138,9 @@ The components that allowed us to build such contextual layers looked like the f
 
 ## Illuminated
 
-The result was a successful collaboration between Powercor, Silverpond, and Peter,
+The project was a successful collaboration between Powercor, Silverpond, and Peter,
 to create a new platform for a powerful data-science capability within the business.
-The result was achieved in a short time-span and enabled deeper understandings
-than were previously within reach.
+This result was achieved in a short time-span and with Powercor's data, enabled
+deeper understandings than were previously within reach.
 
 Thank you for listening.
