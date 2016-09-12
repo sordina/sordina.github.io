@@ -2,6 +2,7 @@
 layout: post
 title:  "Building Data Science Platforms – A Solution for Powercor"
 categories: blog
+reddit: "https://www.reddit.com/r/sordina/comments/52eafu/building_data_science_platforms_a_solution_for/"
 ---
 
 <p class="attribution">
