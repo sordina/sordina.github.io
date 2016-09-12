@@ -15,6 +15,17 @@ On Thursday 8th, September 2016 I'm giving a talk on Powercor's data-science pla
 The talk will briefly cover how the architecture of the platform was conceived and how
 the platform was implemented.
 
+<!--more-->
+
+My presentation was the last section of a three-part presentation by some of the members
+of the team at PowerCor that helped put together the data-science platform, research,
+design, and implementations. The other speakers were Peter McTaggart and Adel Foda
+with an introduction by Jonathan Chang.
+
+You can find the same content [on the Silverpond blog.](TODO)
+
+---
+
 ## Platform
 
 ### <em> Problems → Think → Enlightenment → Build → Solution </em>
