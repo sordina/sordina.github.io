@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "AGL Data-Science-Platform Talk"
+title:  "Building Data Science Platforms – A Solution for Powercor"
 categories: blog
 ---
 
@@ -12,8 +12,10 @@ categories: blog
 
 On Thursday 8th, September 2016 I gave a talk on Powercor's data-science platform at the
 [AGL-Office Melbourne Data-Science Meetup](https://www.meetup.com/Data-Science-Melbourne/events/230763753/).
-The talk will briefly cover how the architecture of the platform was conceived and how
-the platform was implemented.
+The talk briefly covered how the architecture of the platform was conceived and how
+the platform was implemented. Below is an excerpt from my talk to give some
+insight into building a platform that can handle the rigour of data modelling
+and analysis.
 
 <!--more-->
 
@@ -22,7 +24,7 @@ of the team at PowerCor that helped put together the data-science platform, rese
 design, and implementations. The other speakers were Peter McTaggart and Adel Foda
 with an introduction by Jonathan Chang.
 
-You can find the same content [on the Silverpond blog.](TODO)
+You can find the same content [on the Silverpond blog.](http://silverpond.com.au/2016/09/12/agl-talk.html)
 
 ---
 
@@ -154,4 +156,5 @@ to create a new platform for a powerful data-science capability within the busin
 This result was achieved in a short time-span and with Powercor's data, enabled
 deeper understandings than were previously within reach.
 
-Thank you for listening.
+Thanks to Powercor and Peter for the opportunity to share our collaboration, as
+well as Data Science Melbourne and AGL for hosting a fantastic event.
