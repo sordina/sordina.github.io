@@ -10,7 +10,7 @@ categories: blog
 	<a href="https://www.flickr.com/photos/usnavyresearch/10855637924/in/photolist-hxgYX7-gcmAL3-akcq1H-gcmB2d-hxh1G9-dLtGXz-e9ZSxG-gcmYbe-f7siwc-dLPvSZ-iiAwWZ-gcmo11-e9UcYp-gPScC-gvhXkD-e9ZSXm-gcmAFo-e9ZSBb-i45ou3-gny4n4-edT3He-dMkeQY-e9ZTf9-dMuBcy-e9ZSDu-oBSiJs-gcmAQb-fZDLcL-e9ZSyj-e9ZTjN-aXbgBH-e9UcKa-gV5rHn-e9UcWz-i45Uhr-dKxJnp-e9ZT1q-e9UcG2-gnCLCd-9uX91Z-4CNgZu-kwvnJB-gcmge6-e9UcKM-dHwRhu-e9UcPv-e9UdpV-gkUDUH-e9ZSMS-e9ZSLC">"120630-N-PO203-241"</a>
 </p>
 
-On Thursday 8th, September 2016 I'm giving a talk on Powercor's data-science platform at the
+On Thursday 8th, September 2016 I gave a talk on Powercor's data-science platform at the
 [AGL-Office Melbourne Data-Science Meetup](https://www.meetup.com/Data-Science-Melbourne/events/230763753/).
 The talk will briefly cover how the architecture of the platform was conceived and how
 the platform was implemented.
