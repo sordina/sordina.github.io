@@ -35,6 +35,16 @@ make someone a good musician... Or something else.
 The lesson here is really to recognise the opportunity to abstract and enumerate. If you keep
 this notion in mind it has the potential to magnify the impact of your epiphanies.
 
+Quite a few of the posts on this blog have stemmed from this idea. The most notable
+example being ["Projecting Value"](/blog/2016/03/26/1458991156-projecting_value.html).
+Another post that I came across recently on
+[Organizational Physics](http://organizationalphysics.com/)
+was
+["PSIU"](http://organizationalphysics.com/2011/11/09/the-four-styles-of-management/).
+It's interesting to see who is talking about specific epiphanies, who is talking about
+existing combinatorial ideas, and expanding their cases and creating models and who
+is finding new combinatorial axes.
+
 
 # Links
 
