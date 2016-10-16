@@ -2,6 +2,7 @@
 layout: post
 title:  "Enumeration-Style Blog Posts"
 categories: blog
+reddit: "https://www.reddit.com/r/sordina/comments/57qd0d/enumerationstyle_blog_posts_bows_and_arrows/"
 ---
 
 <p class="attribution">
