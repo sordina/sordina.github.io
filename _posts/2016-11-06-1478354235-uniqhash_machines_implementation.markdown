@@ -82,12 +82,12 @@ Until now!
 * [Machines](https://github.com/ekmett/machines/#machines)
   seemed very promising, fulfilling all needs, except for not _quite_
   being able to express graphs. It could express tributary trees
-  of computation, but causing a source to diverge, then rejoin in
-  lockstep was not possible with the built in components.
+  of effectful computation using `Wye` and `Tee`, but causing a source to
+  diverge, then rejoin in lockstep with effects was not possible with the built in components.
   The [Mealy-Machine](https://github.com/ekmett/machines/blob/master/src/Data/Machine/Mealy.hs#L49)
   seemed promising, and could solve the problem in a pure context, but
   then general effects were unable to be executed as the pipeline processed
-  data... Still, it was so close, that I decided to try creating an
+  data... Still, it was so close that I decided to try creating an
   upgraded Mealy-Machine - the [MealyM](https://github.com/sordina/uniqhash/blob/master/Data/Machine/MealyM.hs#L18).
 
 ```haskell
@@ -111,6 +111,22 @@ to-date.
 
 <img src="/images/uniqhash-machines/machines-code.png"
   style="display: block; border: 1px solid blue; margin: 1em auto;" />
+
+There are many nice properties of `MealyM`. One of my favorite is that
+it has an `Arrow` instance. This allows for totally idiomatic construction
+of computational-graphs. You should even be able to go about this
+construction with the hillariously fantastic [Needle](https://hackage.haskell.org/package/needle).
+
+    n :: MealyM IO FilePath (Maybe FilePath)
+    n = [nd|
+        }===\================\
+            \                { (,) }==\=============\
+            \=={ hashPipe }==/        \             { uncurry retrieve }==>
+                                      \=={ cache }==/
+    |]
+
+... Although I've had some trouble with Needle's dependencies as it looks like
+it hasn't been updated in some time...
 
 I've had some discussions on both the [machines](https://github.com/ekmett/machines/issues/51)
 and [concurrent-machines](https://github.com/acowley/concurrent-machines/issues/3)
