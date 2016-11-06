@@ -128,7 +128,7 @@ construction with the hilariously fantastic [Needle](https://hackage.haskell.org
 
 ... Although I've had some trouble with Needle's dependencies as it looks like
 it hasn't been updated in some time... It's glorious enough that I might just
-bring Needle up to date :D
+attempt to bring Needle up to date :D
 
 I've had some discussions on both the [machines](https://github.com/ekmett/machines/issues/51)
 and [concurrent-machines](https://github.com/acowley/concurrent-machines/issues/3)
