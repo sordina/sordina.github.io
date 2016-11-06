@@ -41,7 +41,7 @@ regularly.
 
 	$ commando -j -p cat | grep --line-buffered -v git \
 	                     | uniqhash \
-	                     | tee /dev/stderr
+	                     | tee /dev/stderr \
 	                     | conscript chromereload uniqhash_machines
 
 The black-box requirements for Uniqhash are simple enough, but there
