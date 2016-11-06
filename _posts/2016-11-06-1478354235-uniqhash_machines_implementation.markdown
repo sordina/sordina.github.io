@@ -107,7 +107,7 @@ to-date.
 * Execution of the graph occurs in lock-step, requiring no special code
   to converge previously diverged paths
 * `MealyM` is idiomatic, fitting into the existing `Machines` ecosystem
-* Everything run acceptably quickly
+* Everything runs acceptably quickly
 
 <img src="/images/uniqhash-machines/machines-code.png"
   style="display: block; border: 1px solid blue; margin: 1em auto;" />
