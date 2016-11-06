@@ -115,7 +115,7 @@ to-date.
 There are many nice properties of `MealyM`. One of my favorite is that
 it has an `Arrow` instance. This allows for totally idiomatic construction
 of computational-graphs. You should even be able to go about this
-construction with the hillariously fantastic [Needle](https://hackage.haskell.org/package/needle).
+construction with the hilariously fantastic [Needle](https://hackage.haskell.org/package/needle).
 
     n :: MealyM IO FilePath (Maybe FilePath)
     n = [nd|
