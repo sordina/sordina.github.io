@@ -121,9 +121,9 @@ construction with the hilariously fantastic [Needle](https://hackage.haskell.org
     n = [nd|
 
     }===\================\
-        \                { (,) }==\=============\
-        \=={ hashPipe }==/        \             { uncurry retrieve }==>
-                                  \=={ cache }==/
+        \                { uncurry (,) }==\=============\
+        \=={ hashPipe }==/                \             { uncurry retrieve }==>
+                                          \=={ cache }==/
     |]
 
 ... Although I've had some trouble with Needle's dependencies as it looks like
