@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Uniqhash Machines Implementation"
+title:  "Uniqhash Machines Implementation Using MealyM"
 categories: blog
 reddit: "https://www.reddit.com/r/sordina/comments/5ba088/uniqhash_machines_implementation_bows_and_arrows/"
 ---
