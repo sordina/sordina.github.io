@@ -119,14 +119,16 @@ construction with the hillariously fantastic [Needle](https://hackage.haskell.or
 
     n :: MealyM IO FilePath (Maybe FilePath)
     n = [nd|
-        }===\================\
-            \                { (,) }==\=============\
-            \=={ hashPipe }==/        \             { uncurry retrieve }==>
-                                      \=={ cache }==/
+
+    }===\================\
+        \                { (,) }==\=============\
+        \=={ hashPipe }==/        \             { uncurry retrieve }==>
+                                  \=={ cache }==/
     |]
 
 ... Although I've had some trouble with Needle's dependencies as it looks like
-it hasn't been updated in some time...
+it hasn't been updated in some time... It's glorious enough that I might just
+bring Needle up to date :D
 
 I've had some discussions on both the [machines](https://github.com/ekmett/machines/issues/51)
 and [concurrent-machines](https://github.com/acowley/concurrent-machines/issues/3)
