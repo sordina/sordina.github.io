@@ -140,4 +140,12 @@ As it turns out `MealyM` is [`MStreamF`](https://github.com/ivanperez-keera/duna
 from `dunai`, which [has a paper](http://eprints.nottingham.ac.uk/36159/1/paper.pdf)
 about it.
 
+### Edit - Mon, 7th November
+
+Some other packages brought to my attention after
+posting this to Reddit:
+
+* [Auto](https://hackage.haskell.org/package/auto-0.4.3.0/docs/Control-Auto.html)
+* [Varying](https://hackage.haskell.org/package/varying-0.6.0.0/docs/Control-Varying-Core.html)
+
 Whaddaya know!
