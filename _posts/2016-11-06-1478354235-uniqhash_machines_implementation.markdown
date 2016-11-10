@@ -25,6 +25,8 @@ I have a little program that I implement with various streaming frameworks in or
 test out their capabilities with a range of orthogonal requirements. I call this
 program ["Uniqhash"](https://github.com/sordina/uniqhash).
 
+<!--more-->
+
 Ostensibly, the program takes in lines of filepaths on STDIN,
 and when it reads a new filepath, if the contents are different
 from the last time that it read the filepath, then it should
