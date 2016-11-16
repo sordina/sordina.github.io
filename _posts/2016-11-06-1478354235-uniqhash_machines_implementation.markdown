@@ -117,15 +117,20 @@ to-date.
 There are many nice properties of `MealyM`. One of my favorite is that
 it has an `Arrow` instance. This allows for totally idiomatic construction
 of computational-graphs. You should even be able to go about this
-construction with the hilariously fantastic [Needle](https://hackage.haskell.org/package/needle).
+[construction](https://github.com/sordina/uniqhash/blob/needle/Test/Scripts/Needle.hs#L23)
+with the hilariously fantastic [Needle](https://hackage.haskell.org/package/needle).
+
+    -- Like Magic:
+    -- *Needle> embedMealyM n (words "a b c a a a")
+    -- [Just "a",Just "b",Just "c",Nothing,Nothing,Nothing]
 
     n :: MealyM IO FilePath (Maybe FilePath)
     n = [nd|
 
-    }===\================\
-        \                { uncurry (,) }==\=============\
-        \=={ hashPipe }==/                \             { uncurry retrieve }==>
-                                          \=={ cache }==/
+      }===\================\
+          \                { tuple }==\=============\
+          \=={ hashPipe }==/          \             { get }==>
+                                      \=={ cache }==/
     |]
 
 ... Although I've had some trouble with Needle's dependencies as it looks like
