@@ -11,3 +11,8 @@ categories: blog
 </p>
 
 TEXT GOES HERE...
+
+## Links
+
+* [CIA - Simple Sabotage Field Manual](https://www.cia.gov/news-information/featured-story-archive/2012-featured-story-archive/simple-sabotage.html)
+
