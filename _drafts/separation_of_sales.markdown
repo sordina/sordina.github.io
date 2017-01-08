@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Separation of Sales"
+title:  "Separation of Sales and Development Roles"
 categories: blog
 ---
 
@@ -10,7 +10,66 @@ categories: blog
 	<a href="https://www.flickr.com/photos/grubbyguy/5344139585/in/photolist-99f7vF-74izu6-4Y5G1Q-eg4GZU-4Y1rir-4RHYZR-dRd41w-3ytGNA-6X6kYY-2XZCvR-4RMQqG-ig7Ec-4RHZNg-cWM9so-4RHYia-2tj1b6-bXoaZU-6x91KP-e6EDv-fMd87r-fyAGxy-6Tb563-8RGGeS-ejywU3-6DvUwd-D7YeX-cR3eRf-4Y5G9A-8zmRxF-ejsPWp-pfp2-ejyxm1-6zvpoZ-8n1AHz-cR3gAy-9ZNLWS-9gq1Lx-716EYp-ejyxXq-6wa8jS-vgyQaq-7zjaE6-fk8nXX-ab9NnB-athsQN-8u7tTM-8u7typ-7zo4M9-ztp8tr-5fweQk">"sailing"</a>
 </p>
 
-Something counter-intuative occurs when you take someone versed in sales
-and in development and ask them to do both on a project.
+Something counter-intuitive occurs when you take someone versed in sales
+and in development and ask them to do both on a project. There are two forces
+at play that are very productive if they can be resolved - narrative forces, and
+the scientific forces. Sales tells a lead a story where the lead is the main character.
+This doesn't focus on the obstacles to engineering the details that the story
+entails by design. Sales is about driving desire. Of course, the pitch must be achievable
+at least in part otherwise reputation will suffer, but the constraints of the story need
+not be made explicit to the lead. Development on the other hand focuses almost entirely
+on uncovering the constraints of the solutions described. The tension between vision
+and realisation can be a very productive driving force for a business, but only when
+managed carefully. The division of roles aids in this management in ways that are very
+difficult to manifest in a single person.
 
 <!--more-->
+
+This tensile force hampers both sales development and if a boundary is not established.
+How does this happen? In the sales capacity, when in the process of chasing and
+closing leads, a sales pitch is hampered by the inherent conservatism of the integral
+development mindset of constraint discovery and resolution. A developer must be thinking
+at all times - "Why won't this work?" - and when constraints have not been discovered
+the usual attitude is to fall back on a reluctance to provide estimates until these
+constraints are unearthed. In a development capacity, when building the solution,
+the promises made during the sales process will create a cognitive-dissonance which
+prevent the scrutiny of the constraints surrounding the solution that would lead to
+the quickest illumination of dead-ends.
+
+<!--
+
+digraph {
+	Sales;
+	Development;
+	Mediation;
+	Closure;
+	Solution;
+	Sales       -> Closure     [label="Narrative"];
+	Development -> Solution    [label="Constraints"];
+	Sales       -> Mediation   [label="Narrative"];
+	Development -> Mediation   [label="Constraints"];
+	Sales       -> Mediation   [label="Delta"];
+	Mediation   -> Development [label="Delta"];
+}
+
+-->
+
+![](/images/sales-separation/dot_25531.png)
+
+A split-personality is required
+In order to maintain both of these mindsets without dampening the productivity required
+for the roles. This split simply shuts off the sales or
+development mindset as the situation demands - much easier said than done.
+An external perspective on where the forces are out of alignment can provide a more
+objective view on the "delta" forces required to restore the balance to within productive
+limits. Of course, these forces are not at play, at least not to a significant degree, when
+selling an already established product. This is because an understanding of what the
+product can deliver is already largely fleshed-out, and there really isn't any development
+work left to complete besides any integrations required.
+
+What's the take-away from all this ruminating? For management I suppose that it
+helps clarify the value of the separation of roles. For an individual who is acting
+in both a sales and development capacity it should show that the careful cultivation
+of operational modes and mindsets can be extremely useful - although a bath of fire
+should cement this intuitively, it still pays to reflect on what exactly causes this
+as the natural response to conflicting dynamics.
