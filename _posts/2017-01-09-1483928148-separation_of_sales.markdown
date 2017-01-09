@@ -2,6 +2,7 @@
 layout: post
 title:  "Separation of Sales and Development Roles"
 categories: blog
+reddit: "https://www.reddit.com/r/sordina/comments/5muz4g/separation_of_sales_and_development_roles_bows/"
 ---
 
 <p class="attribution">
