@@ -21,43 +21,130 @@ there was no pressing need to do it. Well, now that the motions of a new event h
 seems like a good time to put a little retrospective into order.
 
 I thought that rather than try to do this as a collaborative piece of work, instead I could
-write up my thoughts in a blog-post, and if the other members of the committee wanted to
-remark on their experiences too then they could do the same, or at least suggest amendments
+write up my thoughts in a blog-post, and if the other members of the committee want to
+remark on their experiences too then they can do the same, or at least suggest amendments
 to this post.
 
 <!--more-->
 
 ## Just the Feelings
 
-## Just the Facts
+Last year, when the committee set the plan in motion to run the conference, we had a
+high-degree of uncertainty about the level of demand for such an event in Melbourne.
+We decided to put everything together on a shoe-string budget and go in with
+low-expectations. We figured that even if there was no sponsorship and a low
+turnout, it would at-least be a fun extension of the Meetup
+groups that we run.
+
+Thankfully, our expectations were well and truly exceeded by the
+turnout and events at Compose :: Melbourne 2016.
+Positive experiences were retold to us by many of the attendees and speakers, with
+a desire to see the event run again next-year.
+Some of the constructive criticism that we received included remarks that it might
+make sense to partition the first-day into two tracks - one for beginners and one
+for advanced practitioners. There was also a desire to see more
+structure for the unconference on day-two.
+
+## Just the Numbers
+
+While I could go on for some time about how the conference was organised and
+how the days played-out it might be interesting to take a look at some of the
+raw facts about Compose :: Melbourne 2016.
 
 ### Partners
 
-* Compose New-York
-* YOW!
+	Compose New-York
+	YOW!
 
 ### People
 
+Compose :: Melbourne may have topically been about functional-programming,
+but practically it was really a great-deal more about the people who
+are involved with FP. The community of practitioners, beginners, educators,
+organisers, luminaries, and fans in general.
+
 #### Committee
+
+	Noon Silk (Chair)
+	Andy Kitchen
+	Ken Scambler
+	Sarah Oakes
+	Les Kitchen
+	Lyndon Maydwell
+	Gala Camacho Ferrari
 
 #### Advisory Board
 
+	Bernie Pope
+	Javier Candeira
+	James Harland
+	James Sofra
+	Sean Seefried
+	Bianca Gibson
+
 #### Sponsors
 
-#### Suppliers and Contributors
+	REA         - Australia lives here.
+	SEEK        - Australia's no. 1 jobs, employment, career and recruitment site.
+	YesLogic    - We develop powerful tools for the Web Age.
+	Silverpond  - Silverpond is a data-science and solutions consultancy.
+	YOW         - YOW! Conference and Workshops for Developers by Developers.
+	RMIT        - RMIT is a global university of technology, design and enterprise
+
+#### Speakers
+
+	M.M.T Chakravarty                - Keynote - Playing with Graphics and Animations in Haskell
+	Sharon Holliday                  - Practical Programming in an Exception Free World
+	Paul Bone                        - Plasma Programming Language
+	Alistair Roche                   - Datomic in Production
+	Finlay Thompson                  - Using Cloud-Haskell to Build a Continuous-Integration
+	                                   Platform for Reproducible Research
+	Lee Naish                        - Equational Reasoning and Intended Semantics in
+	                                   Functional Programming
+	Ben Hutchison                    - Getting Work Done with the Eff Monad in Scala
+	George Wilson                    - The Extended Functor Family
+	Kris Jenkins                     - Types All The Way Down
+	Brian McKenna                    - Productionisation of Functional Optics
+	Sean Seefried                    - The Joy of Refactoring with Strong, Static Types
+	Magdalena Cassel & Aaron Edwards - Functional Eyes: Applying Functional Principles
+	                                   in Other Paradigms
+
+#### Attendees
+
+	Nearly 200 tickets sold.
+
 
 ### Dates
 
+Our timeline of events stretched for over six months from conception to conference.
+
+	First Email to Compose New-York: February 24, 2016
+	CFP Launch Party: May 19, 2016
+	Extension of CFP
+	Close of CFP
+	Compose Day-One: August 29, 2016
+	Compose Day-Two: August 30, 2016
+	Committee Catch Up...
+
 ### Artefacts
 
-* Video
-* Web-Pages and Blog-Posts
-* Speaker's Gifts
-* Attendee Swag
+While the conference was a fun and illuminating event for those who attended,
+we strived to extend the reach of the proceedings by taking time to ensure that
+they were captured and spread to an audience far wider than those who came
+on the day. The videography performed by Takeshi and its promotion were the
+primary way that this was achieved. It's always nice to come across someone
+with a Compose :: Melbourne bag, sticker, or t-shirt since it shows that the
+conference really happened.
+
+	Video
+	Web-Pages and Blog-Posts
+	Speaker's Gifts
+	Attendee Swag
 
 ### Administration
 
 We managed the Majority of Compose :: Melbourne via Email, Github and Trello.
+I've enumerated some of the interesting titles below.
 
 Three Mailing-Lists:
 
@@ -65,9 +152,7 @@ Three Mailing-Lists:
 	Compose :: Melbourne Admin
 	Compose :: Melbourne Advisory Board
 
-Nearly 30 committee meetings.
-
-Nearly 50 Wiki Pages (27 of which were committee meeting minutes).
+Roughly 150 Emails (that I saw).  Nearly 30 committee meetings.  Nearly 50 Wiki Pages (27 of which were committee meeting minutes).
 
 	Home                             Accounting                             Advisory Board
 	Call for Presentations (CFP)     Ceremonies Scripts                     Committee
@@ -149,3 +234,7 @@ Nearly 340 Trello cards:
 	Design and print of name-badges              | Ensuring we thank people
 	Publication of the Code-of-Conduct           | Researching accomadation
 	.....
+
+All-in-all, Compose :: Melbourne 2016 took a great-deal of organisation and hard-work
+to make happen, but thankfully we should be able to reuse a large portion of that
+work when it runs again.
