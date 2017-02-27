@@ -2,6 +2,7 @@
 layout: post
 title:  "Running a 'Haskell for .Net-Users' Workshop"
 categories: blog
+reddit: "https://www.reddit.com/r/sordina/comments/5wehnf/running_a_haskell_for_netusers_workshop_bows_and/"
 ---
 
 <style>
