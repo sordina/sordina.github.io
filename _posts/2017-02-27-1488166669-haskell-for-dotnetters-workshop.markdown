@@ -23,7 +23,7 @@ reddit: "https://www.reddit.com/r/sordina/comments/5wehnf/running_a_haskell_for_
 }
 </style>
 
-On Saturday I helped run a [one-day Haskell workshop](https://sordina.github.io/alt_dot_net_haskell_workshop/)
+On Saturday I helped run a [one-day Haskell workshop](https://www.eventbrite.com/e/haskell-workshop-tickets-31769054096#)
 for the members of the
 [Melbourne Alt .Net user-group](https://www.meetup.com/Melbourne-ALT-NET/?chapter_analytics_code=UA-58562077-1).
 This idea had actually been in the works for close to two-years but since I'd put on
