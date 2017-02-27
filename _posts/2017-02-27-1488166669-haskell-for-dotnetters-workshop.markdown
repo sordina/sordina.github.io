@@ -47,7 +47,7 @@ Organising and running this event was a pretty smooth exercise overall, with
 the only real work required being a gathering of volunteers to help assist,
 the tweaking of the materials, and obviously running the workshop on the day.
 The venue was graciously provided by [SEEK](https://www.seek.com.au/) and we
-ran the workshop in their lunch/presentation area - with the crowd of roughly
+ran the workshop in their lunch/presentation area with the crowd of roughly
 50 fitting comfortably in a relaxed atmosphere.
 
 <!--more-->
@@ -57,12 +57,13 @@ ran the workshop in their lunch/presentation area - with the crowd of roughly
 <img class="half-image" src="/images/haskell-for-dot-net/jim/IMG_2622.JPG" />
 </div>
 
-When chatting to Jim who runs the Alt .Net Melbourne meetup one time, he mentioned
+The idea for the workshop first came about
+when chatting to Jim who runs the Alt .Net Melbourne meetup. He mentioned
 that the members of his community might be interested attending a session of
 the Haskell workshop that I'd previously run in 2013. This sounded like a great
 idea and we were very keen, but a combination of the fact that the materials
 needed updating, and also being very busy at work ensured that we (or at least I)
-promptly put the idea on the back-burner!
+promptly put it directly onto the back-burner!
 
 The Alt .Net crowd are a community of developers who are interested in exploring
 "non-mainstream" languages on the .Net runtime. Since there has been a renascence
