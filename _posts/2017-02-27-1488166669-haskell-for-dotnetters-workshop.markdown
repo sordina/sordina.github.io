@@ -49,7 +49,7 @@ The venue was graciously provided by [SEEK](https://www.seek.com.au/) and we
 ran the workshop in their lunch/presentation area - with the crowd of roughly
 50 fitting comfortably in a relaxed atmosphere.
 
-<!-- more -->
+<!--more-->
 
 <div class="center-contents">
 <img class="half-image" src="/images/haskell-for-dot-net/jim/IMG_2620.JPG" />
