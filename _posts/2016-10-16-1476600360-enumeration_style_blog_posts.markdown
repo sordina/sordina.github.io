@@ -46,6 +46,10 @@ It's interesting to see who is talking about specific epiphanies, who is talking
 existing combinatorial ideas, and expanding their cases and creating models and who
 is finding new combinatorial axes.
 
+# Examples
+
+* [Outrageous Acts of Thinking](https://www.huffingtonpost.com/deborah-berebichez/outrageous-acts-of-thinking_b_8062924.html)
+
 
 # Links
 
