@@ -2,7 +2,7 @@
 layout: post
 title:  "AutoCAD, and How I Got into Software Development"
 categories: blog
-reddit: "https://www.reddit.com/r/sordina/comments/lhasldfh"
+reddit: "https://www.reddit.com/r/sordina/comments/dtc4ou/autocad_and_how_i_got_into_software_development/"
 ---
 
 I recently came across a [truly amazing collection of letters and notes](https://www.fourmilab.ch/autofile/www/autofile.html)
