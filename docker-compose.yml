@@ -12,3 +12,16 @@ services:
       - serve
       - --watch
       - --host=0.0.0.0
+
+  new-post:
+    image: alpine
+    volumes:
+      - ./:/blog
+    # Requires NEW_POST variable be set to create a new post so that it doesn't come up with the other services
+    entrypoint:
+      - 'sh'
+      - '-c'
+      - '[ "$$NEW_POST" ] && read -p "New Blog-Post Title: " title && echo `date +/blog/_posts/%Y-%m-%d-%s-$$(echo "$$title" | sed "s/[^a-zA-Z0-9]//g").markdown` | tee /dev/stderr | xargs touch'
+    stdin_open: true
+    tty: true
+

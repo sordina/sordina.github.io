@@ -8,17 +8,7 @@ help:
 
 .PHONY: serve
 serve:
-	bundle exec jekyll serve --watch --drafts # --incremental
+	docker-compose up blog
 
-.PHONY: serve_draft_workaround
-serve_draft_workaround:
-	./serve_drafts_workaround.sh
-
-.PHONY: devel
-devel:
-	make serve | conscript chromereload 4000
-
-.PHONY: please_publish
-please_publish:
-	echo bump >> publication_frustration.txt
-	gpc please publish
+new-post:
+	docker-compose run -e NEW_POST=t new-post

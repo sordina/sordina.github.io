@@ -3,9 +3,14 @@
 
 ## Running
 
+* `make serve`, or...
 * `docker-compose build`
 * `docker-compose up`
 * `open http://localhost:4000/`
+
+## Authoring
+
+* `make new-post`
 
 ## TODO List
 
