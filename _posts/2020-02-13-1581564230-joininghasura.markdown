@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Leaving Silverpond and Joining Hasura"
+categories: blog
+reddit: ""
+---
+
+It's no longer a secret - I'm leaving Silverpond.
+
+<p class="attribution">
+	<img src="/images/leaving-silverpond/leaving.png" class="image fit" />
+</p>
+
+I had a going-away celebration with the Silverpond and Pond community on Friday and gave an impromptu speech - however, it was more emotional than it was carefully constructed so perhaps the written word is a better format for such a message.
+
+I've been with Silverpond for the past 7 years - Moving to Melbourne and joining on the recommendation of a friend from university days. Over that period the company has evolved significantly and now sits at the nexus of the ML community in Melbourne. I've also changed a lot. I've gone from being a primarily-technical programmer to building a very strong consulting skillset with a big emphasis on the soft-skills involved in those environments. I truly couldn't imagine having grown in the way I did without joining Silverpond and will always be thankful for the opportunity I was given.
+
+With that said, I've always felt a strong connection to programming-language theory and specifically Haskell. This has been a passion I've continued during my time in Melbourne, including starting the local user group with some friends and helping bring Compose Conference here. While it has been a passion, it has mostly taken a pragmatic backseat in my career due to the constraints of the projects I've found myself working on.
+
+Now a new opportunity has surfaced and rather than regret not giving it a try, I've decided to take the leap and will be joining [Hasura](https://hasura.io)
+to work on their amazing product for seamlessly integrating GraphQL - written with significant amounts of Haskell code!
+It's a big change for me since this will be a remote position
+and I'm very excited to be working with some senior team
+members who I'm very eager to learn from.
+
+I wish everyone at Silverpond the best and all the success in the world as they take the company forward from where we brought it together.
+
+I'll be remaining in Melbourne for the immediate future, so I'm sure I'll stay in touch with you all. Say hi if you see me!
