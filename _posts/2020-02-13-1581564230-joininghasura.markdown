@@ -11,6 +11,8 @@ It's no longer a secret - I'm leaving Silverpond.
 	<img src="/images/leaving-silverpond/leaving.png" class="image fit" />
 </p>
 
+<!--more-->
+
 I had a going-away celebration with the Silverpond and Pond community on Friday and gave an impromptu speech - however, it was more emotional than it was carefully constructed so perhaps the written word is a better format for such a message.
 
 I've been with Silverpond for the past 7 years - Moving to Melbourne and joining on the recommendation of a friend from university days. Over that period the company has evolved significantly and now sits at the nexus of the ML community in Melbourne. I've also changed a lot. I've gone from being a primarily-technical programmer to building a very strong consulting skillset with a big emphasis on the soft-skills involved in those environments. I truly couldn't imagine having grown in the way I did without joining Silverpond and will always be thankful for the opportunity I was given.
