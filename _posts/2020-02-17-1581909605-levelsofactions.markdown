@@ -2,7 +2,7 @@
 layout: post
 title:  "Hierarchy of Acts"
 categories: blog
-reddit: ""
+reddit: "https://new.reddit.com/r/sordina/comments/fdsbq2/hierarchy_of_acts_bows_and_arrows/"
 ---
 
 Everyone is somewhat familiar with the Freudian concepts of id/ego/super-ego and how the unconscious and concious minds interact to a degree. Changing your mind is the most common manifestation of an interaction between these three agents - 
