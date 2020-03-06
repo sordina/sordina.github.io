@@ -7,12 +7,13 @@
       {% endif         %}
     </title>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    {% if page.image %} <meta property="og:image" content="{{site.hosted_base_url}}{{page.image}}" /> {% endif %}
+
     <meta name="description" content="
       {% if page.title %} {{page.title}} ~ {{ site.title | strip_html }}
       {% else          %} {{ site.title | strip_html }} ~ {{ site.description | strip_html }}
-      {% endif         %}
-      " />
-    <meta name="keywords" content="" />
+      {% endif         %} " />
+
     <!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
     <script src="/js/jquery.min.js"></script>
     <script src="/js/jquery.poptrox.min.js"></script>

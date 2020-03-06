@@ -3,13 +3,15 @@ layout: post
 title:  "Hierarchy of Acts"
 categories: blog
 reddit: "https://new.reddit.com/r/sordina/comments/fdsbq2/hierarchy_of_acts_bows_and_arrows/"
+image: "/images/acts/fire.png"
 ---
 
 Everyone is somewhat familiar with the Freudian concepts of id/ego/super-ego and how the unconscious and concious minds interact to a degree. Changing your mind is the most common manifestation of an interaction between these three agents - 
 Action in motion (id) as part of a prior decision that is currently being played out (ego) is interrupted when an impetus makes us question the choice and decide on another through our understandings and values (super-ego).
 
+
 <p class="attribution">
-	<img src="/images/acts/fire.png" class="image fit" />
+	<img src="{{page.image}}" class="image fit" />
 </p>
 
 Our minds are not this simple, nor in-fact, constructed in this fashion, however none-the-less the model is a useful one for considering what is occurring conceptually as we go about our lives.
