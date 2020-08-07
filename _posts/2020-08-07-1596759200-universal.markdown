@@ -1,0 +1,99 @@
+---
+layout: post
+title:  "Abstract Virtues"
+categories: blog
+reddit: ""
+image: "/images/abstract-ethics/ring.png"
+---
+
+<span style="color: red; font-weight: bold;"> This post is a work in progress. </span>
+
+There are attributes that you may posess that could be considered virtues
+that transcend the familiar ethical virtues, in that they will make you more
+successful in any venture regardless of its ethical motivations or outcomes.
+
+Strength is the most obvious. A strong person has the power to perform a good
+or evil act with more magnitude than a weak person. And if they set upon a venture,
+their likelyhood to succeed will be predicated on a certain threshold of strength.
+
+There are other less obvious virtues.
+
+<p class="attribution">
+	<img src="{{page.image}}" class="image fit" />
+</p>
+
+<!--more-->
+
+In contrast to virtues, vices appear to be trivially opposed. For example, strength has
+the corresponding vice of weakness. There may be virtues and vices that fall
+outside of this obvious correspondence, but we will need to analyse the
+definitions in order to see if that is worth exploring. For now, let's put that
+idea aside and step through examples for scrutiny. It may arise that a counter-
+example is found by proceeding in this manner.
+
+I will enumerate some candidate themes and discuss weather they agree
+with this idea of an abstract universal virtue.
+
+
+### Privelage
+
+I first started thinking about this concept from the perspective of privelage -
+Institutional privelage has been a very hot topic of discussion recently but
+considering institution equal for the present, individual privelage is also
+an interesting idea to explore. The most commonly analysed form of individual
+privelage discussed is wealth, and rightly so as this is not only influential
+but also stratifying and fluidly transferrable.
+
+What interests me is the granting of moral weight to certain types of privelage
+that are inherently orthogonal to morals. The first that I considered is memory.
+Good memory seems to be implicitly granted high moral-standing while poor memory
+relegated to a vice, even though this is a highly intrinsic and inflexible
+attribute to posess.
+
+These thoughts are in no way intended to detract from the discussion of privelage
+from the perspective of institutions, class, and wealth. It is intended more
+as a new avenue of analysis rather than diminishing existing discourse.
+
+
+### Candidates
+
+Some of these will be obvious and frequently referenced, however the less
+obvious of these may be interesting to consider. Often they may be grouped
+under terms more frequently referenced in this context, but considering them
+in isolation may be interesting.
+
+What is included vs. excluded? These should be intrinsic traits. They may
+be developed but should be independent of external posessions - for example,
+wealth would fall under this list, but I wouldn't consider it an abstract
+virtue as it may be granted or taken away at any time. (is this a useful scalpal?)
+
+Strength
+
+Memory
+
+Energy
+
+Focus
+
+Persistance
+
+Charisma
+
+Obsession - Theme
+
+Intelligence - Theme
+
+Improvisation - Theme
+
+Gregariousness - Theme - Spending resources
+
+Consideration
+
+
+### Analogies
+
+Computers
+
+Character Stats
+
+### 
