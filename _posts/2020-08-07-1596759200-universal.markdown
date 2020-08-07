@@ -8,13 +8,13 @@ image: "/images/abstract-ethics/ring.png"
 
 <span style="color: red; font-weight: bold;"> This post is a work in progress. </span>
 
-There are attributes that you may posess that could be considered virtues
+There are attributes that you may possess that could be considered virtues
 that transcend the familiar ethical virtues, in that they will make you more
 successful in any venture regardless of its ethical motivations or outcomes.
 
 Strength is the most obvious. A strong person has the power to perform a good
 or evil act with more magnitude than a weak person. And if they set upon a venture,
-their likelyhood to succeed will be predicated on a certain threshold of strength.
+their likelihood to succeed will be predicated on a certain threshold of strength.
 
 There are other less obvious virtues.
 
@@ -35,22 +35,22 @@ I will enumerate some candidate themes and discuss weather they agree
 with this idea of an abstract universal virtue.
 
 
-### Privelage
+### Privilege
 
-I first started thinking about this concept from the perspective of privelage -
-Institutional privelage has been a very hot topic of discussion recently but
-considering institution equal for the present, individual privelage is also
+I first started thinking about this concept from the perspective of privilege -
+Institutional privilege has been a very hot topic of discussion recently but
+considering institution equal for the present, individual privilege is also
 an interesting idea to explore. The most commonly analysed form of individual
-privelage discussed is wealth, and rightly so as this is not only influential
-but also stratifying and fluidly transferrable.
+privilege discussed is wealth, and rightly so as this is not only influential
+but also stratifying and fluidly transferable.
 
-What interests me is the granting of moral weight to certain types of privelage
+What interests me is the granting of moral weight to certain types of privilege
 that are inherently orthogonal to morals. The first that I considered is memory.
 Good memory seems to be implicitly granted high moral-standing while poor memory
 relegated to a vice, even though this is a highly intrinsic and inflexible
-attribute to posess.
+attribute to possess.
 
-These thoughts are in no way intended to detract from the discussion of privelage
+These thoughts are in no way intended to detract from the discussion of privilege
 from the perspective of institutions, class, and wealth. It is intended more
 as a new avenue of analysis rather than diminishing existing discourse.
 
@@ -63,9 +63,9 @@ under terms more frequently referenced in this context, but considering them
 in isolation may be interesting.
 
 What is included vs. excluded? These should be intrinsic traits. They may
-be developed but should be independent of external posessions - for example,
+be developed but should be independent of external possessions - for example,
 wealth would fall under this list, but I wouldn't consider it an abstract
-virtue as it may be granted or taken away at any time. (is this a useful scalpal?)
+virtue as it may be granted or taken away at any time. (is this a useful scalpel?)
 
 Strength
 
@@ -75,7 +75,7 @@ Energy
 
 Focus
 
-Persistance
+Persistence
 
 Charisma
 
@@ -96,4 +96,3 @@ Computers
 
 Character Stats
 
-### 
