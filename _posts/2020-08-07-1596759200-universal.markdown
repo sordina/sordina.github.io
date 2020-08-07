@@ -2,7 +2,7 @@
 layout: post
 title:  "Abstract Virtues"
 categories: blog
-reddit: ""
+reddit: "https://new.reddit.com/r/sordina/comments/i548eq/abstract_virtues_bows_and_arrows/"
 image: "/images/abstract-ethics/ring.png"
 ---
 
@@ -16,7 +16,7 @@ Strength is the most obvious. A strong person has the power to perform a good
 or evil act with more magnitude than a weak person. And if they set upon a venture,
 their likelihood to succeed will be predicated on a certain threshold of strength.
 
-There are other less obvious virtues.
+There are other less obvious virtues. *([Jump to list](#candidates))*
 
 <p class="attribution">
 	<img src="{{page.image}}" class="image fit" />
@@ -50,6 +50,8 @@ Good memory seems to be implicitly granted high moral-standing while poor memory
 relegated to a vice, even though this is a highly intrinsic and inflexible
 attribute to possess.
 
+While these attributes may be applicable to groups, I won't discuss that here.
+
 These thoughts are in no way intended to detract from the discussion of privilege
 from the perspective of institutions, class, and wealth. It is intended more
 as a new avenue of analysis rather than diminishing existing discourse.
@@ -57,7 +59,7 @@ as a new avenue of analysis rather than diminishing existing discourse.
 
 ### Candidates
 
-Some of these will be obvious and frequently referenced, however the less
+Some of these concepts will be obvious and frequently referenced, however the less
 obvious of these may be interesting to consider. Often they may be grouped
 under terms more frequently referenced in this context, but considering them
 in isolation may be interesting.
@@ -67,27 +69,74 @@ be developed but should be independent of external possessions - for example,
 wealth would fall under this list, but I wouldn't consider it an abstract
 virtue as it may be granted or taken away at any time. (is this a useful scalpel?)
 
-Strength
+Points of 
 
-Memory
+* Description
+* Abstractness
+* Moral interpretation
+* Corresponding Vice
+* Training
 
-Energy
+#### Strength
 
-Focus
+This is the most obvious abstract virtue. Strength can be interpreted physically
+very easily, however it is applied as a virtue most often in non-physical scenarios
+where it aggregates other attributes such as courage, determination, pursuasiveness,
+etc. These are less easy to define than physical strength.
 
-Persistence
+Strength's abstract nature immediately evident. Your ability to accoumplish a goal
+can be predicated on how strong you are, and in cases where the outcome is variable
+the outcome may be proportionate to your strength.
 
-Charisma
+Even though strength is not intrinsically moral, we attribute morality to strength
+in individuals. Weakeness, strength's corresponding vice is very often portrayed
+as the defining attribute in a pivotal moment that casts a character as a villain.
+This is most often due to a form of cowardice. However, even in situations where
+inaction is simply a matter of lack of strength morality is still attributed.
+This may be due to the fact that a lack of sufficient strength to act in a situation
+preclude's the demonstration of moral virtues and this is interpreted in the
+contrapositive as demonstration of vice. A falacy since lack or posession of strength
+in itself is inherently neutral.
 
-Obsession - Theme
+While strength is flexible and can be trained for over time, in any particular
+situation strength can be thought of as static. However considering strength from a
+training perspective when evaluating its moral assignment is interesting as it
+may be valid to criticise lack of training, since this may be abdicating responsibility
+to make future moral decisions that have a strength prerequisite to perform.
+Given that one method of training strength is excercising strength-until-failure
+in analogous situations, you may then attribute vice to lack of strength if the
+oportunity to exercise it futiley in previous situations wasn't taken, or similarly
+one may criticise an individual when they are currently choosing not to fail in
+favour of not trying.
 
-Intelligence - Theme
+This is nuanced by certain considerations such as injurious failure, probability,
+futility, and the composition of groups in the present and future scenarios.
 
-Improvisation - Theme
+#### Memory
 
-Gregariousness - Theme - Spending resources
+#### Energy
 
-Consideration
+#### Focus
+
+#### Persistence
+
+#### Charisma
+
+#### Obsession - Theme
+
+#### Intelligence - Theme
+
+#### Improvisation - Theme
+
+#### Gregariousness - Theme - Using resources
+
+#### Consideration
+
+#### Speed
+
+#### Will
+
+
 
 
 ### Analogies
