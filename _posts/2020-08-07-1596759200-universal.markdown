@@ -24,6 +24,18 @@ There are other less obvious virtues. *([Jump to list](#candidates))*
 
 <!--more-->
 
+<style type="text/css">
+	pre {
+		height: 100px;
+		overflow: auto;
+		font-size: 0.8em;
+	}
+
+	h4 {
+		color: #118;
+	}
+</style>
+
 In contrast to virtues, vices appear to be trivially opposed. For example, strength has
 the corresponding vice of weakness. There may be virtues and vices that fall
 outside of this obvious correspondence, but we will need to analyse the
@@ -55,6 +67,14 @@ While these attributes may be applicable to groups, I won't discuss that here.
 These thoughts are in no way intended to detract from the discussion of privilege
 from the perspective of institutions, class, and wealth. It is intended more
 as a new avenue of analysis rather than diminishing existing discourse.
+
+
+### Analogies
+
+There are surely many analogies to this idea and maybe formal names as well.
+The ones that spring immediately to mind are in machines, where no moral
+judgement is normally endowed. Another would be game characters who are granted
+"stats" for abstract characteristics, many of which appear here.
 
 
 ### Candidates
@@ -169,6 +189,12 @@ The validity to moral attribution arises once again in lack of investment in the
 development of the virtue, and lack of application of the foundations of the virtue
 in prior situations that would enhance the power of the virtue in the current situation.
 More specifically, training of memory through applied rote and deliberate practice.
+Where judgement of an individual for lack of capacity to recall in a particular moment
+would rarely be justified in isolation, considering previous oportunities to prepare
+could be considered valid, however this is rarely explicitly aluded to.
+Moreover, the judgement is usually specifically reserved for the instantaneous failure
+to recall, and strengthened where inherent capacity is lacking.
+
 
 
 #### Energy
@@ -195,25 +221,20 @@ More specifically, training of memory through applied rote and deliberate practi
 
 
 
-
-### Analogies
-
-Computers
-
-Character Stats
-
-
 ### Graph of Reinforcement Between Virtues
 
-![](/images/abstract-ethics/ethics.png)
+An initial sketch of what the dependence between abstract virtues may look like.
+I would hope to see a relatively symmetric graph to indicate the orthogonality
+of the virtues discussed here, removing redundant ideas and choosing inclusion
+based on influence. As you can see for yourself, this is currently not the case -
+partially due to lack of work to complete the graph, but also, probably becuase
+of poor choice of attributes.
 
-<style type="text/css">
-	pre {
-		height: 100px;
-		overflow: auto;
-		font-size: 0.8em;
-	}
-</style>
+Clearly this is an idea that is still developing and this essay isn't meant to
+represent a definitive exploration of the concepts, but it should at least give
+a hint at a coherent notion that could be refined into something useful.
+
+![](/images/abstract-ethics/ethics.png)
 
 ```
 digraph {
@@ -234,13 +255,22 @@ digraph {
 	Memory -> Strength              [label="Abstract"];
 	Memory -> Consideration         [label="Development"];
 	Memory -> Focus                 [label="Recall"];
+	Memory -> Intelligence          [label="Abstract"];
 
 	Obsession -> Focus              [label="Enabling"];
 
+	Charisma -> Gregariousness      [label="Enabling"];
+
 	Improvisation -> Gregariousness [label="Enabling"];
-	Improvisation -> Energy         [label="Enabling"];
+	Improvisation -> Energy         [label="Abstract"];
 
 	Focus -> Energy                 [label="Enabling"];
+	Focus -> Will                   [label="Abstract"];
+	Focus -> Intelligence           [label="Enabling"];
+
+	Intelligence -> Speed           [label="Enabling"];
+
+	Persistence -> Will             [label="Enabling"];
 }
 ```
 
@@ -248,9 +278,10 @@ digraph {
 ### Elaboration
 
 Do you disagree with the attributes I've included or my rationale of selection?
-
 Can you think of other missing attributes?
-
 What additional points of analysis should be explored for each attribute?
-
 How can the relative power, influence and interdependence of each attribute be navigated?
+
+As mentioned before, this is still an idea in development, however I will probably leave
+this piece of wrting as-is. If you have thoughts about this concept maybe we can
+refine it together.
