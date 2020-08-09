@@ -69,13 +69,14 @@ be developed but should be independent of external possessions - for example,
 wealth would fall under this list, but I wouldn't consider it an abstract
 virtue as it may be granted or taken away at any time. (is this a useful scalpel?)
 
-Points of 
+Each candidate will be analysed in terms of several points of discussion:
 
-* Description
-* Abstractness
-* Moral interpretation
-* Corresponding Vice
-* Training
+* Description: A description of the attribute
+* Abstractness: How it qualifies as an abstract virtues
+* Moral interpretation: Why it is assigned morality
+* Corresponding Vice: Inverses and counterpoints to the attribute
+* Training: Considerations and implications concerning implicit or deliberate training
+
 
 #### Strength
 
@@ -112,7 +113,63 @@ favour of not trying.
 This is nuanced by certain considerations such as injurious failure, probability,
 futility, and the composition of groups in the present and future scenarios.
 
+
 #### Memory
+
+Perhaps the most significant but least obvious attribute that could be considered
+an abstract virtue is memory. Perhaps because it is rarely referenced explicitly
+in terms of merit, however its concequences and especially the concequences of
+its corresponding vices (forgetfullness, and more importantly, dismissiveness)
+are.
+
+The ability to recall details, but also, when fallable, the ability
+to recall that which deserves attention. The ability to recall is dependent on
+several factors:
+
+* Current inherent power of memory - Clarity / Foggyness
+* Attention / importance paid to the event at time of acquisition
+* Repetition of exposure
+* Construction of narative or mnemonic devices
+* Decomposition of concepts
+* Cues - Scent, phrase, etc.
+
+However, at any point in time, the ability to recall a past event is out of our
+controll beyond the will to conjure clarity or enumerate possible cues.
+
+Memory presents as a particularly interesting example, since it is possibly the most
+abstract attribute but at the same time is assigned the greatest moral significance.
+Consider the following scenarios:
+
+* You have forgotten someone
+* You have forgotten someone's name
+* You are able to recall historical precedents to inform a decision
+* You fail to attribute your successes to its causes and benifactors
+* You can't recall details that would allow performing under pressure
+* Etc.
+
+I'm sure you can imagine a story involving each of these scenarios where you would
+call a character's actions moral or immoral if one of these occored. It is interesting
+then to consider why a moral judgement is made. The character's ability to influence
+their memory in such a scenario is extremely limited.
+
+Similar to strength, it is a highly abstract attribute that will enhance any endevour
+the more powerful a person's memory is. Strong memory is very rarely a negative, and
+certainly never a moral negative except for in the cercumstances where trauma can't
+be forgotten, or when details recalled are dismissed in order to perform imoral acts.
+
+Like with all abstract vices, the moral interpretation relies of heavily upon the
+implicit assumption that strength or memory and accuracy and timeliness of recollection
+is a choice a choice that can be affirmed in good moral standing, or dismissed
+negligently, or vindictively. This is certainly not true in the moment where morality
+is being aserted. When a negative moral judgement is made, the vices attributed to
+the individual in question include laziness, malice, neglectfullness, and possibly
+mostly important, prior lack of consideration - often due to other vices.
+
+The validity to moral attribution arises once again in lack of investment in the
+development of the virtue, and lack of application of the foundations of the virtue
+in prior situations that would enhance the power of the virtue in the current situation.
+More specifically, training of memory through applied rote and deliberate practice.
+
 
 #### Energy
 
@@ -145,3 +202,16 @@ Computers
 
 Character Stats
 
+
+### Graph of Reinforcement Between Virtues
+
+
+### Elaboration
+
+Do you disagree with the attributes I've included or my rationale of selection?
+
+Can you think of other missing attributes?
+
+What additional points of analysis should be explored for each attribute?
+
+How can the relative power, influence and interdependence of each attribute be navigated?
