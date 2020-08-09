@@ -205,6 +205,45 @@ Character Stats
 
 ### Graph of Reinforcement Between Virtues
 
+![](/images/abstract-ethics/ethics.png)
+
+<style type="text/css">
+	pre {
+		height: 100px;
+		overflow: auto;
+		font-size: 0.8em;
+	}
+</style>
+
+```
+digraph {
+	Strength;
+	Memory;
+	Energy;
+	Focus;
+	Persistence;
+	Charisma;
+	Obsession;
+	Intelligence;
+	Improvisation;
+	Gregariousness;
+	Consideration;
+	Speed;
+	Will;
+
+	Memory -> Strength              [label="Abstract"];
+	Memory -> Consideration         [label="Development"];
+	Memory -> Focus                 [label="Recall"];
+
+	Obsession -> Focus              [label="Enabling"];
+
+	Improvisation -> Gregariousness [label="Enabling"];
+	Improvisation -> Energy         [label="Enabling"];
+
+	Focus -> Energy                 [label="Enabling"];
+}
+```
+
 
 ### Elaboration
 
