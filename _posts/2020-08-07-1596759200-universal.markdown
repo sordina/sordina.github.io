@@ -6,8 +6,6 @@ reddit: "https://new.reddit.com/r/sordina/comments/i548eq/abstract_virtues_bows_
 image: "/images/abstract-ethics/ring.png"
 ---
 
-<span style="color: red; font-weight: bold;"> This post is a work in progress. </span>
-
 There are attributes that you may possess that could be considered virtues
 that transcend the familiar ethical virtues, in that they will make you more
 successful in any venture regardless of its ethical motivations or outcomes.
@@ -196,6 +194,8 @@ Moreover, the judgement is usually specifically reserved for the instantaneous f
 to recall, and strengthened where inherent capacity is lacking.
 
 
+<span style="color: red; font-weight: bold;"> This remainder of this post is a work in progress. </span>
+
 
 #### Energy
 
@@ -285,3 +285,8 @@ How can the relative power, influence and interdependence of each attribute be n
 As mentioned before, this is still an idea in development, however I will probably leave
 this piece of wrting as-is. If you have thoughts about this concept maybe we can
 refine it together.
+
+
+## Links
+
+* [I Feel You](https://www.amazon.com/Feel-You-Surprising-Extreme-Empathy/dp/0544558162)
