@@ -1,0 +1,63 @@
+---
+layout: post
+title: "Simple Daily Productivity Algorithm"
+categories: blog
+reddit: "https://www.reddit.com/r/sordina/todo"
+---
+
+# Simple Productivity Algorithm on a Daily Scale
+
+An abstract method of scheduling work throughout the day.
+
+<p class="attribution">
+	<img src="/images/daily/bee.png" class="image fit" />
+	<a href="https://www.flickr.com/photos/coljac/">Colin J</a> -
+	<a href="https://flic.kr/p/6aKwT9">"Bee"</a>
+</p>
+
+<!--more-->
+
+The process is "fractal" in nature, starting with small increments of time but broad purview, then narrowing in focus, but spending more time.
+
+The aim of this is to be deliberate about selection of daily tasks and make progress on several tasks even when one is bogged down. Also makes accommodations for emergencies and planned meetings, etc.
+
+This is intended primarily for creators/engineers, etc. not leadership/management where time blocks may be much smaller and more reactive. maybe it can be adapted, but this hasn't been considered here.
+
+Processes are outlined as follows:
+
+> Synchronous: A daily-planner of allocated time slots
+> Asynchronous: What to do when something non-planned occurs
+> Selection: Criteria to help decide what tasks to choose
+> Ignored: Explicitly ignored considerations
+
+## Synchronous ~ 8h
+
+* Spin-Up (1h) - Morning routine, shower, breakfast, etc.
+* Inbox (10m) - Read inbound comms, turn into tasks if required or mark as unread
+* Selection (5m) - Choose 3-5 tasks
+* Review (1h) - Go over tasks, clarify and break down into subtasks
+* Work Block 1 (2h) - Work on first two tasks, 1h each
+* Lunch (1h)
+* Meta (30m) - Think about how to improve your days in future
+* Work Block 2 (2h) - Work on next two tasks, 1h each
+* Closing Shop (30m) - Send outgoing comms, tidy up notes, etc.
+
+## Asynchronous
+
+* Incoming communications
+* Emergencies
+* New Low-Urgency Tasks
+* Health
+
+## Selection Heuristics
+
+* Personal Items
+* Client Items
+* Urgency
+* Importance
+* Scheduled Meetings
+
+## Ignored
+
+* Travel
+* Exceptions to the rule
