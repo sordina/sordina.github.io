@@ -1,0 +1,153 @@
+---
+layout: post
+title: "Advent of Code Problem 19b - Nondeterministic parsing with Yoctoparsec"
+categories: blog
+reddit: "TODO"
+---
+
+This year I took some time to solve the 2020 Advent of Code problems.
+Most of the problems were easy - the second part of each problem usually being slightly harder.
+I needed a couple of hints to get me through a couple of the problems
+when I felt I was missing a piece of the puzzle but I only did that twice
+- for problems 13b and 22b. However, for problem 19b I refused to cheat
+and pushed through until I got to the solution.
+
+To recap - the challenge of Problem 19 is:
+
+* Read input formatted into a rules section and a set of candidate lines.
+* Output the number of candidate lines that match the rules.
+
+An example input could be something like:
+
+```
+0: 1 | 3
+1: 'a'
+2: 'b'
+3: 2 0 | 3 0
+
+ababababb
+bbbbaaaa
+ab
+a
+```
+
+Therefore it's your job to construct a matcher out of rule-0 the rules and test
+it against each line, counting the ones that match.
+
+I followed a similar approach to other dynamic-programming problems and constructed
+a data-recursive map of parsers for each rule:
+
+```haskell
+day19
+    = show . length .  rights
+    . (\(s,p) -> map (parse p "rules") s)
+    . (last &&& build . map ((init . head &&& splitOn ["|"] . tail) . words) .  head)
+    . splitOn [""] . lines
+
+    where
+    build :: [(String,[[String]])] -> Parsec String () ()
+    build r = a ! "0" *> eof
+      where
+      a = M.fromList (map g r)
+      f n@(x:xs)
+        | isDigit x = a ! n
+        | otherwise = () <$ string (init xs)
+      g = second (choice . map (try . mapM_ f))
+      m ! k = fromJust $ M.lookup k m
+```
+
+This was pretty trivial, however, part-2 allowed the rules to be recursive and
+my approach no longer worked. The reason why this confounded me for so long
+is that I *really* liked my solution for part-1 and saw no reason why I shouldn't be
+able to use it for part-2.
+
+It was actually an illuminating exercise to figure out why exactly a parsec-family
+solution wouldn't be able to achieve what I wanted. It is a combination of
+the fact that EOF has to be encoded independently of the rules, and that backtracking
+can only occur on failure.
+
+In particular:
+
+> choice . map (try . mapM_ f))
+
+will recurse on referenced rules and backtrack if they fail, but that isn't sufficient.
+They also need to backtrack if they succeed but the overall parser fails due to not
+consuming the entire line.
+
+This took me on a search for a non-deterministic parser library and after asking around
+and googling furiously I found [Yoctoparsec](https://hackage.haskell.org/package/yoctoparsec).
+A truly tiny (thus the pun in the name) variant of the Parsec family described as:
+
+> A monadic parsing library making use of the free monad transformer. All instances are provided by the FreeT monad.
+
+I need to stress just how tiny this library is and to do that, here is the entire source-code (sans comments):
+
+```haskell
+module Control.Monad.Yoctoparsec where
+
+import Data.List
+import Control.Applicative
+import Control.Monad
+import Control.Monad.State
+import Control.Monad.Trans.Free
+
+type Parser b t a = FreeT ((->) t) b a
+
+token :: Applicative b => Parser b t t
+token = FreeT . pure . Free $ FreeT . pure . Pure
+
+parseStream :: Monad b => (s -> b (t, s)) -> Parser b t a -> s -> b (a, s)
+parseStream next = runStateT . iterTM (StateT next >>=)
+
+parseString :: MonadPlus b => Parser b t a -> [t] -> b (a, [t])
+parseString = parseStream (maybe empty pure . uncons)
+```
+
+This is honestly incredible. Not only that it allows for fully non-deterministic parsing
+but also that it facilitates other parsing philosophies too, including different failure
+and backtracking strategies simply by selecting the underlying monad.
+
+This now enabled the exact solution I was looking for:
+
+```haskell
+day19b
+    = show . length -- (\x -> map drawTree x ++ [show $ length x])
+    . map (fst . head)
+    . filter (not . null)
+    . (\(s,p) -> map (parseString p) s)
+    . (map (++"EOF") . last &&& build . map (sub . (init . head &&& splitOn ["|"] . tail) . words) .  head)
+    . splitOn [""] . lines
+
+    where
+
+    char c = mfilter (==c) token
+    string = mapM char
+    choice = foldl (<|>) empty
+
+    sub t@("8", _) = t & _2 .~ [["42"],["42","8"]]
+    sub t@("11",_) = t & _2 .~ [["42","31"],["42","11","31"]]
+    sub t          = t
+
+    m ! k = fromJust $ M.lookup k m
+
+    build :: [(String,[[String]])] -> FreeT ((->) Char) [] (Tree String)
+    build r = fmap (Node "0") $ a ! "0" <* string "EOF"
+        where
+        a = M.fromList (map (second g) r)
+        g = choice . map (traverse f)
+        f n@(x:xs)
+            | isDigit x  = Node n <$> a ! n
+            | otherwise  = Node n [] <$ string (init xs)
+```
+
+A truly elegant and correct solution that exactly matches the approach from part-1
+but extends the power via full non-determinism to allow for backtracking whenever
+the parser fails but other alternative paths still exist.
+
+I was and am very happy with this and it allowed me to move on with the other
+puzzles.
+
+There are drawbacks with this approach, mainly performance and error reporting,
+however in this scenario and others like it, it's very hard to beat the readability.
+
+You can see my solutions [here](https://github.com/sordina/advent2020#advent-of-code-2020-solutions) on Github.
