@@ -5,12 +5,12 @@ categories: blog
 reddit: "TODO"
 ---
 
-This year I took some time to solve the 2020 Advent of Code problems.
-Most of the problems were easy - the second part of each problem usually being slightly harder.
-I needed a couple of hints to get me through a couple of the problems
-when I felt I was missing a piece of the puzzle but I only did that twice
-- for problems 13b and 22b. However, for problem 19b I refused to cheat
-and pushed through until I got to the solution.
+This year I took some time to solve the 2020 Advent of Code problems. Most of
+the problems were easy - the second part of each problem usually being slightly
+harder. I needed a couple of hints to get me through a couple of the problems
+when I felt I was missing a piece of the puzzle but I only did that twice - for
+problems 13b and 22b. However, for problem 19b I refused to cheat and pushed
+through until I got to the solution.
 
 <!--more-->
 
