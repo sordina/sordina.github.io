@@ -12,6 +12,8 @@ when I felt I was missing a piece of the puzzle but I only did that twice
 - for problems 13b and 22b. However, for problem 19b I refused to cheat
 and pushed through until I got to the solution.
 
+<!--more-->
+
 To recap - the challenge of Problem 19 is:
 
 * Read input formatted into a rules section and a set of candidate lines.
@@ -111,7 +113,7 @@ This now enabled the exact solution I was looking for:
 
 ```haskell
 day19b
-    = show . length -- (\x -> map drawTree x ++ [show $ length x])
+    = (\x -> map drawTree x ++ [show $ length x])
     . map (fst . head)
     . filter (not . null)
     . (\(s,p) -> map (parseString p) s)
@@ -151,3 +153,6 @@ There are drawbacks with this approach, mainly performance and error reporting,
 however in this scenario and others like it, it's very hard to beat the readability.
 
 You can see my solutions [here](https://github.com/sordina/advent2020#advent-of-code-2020-solutions) on Github.
+
+<img src="/images/19b/tree.png" class="image" />
+
