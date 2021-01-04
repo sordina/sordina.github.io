@@ -2,7 +2,7 @@
 layout: post
 title: "Advent of Code Problem 19b - Nondeterministic parsing with Yoctoparsec"
 categories: blog
-reddit: "TODO"
+reddit: "https://new.reddit.com/r/sordina/comments/kq59yd/advent_of_code_problem_19b_nondeterministic/"
 ---
 
 This year I took some time to solve the 2020 Advent of Code problems. Most of
