@@ -147,10 +147,15 @@ but extends the power via full non-determinism to allow for backtracking wheneve
 the parser fails but other alternative paths still exist.
 
 I was and am very happy with this and it allowed me to move on with the other
-puzzles.
-
-There are drawbacks with this approach, mainly performance and error reporting,
+puzzles. There are drawbacks with this approach, mainly performance and error reporting,
 however in this scenario and others like it, it's very hard to beat the readability.
+
+I think I'll use Yoctoparsec again for sketching purposes where speed and error reporting
+aren't as important as getting a parser up and running quickly. To help with that there
+are some libraries that export abstract parser combinators such as
+[parser-combinators](https://hackage.haskell.org/package/parser-combinators). This greatly
+extends the functionality of Yoctoparsec right out of the box.
+
 
 You can see my solutions [here](https://github.com/sordina/advent2020#advent-of-code-2020-solutions) on Github.
 
