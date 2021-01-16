@@ -82,6 +82,8 @@ A truly tiny (thus the pun in the name) variant of the Parsec family described a
 
 > A monadic parsing library making use of the free monad transformer. All instances are provided by the FreeT monad.
 
+*(Pointed out [on Reddit](https://www.reddit.com/r/haskell/comments/ky37gf/advent_of_code_problem_19b_nondeterministic/gjfn0jx/) - [Text.ParserCombinators.ReadP](https://hackage.haskell.org/package/base-4.14.1.0/docs/Text-ParserCombinators-ReadP.html) from `base` also provides a non-deterministic parser)*
+
 I need to stress just how tiny this library is and to do that, here is the entire source-code (sans comments):
 
 ```haskell
