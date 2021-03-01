@@ -2,7 +2,7 @@
 layout: post
 title:  "Hierarchy of Acts"
 categories: blog
-reddit: "https://new.reddit.com/r/sordina/comments/fdsbq2/hierarchy_of_acts_bows_and_arrows/"
+reddit: "https://www.reddit.com/r/sordina/comments/fdsbq2/hierarchy_of_acts_bows_and_arrows/"
 image: "/images/acts/fire.png"
 ---
 

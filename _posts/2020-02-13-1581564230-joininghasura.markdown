@@ -2,7 +2,7 @@
 layout: post
 title:  "Leaving Silverpond and Joining Hasura"
 categories: blog
-reddit: "https://new.reddit.com/r/sordina/comments/f33qa9/leaving_silverpond_and_joining_hasura_bows_and/"
+reddit: "https://www.reddit.com/r/sordina/comments/f33qa9/leaving_silverpond_and_joining_hasura_bows_and/"
 ---
 
 It's no longer a secret - I'm leaving Silverpond.

@@ -2,7 +2,7 @@
 layout: post
 title: "Simple Daily Productivity Algorithm"
 categories: blog
-reddit: "https://new.reddit.com/r/sordina/comments/j5vvg6/simple_daily_productivity_algorithm_bows_and/"
+reddit: "https://www.reddit.com/r/sordina/comments/j5vvg6/simple_daily_productivity_algorithm_bows_and/"
 ---
 
 # Simple Productivity Algorithm on a Daily Scale

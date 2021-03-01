@@ -2,7 +2,7 @@
 layout: post
 title:  "Abstract Virtues"
 categories: blog
-reddit: "https://new.reddit.com/r/sordina/comments/i548eq/abstract_virtues_bows_and_arrows/"
+reddit: "https://www.reddit.com/r/sordina/comments/i548eq/abstract_virtues_bows_and_arrows/"
 image: "/images/abstract-ethics/ring.png"
 ---
 
