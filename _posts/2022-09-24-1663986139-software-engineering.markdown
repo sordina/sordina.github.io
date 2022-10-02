@@ -2,7 +2,7 @@
 layout: post
 title: "What is Software Engineering?"
 categories: blog
-reddit: "https://www.reddit.com/r/sordina/comments/TODO"
+reddit: "https://www.reddit.com/r/sordina/comments/xth3qa/what_is_software_engineering_bows_and_arrows/"
 ---
 
 You might think that the term engineering is derived from engine.
