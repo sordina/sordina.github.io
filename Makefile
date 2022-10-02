@@ -8,6 +8,11 @@ help:
 
 .PHONY: serve
 serve:
+	@echo ""
+	@echo ""
+	@echo "Spinning up on http://localhost:4000"
+	@echo ""
+	@echo ""
 	docker-compose up blog
 
 new-post:
