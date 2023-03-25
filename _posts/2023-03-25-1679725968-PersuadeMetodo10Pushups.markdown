@@ -11,6 +11,9 @@ A small dialog with ChatGPT.
 <p><strong>User: </strong>convince me to do 10 pushups</p>
 <p><strong>ChatGPT: </strong><p>There are numerous benefits to doing push-ups, and here are a few reasons why you should consider doing 10 push-ups:</p>
 <p><strong>ChatGPT: </strong><p>Strengthens your upper body: Push-ups work your chest, shoulders, triceps, and core muscles. By doing 10 push-ups, you will be able to tone and strengthen your upper body muscles.</p>
+
+<!--more-->
+
 <p><strong>ChatGPT: </strong><p>Increases Endurance: Push-ups are an excellent exercise for building endurance. By doing 10 push-ups regularly, you will improve your stamina, and eventually, you will be able to do more push-ups with ease.</p>
 <p><strong>ChatGPT: </strong><p>Boosts Metabolism: Push-ups are a compound exercise, meaning they work multiple muscle groups simultaneously. This type of exercise is great for increasing your metabolism, which can help you burn calories and lose weight.</p>
 <p><strong>ChatGPT: </strong><p>Can be done anywhere: One of the best things about push-ups is that you can do them anywhere. You don't need any equipment, and you can do them in the comfort of your own home, at the gym, or even outdoors.</p>
