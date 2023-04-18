@@ -52,7 +52,7 @@ makes it move along with some trade-offs -
 * It consumes fuel
 
 Of all these items, the fuel is the most interesting. Fuel rebalances the
-trade-offs. It moves them from the physical engine in to liquid commodity form.
+trade-offs. It moves them from the physical engine to liquid commodity form.
 Not only does it reduce every downside of the engine, but is also fungible
 between many different engines. Like feed for working animals.
 
