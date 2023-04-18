@@ -97,7 +97,7 @@ Adaptation and Growth is Movement.
 ### Code is Fuel or The Commodity of Code
 
 As a sponsor of a software-engineering effort you hope that you can buy code
-like you would buy fuel. Cheap, available, and reliable. I great deal of the
+like you would buy fuel. Cheap, available, and reliable. A great deal of the
 conceit of modern software development is pretending that this is the case.
 On its own it is not. Some processes like budgeting, agile, scoping, etc. may
 help but they aren't a solution of themselves, just optimisations.
