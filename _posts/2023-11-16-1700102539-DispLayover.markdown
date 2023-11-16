@@ -124,11 +124,11 @@ This was a lot of fun, and generates really "Blobby Blobs" when using (roughly) 
 
 ## WTF
 
-So with all of this done and tested I published to the App store... After approval, I found that the app was ranked 20 in productivity apps. WTF!
+So with all of this done and tested I published to the App store... The next day I found that the app was ranked 20 in productivity apps. WTF!
 
 ![](/images/displayover/store-ranking.png)
 
-This was definitely unexpected. I'm still not sure what if anything this means, but I'm now wishing I did more testing!
+This was... unexpected. I'm still not sure what if anything this means, but I'm now wishing I did more testing!
 
 
 ## What about the future?
