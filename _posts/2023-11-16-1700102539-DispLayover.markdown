@@ -12,7 +12,7 @@ Scratching your own itch for fun and profit!
 * [DispLayover on the Apple App Store](https://apps.apple.com/au/app/displayover/id6471848731?mt=12)
 * [DispLayover on Github](https://github.com/rensorapps/displayover/tree/main#-displayover)
 
-[ ![](/images/displayover/282210086-a3e648e8-4b3d-4aea-b7e6-eb548e29d314.png)  ](https://apps.apple.com/au/app/displayover/id6471848731?mt=12)
+![](/images/displayover/displayover-shot.png)
 
 
 <!--more-->
