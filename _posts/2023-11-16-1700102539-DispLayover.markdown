@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "DispLayover"
+title: "DispLayover - Side Project Ranked 20 on the App Store*"
 categories: blog
 reddit: false
 ---
+
+<em>* In the productivity category... And I still don't know exactly what this means...</em>
 
 Scratching your own itch for fun and profit!
 
