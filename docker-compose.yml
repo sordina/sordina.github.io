@@ -21,7 +21,18 @@ services:
     entrypoint:
       - 'sh'
       - '-c'
-      - '[ "$$NEW_POST" ] && read -p "New Blog-Post Title: " title && echo `date +/blog/_posts/%Y-%m-%d-%s-$$(echo "$$title" | sed "s/[^a-zA-Z0-9]//g").markdown` | tee /dev/stderr | xargs touch'
+      - |
+          [ "$$NEW_POST" ] || exit 1
+          read -p "New Blog-Post Title: " title
+          [ "$$title" ] || exit 1
+          filename=$$( echo `date +/blog/_posts/%Y-%m-%d-%s-$$(echo "$$title" | sed "s/[^a-zA-Z0-9]//g").markdown`)
+          echo "$$filename"
+          echo "---"                 > "$$filename"
+          echo "layout: post"       >> "$$filename"
+          echo "title: \"$$title\"" >> "$$filename"
+          echo "categories: blog"   >> "$$filename"
+          echo "reddit: false"      >> "$$filename"
+          echo "---"                >> "$$filename"
     stdin_open: true
     tty: true
 

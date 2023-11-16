@@ -16,4 +16,5 @@ serve:
 	docker-compose up blog
 
 new-post:
-	docker-compose run -e NEW_POST=t new-post | sed 's#/blog/##'
+	docker-compose run -e NEW_POST=t new-post
+
