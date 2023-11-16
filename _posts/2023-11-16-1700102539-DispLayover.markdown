@@ -30,7 +30,7 @@ I had used up my long form videos so all my videos were now 5minutes maximum. I 
 
 Even with these limitations adding up I was okay with the situation, that is, until I hit the final straw.
 
-I was scheduled to present at a community event but since it was in another timezone I pre-recorded my presentation on Loom for the community manager to compile with other recording into the final presentation. I'd done this in the past, but this time, I found that the "Download" option was no longer available and the work that I'd done on my presentation couldn't be compiled. I'd have to re-record with another tool. This was very disheartening.
+I was scheduled to present at a community event but since it was in another timezone I pre-recorded my presentation on Loom for the community manager to compile with other recordings into the final presentation. I'd done this in the past, but this time, I found that the "Download" option was no longer available and the work that I'd done on my presentation couldn't be compiled. I'd have to re-record with another tool. This was very disheartening.
 
 So with this wakeup call, I decided to evaluate what I liked about Loom and see what could be done in other ways:
 
@@ -55,7 +55,7 @@ This means the two big missing pieces were:
 * No instant sharing - I'd just put up with this and gain flexibility of hosting
 * No circle camera preview - Call me shallow, but when that circle pops up in a thumbnail and when watching a screencast it elevates it to seem more unique and professional.
 
-Could I replicate this somehow?
+Could I replicate the circle preview somehow? If I could make a standalone app with this function then the unique presentation aesthetic would no longer be coupled to any particular recording software.
 
 
 ## Can it be done?
