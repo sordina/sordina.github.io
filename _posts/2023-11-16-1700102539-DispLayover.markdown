@@ -79,7 +79,7 @@ There were [several things](https://github.com/rensorapps/displayover/issues?q=i
 
 Once these were done, if I was happy I'd share it via the [RenSor Apple App Store account](https://apps.apple.com/au/developer/rensor/id1690772447).
 
-Of course the must fun to be had here was designing the overlay shapes!
+Of course the most fun to be had here was designing the overlay shapes!
 
 ![](/images/displayover/shapes.png)
 
