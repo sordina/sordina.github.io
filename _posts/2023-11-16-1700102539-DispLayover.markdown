@@ -1,6 +1,6 @@
 ---
-layout: post
 title: "DispLayover - Side Project Ranked 20 on the App Store*"
+layout: post
 categories: blog
 reddit: false
 ---

@@ -2,16 +2,18 @@
 version: "3.7"
 services:
   blog:
-    build: .
+    # build: .
+    # docker run -it --rm -v "$PWD":/usr/src/app -p "4000:4000" starefossen/github-pages
+    image: starefossen/github-pages
     volumes:
-      - ./:/blog
+      - ./:/usr/src/app
     ports:
       - 4000:4000
-    command:
-      - jekyll
-      - serve
-      - --watch
-      - --host=0.0.0.0
+    # command:
+    #   - jekyll
+    #   - serve
+    #   - --watch
+    #   - --host=0.0.0.0
 
   new-post:
     image: alpine

@@ -2,7 +2,7 @@
 <html>
   <head>
     <title>
-      {% if page.title %} {{page.title}} ~ {{ site.title | strip_html }}
+      {% if page.title %} {{ page.title }} ~ {{ site.title | strip_html }}
       {% else          %} {{ site.title | strip_html }} ~ {{ site.description | strip_html }}
       {% endif         %}
     </title>
@@ -31,7 +31,6 @@
   </head>
 
   <body id="top">
-
       <header id="header">
           <!-- http://thumbs.dreamstime.com/t/bow-arrow-vector-illustration-eps-40886930.jpg -->
           <a href="/" class="image avatar"><img src="/images/avatar.png" alt="" /></a>
