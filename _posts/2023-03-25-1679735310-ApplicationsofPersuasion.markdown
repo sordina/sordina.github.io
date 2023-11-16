@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Applications of Persuasion - A Heart Shaped Box"
+title: "Applications of Persuasion - A Heart Shaped Box [DRAFT]"
 categories: blog
 reddit: false
 draft: true

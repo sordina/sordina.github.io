@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Persuade Me to do 10 Pushups"
+title: "Persuade Me to do 10 Pushups [DRAFT]"
 categories: blog
 reddit: "https://www.reddit.com/r/sordina/comments/121fhjl/persuade_me_to_do_10_pushups_bows_and_arrows/"
 ---
