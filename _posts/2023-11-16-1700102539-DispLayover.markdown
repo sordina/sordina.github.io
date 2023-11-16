@@ -2,7 +2,7 @@
 title: "DispLayover - Side Project Ranked 20 on the App Store*"
 layout: post
 categories: blog
-reddit: false
+reddit: "https://www.reddit.com/r/sordina/comments/17x1739/displayover_side_project_ranked_20_on_the_app/"
 ---
 
 <em>* In the paid productivity apps category... And I still don't know exactly what this means...</em>
